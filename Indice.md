@@ -1,0 +1,27 @@
+Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dettato dai lucidi del professor Vidoni.
+# I Statistica Descrittiva
+[[Variabili]]
+[[Frequenze assolute]]
+[[Classi di modalità]]
+[[Frequenze Relative]]
+[[Frequenze Cumulate]]
+[[Grafici]]
+[[Boxplot]]
+[[Indici Sintetici - Introduzione]]
+[[Media Aritmetica]]
+[[Mediana]]
+[[Quantili]]
+[[Moda]]
+[[Indici di Variabilità - Introduzione]]
+[[Campo di Variazione]]
+[[Scarto Interquartilico]]
+[[Varianza]]
+[[Coefficiente di Variazione]]
+[[Simmetria]]
+[[Indice di Simmetria]]
+[[Curtosi]]
+[[Indice di Curtosi]]
+
+# VI Modelli
+[[6.0 Introduzione ai Modelli]]
+[[6.1 Modello uniforme discreto]]

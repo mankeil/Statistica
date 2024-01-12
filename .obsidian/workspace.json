@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "05b26fa7131cb6fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fabe4d594bc6c28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d8e4bfbbe174d0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875e72ffc8a330aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "622fceea7a93a512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c459c9088e476ab0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77a9f919f5e50f8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#completed",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a6e37e87b1f33b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "045c581cf12646b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca59036b75924bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd82ac3124267e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49a5588afce5e942",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc8f58066a856761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a93bc4bd3e7df4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "f5d8e4bfbbe174d0",
+  "lastOpenFiles": [
+    "Glossario/Distribuzione di Probabilità.md",
+    "Statistica Descrittiva/Media Aritmetica.md",
+    "Statistica Descrittiva/Indici Sintetici - Introduzione.md",
+    "Indice.md",
+    "Scarto Interquartilico.md",
+    "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
+    "Statistica Descrittiva/Frequenze Cumulate.md",
+    "Statistica Descrittiva/Frequenze assolute.md",
+    "Statistica Descrittiva/Classi di modalità.md",
+    "Statistica Descrittiva/Frequenze Relative.md",
+    "Statistica Descrittiva/Grafici.md",
+    "Statistica Descrittiva/Variabili.md",
+    "Untitled.canvas",
+    "Pasted image 20240112012348.png",
+    "Lucidi & materiale/OpenIntro Statistics.pdf",
+    "Glossario/modalità.md",
+    "Glossario/Probabilità.md",
+    "Glossario/Funzione di Densità.md",
+    "Untitled",
+    "imgs/Pasted image 20240110025450.png",
+    "imgs/Pasted image 20240110022543.png",
+    "imgs",
+    "Statistica Descrittiva/Indice di Posizione.md",
+    "Statistica Descrittiva"
+  ]
+}
