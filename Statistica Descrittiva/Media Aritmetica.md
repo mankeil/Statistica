@@ -1,14 +1,26 @@
-La media aritmetica, che è l'[[Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] più noto, si può calcolare per una variabile quantitativa $Y$ e si indica con $E(Y )$, con $\mu Y$ o semplicemente con $\mu$. 
+La media aritmetica, che è l'[[Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] più noto, si può calcolare per una [[Variabili#Variabili quantitative (numeriche)|variabile quantitativa]] $Y$ e si indica con $E(Y)$, con $\mu Y$ o semplicemente con $\mu$. 
 
-**Esempio.** 
-Sia $Y = (27, 30, 30)$ la [[Variabili#Variabili statistiche|variabile statistica]] che descrive i voti riportati in tre esami da uno studente. La media aritmetica dei voti è $μY = (27 + 30 + 30)/3 = 29$. Si noti che 29 non corrisponde a nessuno dei voti ottenuti.
-Se $Y = (28, 30, 30)$, allora $μY = (28 + 30 + 30)/3 = 29.3$, che non corrisponde a nessuna potenziale modalità per $Y$ . 
-
+>[!example] **Esempio:** 
+Sia $Y = (27, 30, 30)$ la [[Variabili#Variabili statistiche|variabile statistica]] che descrive i voti riportati in tre esami da uno studente. La media aritmetica dei voti è $\mu Y = (27 + 30 + 30)/3 = 29$. Si noti che 29 non corrisponde a nessuno dei voti ottenuti.
+Se $Y = (28, 30, 30)$, allora $\mu Y = (28 + 30 + 30)/3 = 29.3$, che non corrisponde a nessuna potenziale modalità per $Y$ . 
+>
 In entrambi i casi la media sintetizza i valori osservati indicandone un centro. 
 
 Se si dispone dei dati grezzi $y_1,...,y_n$ allora
 $$ E(Y) = \frac{1}{n} \sum^n_{i=1}y_i$$
-Se, con riferimento ad una [[Variabili#^a1fa07|variabile quantitativa discreta]] $Y$ , si dispone della tabella di [[Frequenze assolute|frequenza assoluta]] o [[Frequenze Relative|relativa]] con [[Classi di modalità|modalità raggruppate in classi]], (ad esempio $y_{j−1} \vdash y_j,\  j = 1, . . . , J$), si calcola il punto centrale $$y^c_j = (y_j−1 + y_j )/2,\ j = 1, . . . , J$$delle singole classi e
+Se, con riferimento ad una [[Variabili#^a1fa07|variabile quantitativa discreta]] $Y$ , si dispone della tabella di [[Frequenze assolute|frequenza assoluta]] o [[Frequenze Relative|relativa]] allora
+
+$$E(Y) = \frac{1}{n} \sum^J_{j=1} y_j f_j = \sum^J_{j=1} y_j p_j$$
+
+>[!example] **Esempio:**
+Si consideri la seguente tabella di frequenza
+>
+>| $y_j$ | 0 | 1 | 2 | 3 | 4 | Totale |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| $f_j$ | 109 | 65 | 22 | 3 | 1 | 200 |
+È immediato concludere che $E(Y) = 122 \div 200 = 0.61$.
+
+Se, con riferimento ad una [[Variabili#^3cc28d|variabile quantitativa continua]] $Y$, si dispone della tabella di frequenza assoluta o relativa con [[Classi di modalità|modalità raggruppate in classi]], (ad esempio $y_{j−1} \vdash y_j,\  j = 1, . . . , J$), si calcola il punto centrale delle singole classi $$y^c_j = (y_{j−1} + y_j ) \div 2,\ j = 1, . . . , J$$ e
 $$ E(Y)= \frac{1}{n} \sum^J_{j=1}y_j^c f_j = \sum^J_{j=1}y^c_j p_j$$
 Se ci sono classi aperte, il punto centrale viene individuato dopo aver convenientemente "chiuso la classe". 
 
@@ -16,8 +28,18 @@ Questa procedura approssimata per il calcolo di $E(Y)$ è equivalente a quella c
 * Le osservazioni che cadono in una classe coincidono con il punto centrale della classe;
 * Le osservazioni sono distribuite in modo uniforme nella classe di appartenenza.
 
+>[!example] **Esempio:**
+Si consideri la seguente tabella di frequenza con modalità raggruppate in classi
+>
+| Classe | $0 \dashv 10$ | $10 \vdash 15$ | $15 \dashv 20$ | Totale |
+| ---- | ---- | ---- | ---- | ---- |
+| [[Frequenze Relative\|freq. rel.]] | 0.30 | 0.52 | 0.18 | 1 |
+I valori centrali delle classi sono, rispettivamente, $y^c_1 = 5$, $y^c_2=12.5$ e $y^c_3=17.5$, da cui si conclude che
+$$E(Y) = \frac{1}{1} \sum^3_{j=1} y^c_j p_j =$$ 
+$$ 1 \cdot 5 \cdot 0.30 + 12.5 \cdot 0.52 + 17.5 \cdot 0.18 = 11.15$$
+
 Non è detto che $E(Y)$ coincida con una delle modalità osservate o osservabili.
-Può essere vista anche come il valore di equiripartizione sulle unità statistiche del totale delle osservazioni. 
+Può essere vista anche come il [[valore di equiripartizione]] sulle unità statistiche del totale delle osservazioni. 
 
 La media aritmetica risente della presenza di osservazioni anomale o estreme (non è un indice robusto). Esistono altre tipologie di medie, che non vengono considerate in questa sede.
 
@@ -48,6 +70,7 @@ Riferimenti:
 
 #todo
 #statistica_descrittiva 
+#analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_posizione

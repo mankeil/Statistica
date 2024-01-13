@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fabe4d594bc6c28e",
+        "id": "d99b9a0cb66e80b0",
         "type": "tabs",
+        "dimension": 37.06434316353888,
         "children": [
           {
-            "id": "f5d8e4bfbbe174d0",
+            "id": "974bdf5aafd5927c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistica Descrittiva/Media Aritmetica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4f23e211fde0278",
+        "type": "tabs",
+        "dimension": 62.93565683646113,
+        "children": [
+          {
+            "id": "b32f9152d68c5c14",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -46,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#completed",
+                "query": "esempio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "045c581cf12646b7",
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
+                "file": "Statistica Descrittiva/Media Aritmetica.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
+                "file": "Statistica Descrittiva/Media Aritmetica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lucidi & materiale/2_Statdescr_Univ_L2.pdf"
+                "file": "Statistica Descrittiva/Media Aritmetica.md"
               }
             }
           }
@@ -144,24 +165,26 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "f5d8e4bfbbe174d0",
+  "active": "974bdf5aafd5927c",
   "lastOpenFiles": [
-    "Glossario/Distribuzione di Probabilità.md",
-    "Statistica Descrittiva/Media Aritmetica.md",
     "Statistica Descrittiva/Indici Sintetici - Introduzione.md",
-    "Indice.md",
-    "Scarto Interquartilico.md",
     "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
-    "Statistica Descrittiva/Frequenze Cumulate.md",
+    "Statistica Descrittiva/Media Aritmetica.md",
+    "Indice.md",
     "Statistica Descrittiva/Frequenze assolute.md",
+    "Statistica Descrittiva/Variabili.md",
     "Statistica Descrittiva/Classi di modalità.md",
     "Statistica Descrittiva/Frequenze Relative.md",
+    "variabile quantitativa.md",
+    "6 Modelli/6.0 Introduzione ai Modelli.md",
     "Statistica Descrittiva/Grafici.md",
-    "Statistica Descrittiva/Variabili.md",
+    "Statistica Descrittiva/Frequenze Cumulate.md",
+    "Glossario/modalità.md",
+    "Glossario/Distribuzione di Probabilità.md",
+    "Scarto Interquartilico.md",
     "Untitled.canvas",
     "Pasted image 20240112012348.png",
     "Lucidi & materiale/OpenIntro Statistics.pdf",
-    "Glossario/modalità.md",
     "Glossario/Probabilità.md",
     "Glossario/Funzione di Densità.md",
     "Untitled",

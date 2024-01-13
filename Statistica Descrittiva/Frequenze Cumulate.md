@@ -12,5 +12,6 @@ $$F_j=\sum^j_{i=1} f_i, \ P_j= \sum^j_{i=1}p_i, \ j=1,...,J$$
 Evidentemente, $F_1 = f_1,\ F_J = n,\ P_1=p_1,\ P_J=1$.
 
 #statistica_descrittiva 
+#analisi_univariate
 #ppt-2 
 #frequenze

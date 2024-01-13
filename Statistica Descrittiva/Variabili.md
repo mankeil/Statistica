@@ -29,7 +29,7 @@ La variabile "Reddito" invece è su scala di rapporti. In questo caso ha senso a
 
 La variabile $Y$ viene rilevata su una popolazione (campione) costituita da n unità e si ottiene una successione di modalità osservate $(y_1, . . . , y_i, . . . , y_n)$, dove $y_i, i = 1, . . . , n$, è il valore assunto da $Y$ con riferimento all'unità i-esima. 
 
-È utile distinguere tra variabile e risultato della sua rilevazione sulla popolazione (campione). Si definisce <u><b>variabile statistica</b></u> la rilevazione $(y_1, . . . , y_i, . . . , y_n)$ di una certa variabile Y su una determinata popolazione (campione).
+È utile distinguere tra variabile e risultato della sua rilevazione sulla popolazione (campione). Si definisce **variabile statistica** la rilevazione $(y_1, . . . , y_i, . . . , y_n)$ di una certa variabile Y su una determinata popolazione (campione).
 È una colonna della matrice dei dati. La stessa variabile rilevata su popolazioni (campioni) diverse dà luogo, in genere, a variabili statistiche differenti. 
 Si usa il simbolo $Y$ per indicare anche la variabile statistica.
 
@@ -68,5 +68,6 @@ $Y = (28, 17, 20, 32, 16, 34, 18, 25)$ con $n=8$.
 Con riferimento alla variabile $Y$ = "Età" il supporto è $S_Y = \{16, 17, 18, 20, 25, 28, 32, 34\}$ mentre $Y = \{0, 1, 2, ...\}$.
 
 #statistica_descrittiva
+#analisi_univariate
 #ppt-2
 #variabili 

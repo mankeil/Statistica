@@ -20,8 +20,9 @@ La lista delle modalità osservate accompagnate dalle rispettive frequenze assol
 | ---- | ---- | ---- |
 | Frequenza | $f_1 \cdots f_j \cdots f_J$ | $\sum^J_{j=1}f_j$ |
 
-Esempio, facendo rifermento alla [[Variabili#^793ba3|matrice]]:
-
+>[!example] **Esempio:**
+facendo rifermento alla [[Variabili#^793ba3|matrice vista in precedenza]]:
+>
 | Liv. di istruz. | frequenza |
 | ---- | ---- |
 | Scuola obbligo | 2 |
@@ -38,5 +39,6 @@ Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=17&selection=6,4,10,18|Lucido]]
 
 #statistica_descrittiva 
+#analisi_univariate
 #ppt-2 
 #frequenze 

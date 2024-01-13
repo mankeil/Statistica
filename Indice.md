@@ -1,5 +1,6 @@
 Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dettato dai lucidi del professor Vidoni.
 # I Statistica Descrittiva
+## I-1 Analisi Univariate
 [[Variabili]]
 [[Frequenze assolute]]
 [[Classi di modalità]]
@@ -21,6 +22,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Indice di Simmetria]]
 [[Curtosi]]
 [[Indice di Curtosi]]
+## I-2 Analisi Multivariate
 
 # VI Modelli
 [[6.0 Introduzione ai Modelli]]
