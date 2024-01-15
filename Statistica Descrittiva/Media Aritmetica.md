@@ -8,7 +8,7 @@ In entrambi i casi la media sintetizza i valori osservati indicandone un centro.
 
 Se si dispone dei dati grezzi $y_1,...,y_n$ allora
 $$ E(Y) = \frac{1}{n} \sum^n_{i=1}y_i$$
-Se, con riferimento ad una [[Variabili#^a1fa07|variabile quantitativa discreta]] $Y$ , si dispone della tabella di [[Frequenze assolute|frequenza assoluta]] o [[Frequenze Relative|relativa]] allora
+Se, con riferimento ad una [[Variabili#^a1fa07|variabile quantitativa discreta]] $Y$ , si dispone della tabella di [[Frequenze Assolute|frequenza assoluta]] o [[Frequenze Relative|relativa]] allora
 
 $$E(Y) = \frac{1}{n} \sum^J_{j=1} y_j f_j = \sum^J_{j=1} y_j p_j$$
 
@@ -46,29 +46,24 @@ La media aritmetica risente della presenza di osservazioni anomale o estreme (no
 ### Proprietà
 La media aritmetica soddisfa le seguenti proprietà:
 * **Proprietà di Cauchy**: 
-  Sia $S_Y = {y_1, . . . , y_J}$, con $y_1 < · · · < y_J$ , allora 
-  $$ y_1 \le E(Y) \le y_J$$
+  Sia $S_Y = {y_1, . . . , y_J}$, con $y_1 < · · · < y_J$ , allora $$ y_1 \le E(Y) \le y_J$$
   La media è compresa tra il più piccolo e il più grande valore osservato.
   Infatti, per ogni $j = 1,...,J$
-  $$y_1 \le y_j \le y_J \ \Rightarrow \ y_1p_j \lt y_jp_j \lt y_Jp_j \ \Rightarrow$$
+$$y_1 \le y_j \le y_J \ \Rightarrow \ y_1p_j \lt y_jp_j \lt y_Jp_j \ \Rightarrow$$
   $$ \sum^J_{j=1}y_1p_j \le \sum^J_{j=1}y_jp_j \le \sum^{J}_{j=1}y_Jpj \Rightarrow $$
   $$ y_1 \sum^J_{j=1}p_j \le \sum^J_{j=1}y_jp_j \le y_J \sum^J_{j=1}p_j $$
   da cui si ottiene la tesi, poiché $\sum^J_{j=1}p_j = 1$
 * **Proprietà di baricentro**: 
-  Sia $Y - E(Y)$ la variabile scarto $Y$ dalla sua media $E(Y)$, allora
-  $$E(Y-E(Y)) = 0$$
-  Infatti, considerando i dati grezzi e le modalità osservate $y_i - E(Y)$, $j = 1,...,J$, della variabile $Y-E(Y)$, 
+  Sia $Y - E(Y)$ la variabile scarto $Y$ dalla sua media $E(Y)$, allora $$E(Y-E(Y)) = 0$$Infatti, considerando i dati grezzi e le modalità osservate $y_i - E(Y)$, $j = 1,...,J$, della variabile $Y-E(Y)$, 
   $$ E(Y-E(Y)) = \frac{1}{n} \sum^n_{i=1}(y_i-E(Y)) = \frac{1}{n} \sum^n_{i=1}y_i - \frac{1}{n} \sum^n_{i=n}E(Y) = $$
   $$ = E(Y) - \frac{1}{n}nE(Y)=0$$
 * **Proprietà di linearità:** 
-  Sia $aY + b,\ a,\ b \in R$, una trasformata lineare della variabile $Y$ , allora
-  $$E(aY+b) = aE(Y)+b$$
+  Sia $aY + b,\ a,\ b \in R$, una trasformata lineare della variabile $Y$ , allora $$E(aY+b) = aE(Y)+b$$
   Infatti, considerando i dati grezzi e le modalità osservate $ay_i + b,\ j= 1,...,J$, della variabile $aY+b$,$$E(aY+b) = \frac{1}{n}\sum^n_{i=1}(ay_i+b)=\frac{1}{n}\sum^n_{i=1} + \frac{1}{n} \sum^n_{i=1}b =$$$$ = a \frac{1}{n} \sum^n_{i=1}y_i + \frac{1}{n} nb = aE(Y)+b$$
 ---
 Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=60&selection=10,0,10,37|Lucido]]
 
-#todo
 #statistica_descrittiva 
 #analisi_univariate
 #ppt-2 

@@ -14,7 +14,7 @@ Se $y_j \in S_Y, j = 1, ..., J$, è una delle modalità osservate di $Y$, si dic
 Si indica con $f_j$. 
 Evidentemente, $f_j \gt 0, j=1,...,J$[^1], e $\sum^J_{j=1} f_j=n$[^2] 
 
-La lista delle modalità osservate accompagnate dalle rispettive frequenze assolute è detta distribuzione di frequenza assoluta e si rappresenta con una tabella di frequenza del tipo
+La lista delle modalità osservate accompagnate dalle rispettive frequenze assolute è detta distribuzione di frequenza assoluta e si rappresenta con una tabella di frequenza del tipo ^e17411
 
 | Modalità | $y_1 \cdots y_j \cdots y_J$ | Totale |
 | ---- | ---- | ---- |

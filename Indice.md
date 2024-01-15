@@ -2,7 +2,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 # I Statistica Descrittiva
 ## I-1 Analisi Univariate
 [[Variabili]]
-[[Frequenze assolute]]
+[[Frequenze Assolute]]
 [[Classi di modalità]]
 [[Frequenze Relative]]
 [[Frequenze Cumulate]]
@@ -24,6 +24,22 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Indice di Curtosi]]
 ## I-2 Analisi Multivariate
 
-# VI Modelli
+# II Calcolo delle Probabilità
+
+## II-1 Probabilità Elementare
+
+## II-2 Variabili Casuali
+
+## II-3 Modelli Probabilistici
 [[6.0 Introduzione ai Modelli]]
 [[6.1 Modello uniforme discreto]]
+
+# III Inferenza Statistica
+
+## III-1 Statistiche Campionarie
+
+## III-2 Stime
+
+## III-3 Verifica delle Ipotesi
+
+## III-4 Modello di Regressione Lineare
