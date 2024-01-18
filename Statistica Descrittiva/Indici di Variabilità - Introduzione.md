@@ -15,7 +15,8 @@ Si calcolano alcuni valori di sintesi
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | A | 14.44 | 14.87 | 15.00 | 15.00 | 15.14 | 15.64 |
 | B | 13.83 | 14.83 | 15.02 | 15.02 | 15.22 | 15.80 |
-$y_{0.25}$ : [[Quantili|quantile]] con $\alpha = 0.25$ 
+>
+$y_{0.25}$ : [[Quantili|quantile]] con $\alpha = 0.25$, inoltre il quantile $y_{0.5}$ corrisponde alla [[mediana]]
 $\mu$  : [[Media Aritmetica|media aritmetica]]
 >
 Entrambi i dispositivi sembrano tarati allo stesso modo, poiché forniscono valori centrati sul valore di 15 g/min.
@@ -47,7 +48,7 @@ Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=94&selection=10,0,10,21|Lucido]]
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_variabilità

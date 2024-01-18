@@ -17,7 +17,7 @@ Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=98&selection=1,1,10,42|Lucido]]
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_variabilità 

@@ -2,5 +2,10 @@
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 16,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "customCallout"
+  ]
 }

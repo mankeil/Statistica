@@ -35,7 +35,7 @@ Con riferimento alla [[Variabili#^793ba3|matrice vista in precedenza]], si ricav
 [^1]: [ ] si pone quando l'estremo dell'intervallo accanto ad essa è compreso nell'intervallo, mentre la ( ) quando l'estremo non è compreso.
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #frequenze 
 #variabili

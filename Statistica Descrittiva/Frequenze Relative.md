@@ -15,6 +15,6 @@ Se $S_Y = {y_1}$, allora $J = 1,\ f_1 = n,\ p_1 = 1$ e la [[Variabili#Variabili 
 [^1]: Dove $f_j$ è la frequenza assoluta di $y_j$, e $n$ il numero di osservazioni.
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #frequenze 

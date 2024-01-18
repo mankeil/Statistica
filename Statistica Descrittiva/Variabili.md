@@ -1,5 +1,3 @@
-[[OpenIntro Statistics.pdf#page=15&selection=6,0,8,18|Pagina OpenIntro Statistics]]
-
 Una variabile è una caratteristica delle unità statistiche che, al variare dell'unità, può assumere una pluralità di valori.
 
 Le **modalità** di una variabile sono i valori che essa può assumere (e si presumono noti preliminarmente). Sono, in genere, aggettivi, valori numerici, espressioni verbali.
@@ -9,7 +7,7 @@ Le variabili si possono classificare nel seguente modo: ^01b594
 ### Variabili qualitative (categoriali)
 se le modalità sono espresse in forma verbale. 
 In particolare, si individuano: 
-* **Variabili qualitative sconnesse (nominali)**, per le quali non è possibile individuare un ordinamento naturale delle modalità (ad esempio, "Genere", "Colore degli occhi", "Religione professata"); 
+* **Variabili qualitative sconnesse (nominali)**, per le quali non è possibile individuare un ordinamento naturale delle modalità (ad esempio, "Genere", "Colore degli occhi", "Religione professata");  ^ebd89e
 * **Variabili qualitative ordinali**, per le quali è invece possibile individuare un ordinamento naturale delle modalità (ad esempio, "Livello di istruzione").  ^58fcd8
 ### Variabili quantitative (numeriche)
 se le modalità sono espresse in forma numerica (da non confondere con le codifiche numeriche).
@@ -46,9 +44,9 @@ Si noti che $J \le n$.
 Le modalità osservate, che concorrono a costituire $S_Y$, sono tra loro distinte, cioè vanno prese una volta sola anche se ripetute. 
 Nel caso di variabili qualitative ordinali e quantitative si suppone che le modalità appartenenti al supporto vengano ordinate secondo un ordine crescente: $y_1 \lt y_2 \lt ... \lt y_J$ ^3cd569
 
-### Esempi
-Con riferimento alla seguente matrice di dati:
-
+>[!example] **Esempio**
+>Con riferimento alla seguente matrice di dati:
+>
 | Unità | Genere | Età | Livistr | Dist |
 | ---- | ---- | ---- | ---- | ---- |
 | Andrea | M | 28 | 3 | 5.0 |
@@ -59,15 +57,32 @@ Con riferimento alla seguente matrice di dati:
 | Luca | M | 34 | 4 | 12.3 |
 | Aldo | M | 18 | 3 |  25.0 |
 | Arianna | F | 25 | 3 | 7.7 |
-
-^793ba3
-
+>^793ba3
+>
 Alla variabile $Y$ = "Età" corrisponde la variabile statistica
 $Y = (28, 17, 20, 32, 16, 34, 18, 25)$ con $n=8$.
-
+>
 Con riferimento alla variabile $Y$ = "Età" il supporto è $S_Y = \{16, 17, 18, 20, 25, 28, 32, 34\}$ mentre $Y = \{0, 1, 2, ...\}$.
 
+### Variabili Statistiche Standardizzate
+Una **variabile statistica** con **[[Media Aritmetica|media]] nulla** e **[[Varianza|varianza]] unitaria** è detta **standardizzata**.
+
+Dalle proprietà della media e della varianza si conclude
+* che data una variabile $Y$ , allora $Z = (Y − \mu_Y) / \sigma_Y$ è una variabile standardizzata; 
+* data una variabile $Z$ standardizzata, allora la variabile $Y = \sigma Z + \mu$ è tale che $E(Y) = \mu$ e $V(Y) = \sigma^2$. 
+A volte è utile trasformare i dati $y_1, . . . , y_n$ in modo tale che i dati trasformati $z_1, . . . , z_n$ abbiamo media nulla e varianza unitaria. La trasformazione appropriata è $z_i = (y_i − μ_Y)/\sigma_Y,\ i = 1, . . . , n$. 
+
+Con la standardizzazione dei dati possono emergere più chiaramente alcune ulteriori caratteristiche della distribuzione di frequenza, oltre la posizione e la variabilità.
+
+La standardizzazione è utile anche per confrontare e analizzare più insiemi di dati, tenendo conto che possono avere con unità di misura e livello medio diversi.
+
+***
+Riferimenti:
+[[2_Statdescr_Univ_L2.pdf#page=6&annotation=97R|2_Statdescr_Univ_L2, pagina 6]]
+[[2_Statdescr_Univ_L2.pdf#page=111&selection=10,0,25,0|2_Statdescr_Univ_L2, pagina 111]]
+[[OpenIntro Statistics.pdf#page=15&selection=6,0,8,18|Pagina OpenIntro Statistics]]
+
 #statistica_descrittiva
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2
 #variabili 

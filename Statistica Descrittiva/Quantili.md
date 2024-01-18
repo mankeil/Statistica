@@ -55,7 +55,7 @@ Riferimenti:
 [^1]: Equivale a dire $\alpha \times 100$
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_posizione

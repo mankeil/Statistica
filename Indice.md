@@ -1,13 +1,26 @@
-Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dettato dai lucidi del professor Vidoni.
+Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dettato dai lucidi del [professor Vidoni](https://people.uniud.it/page/paolo.vidoni).
 # I Statistica Descrittiva
 ## I-1 Analisi Univariate
+### Basi
 [[Variabili]]
 [[Frequenze Assolute]]
 [[Classi di modalità]]
 [[Frequenze Relative]]
 [[Frequenze Cumulate]]
-[[Grafici]]
+
+### Rappresentazioni Grafiche
+[[Rappresentazioni grafiche - Introduzione]]
+[[Diagramma Circolare]]
+[[Diagramma a Barre]]
+[[Diagramma a Bastoncini]]
+[[Istogramma]]
+[[Poligono di Frequenza]]
+[[Stima della Densità]]
+[[Funzione di Ripartizione Empirica]]
+[[Diagramma di Dispersione]]
 [[Boxplot]]
+
+### Indici Sintetici
 [[Indici Sintetici - Introduzione]]
 [[Media Aritmetica]]
 [[Mediana]]
@@ -23,6 +36,21 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Curtosi]]
 [[Indice di Curtosi]]
 ## I-2 Analisi Multivariate
+
+### Introduzione
+[[Analisi Multivariate - Introduzione]]
+[[Distribuzioni di Frequenza]]
+
+### Connessioni
+[[Studio della Dipendenza]]
+[[Tabella di Contingenza]]
+[[Indipendenza statistica]]
+[[Indice di Connessione]]
+[[Dipendenza in Media]]
+
+### Correlazione
+[[Covarianza]]
+[[Coefficiente di Correlazione Lineare]]
 
 # II Calcolo delle Probabilità
 
@@ -43,3 +71,8 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ## III-3 Verifica delle Ipotesi
 
 ## III-4 Modello di Regressione Lineare
+
+# IV Extra
+
+## IV-1 Risorse Esterne
+[[OpenIntro Statistics.pdf |Libro OpenIntro Statistics (lingua inglese)]]

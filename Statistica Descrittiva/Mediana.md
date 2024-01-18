@@ -86,7 +86,7 @@ Se si considerano le frequenze relative cumulate, $y_{0.5}=3$ è la modalità ch
 [[2_Statdescr_Univ_L2.pdf#page=70&selection=4,6,10,28|Lucido]]
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_posizione

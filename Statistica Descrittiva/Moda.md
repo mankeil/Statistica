@@ -29,7 +29,7 @@ Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=88&selection=4,9,10,25|Lucido]]
 
 #statistica_descrittiva 
-#analisi_univariate
+#statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
 #indici_di_posizione
