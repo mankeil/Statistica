@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf"
+                "file": "Indice.md"
               }
             }
           },
@@ -179,54 +179,91 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2236d817b6254ee4",
+  "floating": {
+    "id": "66b6af7b41ac90be",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bf74fc7fcfa67ca4",
+        "type": "window",
+        "children": [
+          {
+            "id": "2594dc7fa5531a0c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcad61c5872220fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Indice.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 619,
+        "y": 325,
+        "width": 801,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bcad61c5872220fa",
   "lastOpenFiles": [
-    "index.html",
-    "inedx.html",
-    "Indice.html",
-    "export/Indice.html",
-    "export/index.html",
-    "export/Statistica Descrittiva/Varianza.html",
-    "export/Statistica Descrittiva/Variabili.html",
-    "export/Statistica Descrittiva/Tabella di Contingenza.html",
-    "export/Statistica Descrittiva/Studio della Dipendenza.html",
-    "export/Statistica Descrittiva/Stima della Densità.html",
-    "export/Statistica Descrittiva/Simmetria.html",
-    "Statistica Descrittiva/Dipendenza in Media.md",
-    "Statistica Descrittiva/Diagramma di Dispersione.md",
-    "Statistica Descrittiva/Diagramma Circolare.md",
-    "Statistica Descrittiva/Diagramma a Bastoncini.md",
-    "Statistica Descrittiva/Diagramma a Barre.md",
-    "Statistica Descrittiva/Curtosi.md",
-    "Statistica Descrittiva/Covarianza.md",
-    "Statistica Descrittiva/Coefficiente di Variazione.md",
-    "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md",
-    "Statistica Descrittiva/Classi di modalità.md",
-    "Statistica Descrittiva/Campo di Variazione.md",
-    "Statistica Descrittiva/Boxplot.md",
-    "Statistica Descrittiva/Analisi Multivariate - Introduzione.md",
-    "Glossario/variabilità.md",
-    "Glossario/variabile statistica degenere.md",
-    "Glossario/serie storica.md",
-    "Glossario/serie statistica.md",
-    "Glossario/serie spaziale.md",
-    "Glossario/scarto quartilico medio.md",
-    "Glossario/Probabilità.md",
-    "Glossario/modalità.md",
-    "Glossario/Funzione di Densità.md",
-    "Glossario/Distribuzione di Probabilità.md",
-    "Glossario/distribuzione.md",
-    "Indice.md",
+    "export/lib/media/pasted-image-20240118023122.png",
+    "export/lib/media/pasted-image-20240116142355.png",
+    "export/statistica-descrittiva/coefficiente-di-correlazione-lineare.html",
+    "export/statistica-descrittiva/classi-di-modalità.html",
+    "export/lib/media/pasted-image-20240115014025.png",
+    "export/statistica-descrittiva/campo-di-variazione.html",
+    "export/lib/media/pasted-image-20240116174002.png",
+    "export/lib/media/pasted-image-20240116173224.png",
+    "export/statistica-descrittiva/boxplot.html",
+    "export/statistica-descrittiva/analisi-multivariate-introduzione.html",
+    "export/statistica-descrittiva",
+    "export/lucidi-&-materiale/openintro-statistics.pdf",
+    "export/lucidi-&-materiale/9_statinf_verifica_l9.pdf",
+    "export/lucidi-&-materiale/8_statinf_stima_l8.pdf",
+    "export/lucidi-&-materiale/7_statinf_statcamp_l7.pdf",
+    "export/lib/media/pasted-image-20240110025450.png",
+    "export/lib/media/pasted-image-20240110022543.png",
+    "Statistica Descrittiva/Varianza.md",
+    "Statistica Descrittiva/Variabili.md",
+    "Statistica Descrittiva/Tabella di Contingenza.md",
+    "Statistica Descrittiva/Studio della Dipendenza.md",
+    "Statistica Descrittiva/Stima della Densità.md",
+    "Statistica Descrittiva/Simmetria.md",
+    "Statistica Descrittiva/Scarto Interquartilico.md",
+    "Statistica Descrittiva/Rappresentazioni grafiche - Introduzione.md",
+    "Statistica Descrittiva/Quantili.md",
+    "Statistica Descrittiva/Poligono di Frequenza.md",
+    "Statistica Descrittiva/Moda.md",
+    "Statistica Descrittiva/Mediana.md",
+    "Statistica Descrittiva/Media Aritmetica.md",
+    "Statistica Descrittiva/Istogramma.md",
+    "Statistica Descrittiva/Indipendenza statistica.md",
+    "Statistica Descrittiva/Indici Sintetici - Introduzione.md",
+    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
+    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
+    "Statistica Descrittiva/Indice di Simmetria.md",
+    "Statistica Descrittiva/Indice di Curtosi.md",
+    "Statistica Descrittiva/Indice di Connessione.md",
+    "Statistica Descrittiva/Funzione di Ripartizione Empirica.md",
+    "Statistica Descrittiva/Frequenze Relative.md",
+    "Statistica Descrittiva/Frequenze Cumulate.md",
+    "Statistica Descrittiva/Frequenze Assolute.md",
     "varie/imgs/Pasted image 20240118023438.png",
     "varie/imgs/Pasted image 20240118023240.png",
     "varie/imgs/Pasted image 20240118023222.png",
     "varie/imgs/Pasted image 20240118023221.png",
-    "varie/imgs/Pasted image 20240118023122.png",
-    "varie/imgs/Pasted image 20240117022457.png",
-    "varie/imgs/Pasted image 20240117022315.png",
-    "varie/imgs/Pasted image 20240117020916.png",
-    "varie/imgs/Pasted image 20240117020915.png",
-    "varie/imgs/Pasted image 20240117020209.png",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"
