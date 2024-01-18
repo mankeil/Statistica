@@ -51,7 +51,8 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ### Correlazione
 [[Covarianza]]
 [[Coefficiente di Correlazione Lineare]]
-
+[[Regressione Lineare Semplice]]
+[[Metodo dei Minimi Quadrati]]
 # II Calcolo delle Probabilità
 
 ## II-1 Probabilità Elementare
@@ -72,7 +73,11 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 
 ## III-4 Modello di Regressione Lineare
 
-# IV Extra
+# IV Riferimenti Rapidi
+**e metodi pratici**
+# V Prontocarte
+**(flashcards)**
+# VI Extra
 
-## IV-1 Risorse Esterne
+## VI-1 Risorse Esterne
 [[OpenIntro Statistics.pdf |Libro OpenIntro Statistics (lingua inglese)]]
