@@ -11,6 +11,8 @@ In altri casi, come nell'esempio sottostante, è necessario individuare la **var
 >
 >Dall'analisi del diagramma si vede che, in generale, un peso elevato porta ad un incremento della lunghezza della molla, sulla base di una relazione che sembra lineare. 
 
+^7dbcdc
+
 %% Altri due esempi %%
 
 Alla luce degli esempi presentati, può essere interessante studiare, in particolare, in caso bivariato con l'obbiettivo di evidenziare le relazioni esistenti tra due variabili statistiche.

@@ -2,7 +2,7 @@ Si vuole misurare l'intensità del **legame lineare** tra due [[Variabili#Variab
 
 Una misura della [[Studio della Dipendenza|dipendenza]] lineare fra due variabili quantitative $X$ e $Y$, con media $E(X)$ e $E(Y)$, è data dalla **covarianza** $$Cov(X,Y) = E[(X-E(X))(Y-E(Y))] =$$$$ = \frac{1}{n} \sum^n_{i=1}(x_1 - E(X))(y_i-E(Y)) $$ In alternativa, si può calcolare utilizzando la **formula per il calcolo**
 >[!formula] Formula 
->$$ Cov(X,Y) = E(XY) - E(X)(Y) = $$ $$ = \frac{1}{n} \sum^n_{i=1} x_i y_i - E(X)E(Y) $$
+>$$ \begin{gathered} Cov(X,Y) = E(XY) - E(X)(Y) = \\ = \frac{1}{n} \sum^n_{i=1} x_i y_i - E(X)E(Y) \end{gathered} $$
 
 Spesso si indica con $\sigma_{XY}$, che ne richiama il legame con varianza che corrisponde a $V(X) = \sigma_X^2 = \sigma_XX$$
 

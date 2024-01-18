@@ -33,8 +33,8 @@ Si usa il simbolo $Y$ per indicare anche la variabile statistica.
 
 Nel caso di dati (campioni) $y_1, . . . , y_i, . . . , y_n$ di tipo numerico può essere utile considerare l'insieme dei dati (campione) ordinato $y(1), . . . , y(i), . . . , y(n)$, ottenuto disponendo le osservazioni in ordine non decrescente.
 
-Il valore che occupa la posizione i-esima, $y_{(i)}$, si dice avere rango $i, i = 1, . . . , n$. Si noti che il minimo e il massimo corrispondono rispettivamente a $y_{(1)} = min(y1_, . . . , y_n)$ e $y_{(n)} = max(y_1, . . . , y_n)$. 
-Non tutte le modalità potenzialmente assumibili dalla variabile $Y$ possono venire effettivamente rilevate in una popolazione (campione).
+Il valore che occupa la posizione i-esima, $y_{(i)}$, si dice avere rango $i,\ i = 1, . . . , n$. Si noti che il minimo e il massimo corrispondono rispettivamente a $y_{(1)} = min(y1_, . . . , y_n)$ e $y_{(n)} = max(y_1, . . . , y_n)$. 
+Non tutte le modalità potenzialmente assumibili dalla variabile $Y$ possono venire effettivamente rilevate in una popolazione (campione). ^cddfad
 
 ### Supporto di una variabile
 

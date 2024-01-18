@@ -21,7 +21,22 @@ Si considerano alcuni esempi di correlazione positiva
 Tra $X$ e $Y$ c'è un *legame quadratico* perfetto, che il coefficiente di correlazione lineare, che vale 0.12, non misura.
 ![[Pasted image 20240118023438.png]] Il coefficiente di correlazione lineare è influenzato dalla presenza di valori anomali.
 
-[todo]
+>[!example] **Esempio**
+>*Molla* ([[Studio della Dipendenza#^7dbcdc|continua]]). Si considerano i dati sulla lunghezza della molla $Y$ e sugli $n = 20$ pesi $X$ a cui viene sottoposta.
+>Dai dati riportati nella tabella rappresentata in precedenza si ha che $$ \begin{gathered} E(X) = 1.9,\ E(Y)=5.388,\ V(X)=1.33, \\ V(Y) = 0.059, Cov(X,Y)=0.272 \end{gathered} $$ Da cui si ottiene che $$ \rho_{XY} = 0.272 \sqrt{1.33 \cdot 0.059} = 0.97 $$ valore che indica una correlazione positiva molto forte tra $X$ e $Y$.
+>Se al posto dell'osservazione $(x_{19}, y_{19}) = (3.6, 5.68)$, si avesse il valore anomalo (outlier) $(x_{19}, y_{19}) = (3.6, 5.01)$, il coefficiente di correlazione lineare, che risente della presenza di valori anomali, risulterebbe pari a 0.76.
+
+Anche per **[[Variabili#^58fcd8|variabili qualitative ordinali]]** $X$ e $Y$ è possibile definire un indice che misura l'intensità (come l'[[indice di connessione|indice]] $χ^2$) e il verso dell'associazione.
+
+Dati i valori osservati $(x_i, y_i),\ i=1,...,n$, si considerano i **[[rango|ranghi]]**, calcolati separatamente per ciascuna delle due variabili.
+
+Si definisce **indice di correlazione tra i ranghi di Spearman** $\rho^S_{XY}$, il coefficiente di correlazione lineare calcolato sui ranghi invece che sulle osservazioni (e se ci sono osservazioni uguali, si considera come rango il valore medio delle loro posizioni).
+
+Poiché si ha un indice di correlazione, $-1 \le \rho^S_{XY} \le 1$ e
+* $\rho^S_{XY} = 1\ (\rho^S_{XY} = -1)$ indica una perfetta concordanza (discordanza) tra i ranghi di $X$ e di $Y$;
+* $\rho^S_{XY} = 0$ indica che i ranghi di $X$ e di $Y$ non mostrano alcuna associazione.
+
+Il coefficiente $\rho^S_{XY}$ si può utilizzare anche per **[[Variabili#Variabili quantitative (numeriche)|variabili quantitative]]**, come alternativa *robusta* a $\rho_{XY}$. Un ulteriore alternativa è rappresentata dall'**indice di correlazione di Kendall**.
 
 ***
 Riferimenti:

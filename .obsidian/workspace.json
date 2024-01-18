@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md"
               }
             }
           },
@@ -179,62 +179,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "66b6af7b41ac90be",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bf74fc7fcfa67ca4",
-        "type": "window",
-        "children": [
-          {
-            "id": "2594dc7fa5531a0c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bcad61c5872220fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Indice.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 619,
-        "y": 325,
-        "width": 801,
-        "height": 402,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bcad61c5872220fa",
+  "active": "82c94bbe96a9c0cf",
   "lastOpenFiles": [
-    "export/lib/media/pasted-image-20240118023122.png",
-    "export/lib/media/pasted-image-20240116142355.png",
-    "export/statistica-descrittiva/coefficiente-di-correlazione-lineare.html",
-    "export/statistica-descrittiva/classi-di-modalità.html",
-    "export/lib/media/pasted-image-20240115014025.png",
-    "export/statistica-descrittiva/campo-di-variazione.html",
-    "export/lib/media/pasted-image-20240116174002.png",
-    "export/lib/media/pasted-image-20240116173224.png",
-    "export/statistica-descrittiva/boxplot.html",
-    "export/statistica-descrittiva/analisi-multivariate-introduzione.html",
-    "export/statistica-descrittiva",
-    "export/lucidi-&-materiale/openintro-statistics.pdf",
-    "export/lucidi-&-materiale/9_statinf_verifica_l9.pdf",
-    "export/lucidi-&-materiale/8_statinf_stima_l8.pdf",
-    "export/lucidi-&-materiale/7_statinf_statcamp_l7.pdf",
-    "export/lib/media/pasted-image-20240110025450.png",
-    "export/lib/media/pasted-image-20240110022543.png",
+    "Indice.md",
+    "docs/glossario/rango.html",
+    "docs/docs/indice.html",
+    "docs/docs/statistica-descrittiva/varianza.html",
+    "docs/docs/statistica-descrittiva/variabili.html",
+    "docs/docs/statistica-descrittiva/tabella-di-contingenza.html",
+    "docs/docs/statistica-descrittiva/studio-della-dipendenza.html",
+    "docs/docs/statistica-descrittiva/stima-della-densità.html",
+    "docs/docs/statistica-descrittiva/simmetria.html",
+    "docs/docs/statistica-descrittiva/scarto-interquartilico.html",
+    "docs/docs/statistica-descrittiva/rappresentazioni-grafiche-introduzione.html",
+    "docs/docs/lib/media/pasted-image-20240118023438.png",
+    "docs/docs/lib/media/pasted-image-20240118023240.png",
+    "docs/docs/lib/media/pasted-image-20240118023122.png",
+    "docs/docs/lib/media/pasted-image-20240117214824.png",
+    "docs/docs/lib/media/pasted-image-20240117214733.png",
+    "docs/docs/lib/media/pasted-image-20240117214322.png",
+    "docs/docs/lib/media/pasted-image-20240117022457.png",
+    "docs/docs/lib/media/pasted-image-20240117022315.png",
+    "docs/docs/lib/media/pasted-image-20240117020916.png",
+    "docs/docs/lib/media/pasted-image-20240117020209.png",
     "Statistica Descrittiva/Varianza.md",
     "Statistica Descrittiva/Variabili.md",
     "Statistica Descrittiva/Tabella di Contingenza.md",
@@ -260,10 +227,6 @@
     "Statistica Descrittiva/Frequenze Relative.md",
     "Statistica Descrittiva/Frequenze Cumulate.md",
     "Statistica Descrittiva/Frequenze Assolute.md",
-    "varie/imgs/Pasted image 20240118023438.png",
-    "varie/imgs/Pasted image 20240118023240.png",
-    "varie/imgs/Pasted image 20240118023222.png",
-    "varie/imgs/Pasted image 20240118023221.png",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"

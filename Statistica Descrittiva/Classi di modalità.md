@@ -34,6 +34,10 @@ Con riferimento alla [[Variabili#^793ba3|matrice vista in precedenza]], si ricav
 | **Totale** | 7 |
 [^1]: [ ] si pone quando l'estremo dell'intervallo accanto ad essa è compreso nell'intervallo, mentre la ( ) quando l'estremo non è compreso.
 
+***
+Riferimenti:
+
+
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate
 #ppt-2 

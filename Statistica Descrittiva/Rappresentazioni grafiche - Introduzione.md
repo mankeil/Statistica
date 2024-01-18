@@ -8,8 +8,8 @@ La scelta del grafico dipende dalla natura dei dati. Si utilizzano rappresentazi
 
 Per dati categoriali si possono utilizzare, ad esempio:
 * [[diagramma circolare |diagrammi circolari]] 
-* diagrammi a rettangoli
-* diagrammi a rettangoli multipli 
+* [[Diagramma a Barre|diagrammi a rettangoli]]
+* [[Diagramma a Barre#Diagramma a barre multiplo|diagrammi a rettangoli multipli]] 
 
 Per dati numerici si possono utilizzare, ad esempio: 
 * [[Diagramma a Bastoncini|diagrammi a bastoncini]]
