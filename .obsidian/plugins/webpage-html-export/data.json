@@ -18,18 +18,18 @@
   "deleteOldExportedFiles": false,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": false,
+  "includeGraphView": true,
   "includeFileTree": true,
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
-  "graphLinkLength": 10,
+  "graphLinkLength": 51,
   "graphRepulsionForce": 150,
   "graphCentralForce": 3,
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "C:\\Users\\manue\\Documents\\UNIUD\\Statistica\\docs",
+  "exportPath": "C:\\Users\\manue\\Documents\\UNIUD\\Statistica\\docs\\ghpages",
   "filesToExport": [
     []
   ]

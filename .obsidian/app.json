@@ -9,7 +9,9 @@
     "downscalePercent": 100
   },
   "userIgnoreFilters": [
-    "varie/templates/"
+    "varie/templates/",
+    "index.html",
+    "index"
   ],
   "defaultViewMode": "source"
 }
