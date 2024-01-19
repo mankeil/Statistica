@@ -37,12 +37,11 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Indice di Curtosi]]
 ## I-2 Analisi Multivariate
 
-### Introduzione
 [[Analisi Multivariate - Introduzione]]
-[[Distribuzioni di Frequenza]]
 
 ### Connessioni
 [[Studio della Dipendenza]]
+[[Distribuzioni di Frequenza]]
 [[Tabella di Contingenza]]
 [[Indipendenza statistica]]
 [[Indice di Connessione]]
