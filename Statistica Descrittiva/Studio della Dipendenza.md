@@ -1,4 +1,4 @@
-In alcuni casi le variabili $X$ e $Y$ vengono trattate in modo [[Simmetria|simmetrico]]. 
+In alcuni casi le variabili $X$ e $Y$ vengono trattate in modo simmetrico. 
 
 In altri casi, come nell'esempio sottostante, è necessario individuare la **variabile dipendente** (**risposta**) e la **variabile indipendente** (**esplicativa**); $X$ e $Y$ sono trattate in modo non simmetrico.
 
@@ -19,7 +19,7 @@ Alla luce degli esempi presentati, può essere interessante studiare, in partico
 
 Si evidenziano tre situazioni tipiche:
 * le due variabili sono [[Variabili#Variabili qualitative (categoriali)|qualitative]]: **analisi di dipendenza** o (**connessione**)
-* una variabile è qualitativa e l'altra [[Variabili#Variabili quantitative (numeriche)|quantitativa]]: **analisi di dipendenza in media**.
+* una variabile è qualitativa e l'altra [[Variabili#Variabili quantitative (numeriche)|quantitativa]]: **analisi di [[dipendenza in media]]**.
 * le due variabili sono quantitative: **analisi di correlazione** e **analisi di regressione**
 Se si hanno più di due variabili, si può in prima battuta analizzare le relazioni tra le variabili considerate a due a due.
 
