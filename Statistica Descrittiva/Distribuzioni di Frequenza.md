@@ -1,22 +1,21 @@
 Si considerano due variabili $X$ e $Y$. La loro osservazione su $n$ unità statistiche fornisce i dati grezzi $(x_i, y_i),\ i=1,...,n$.
 
 A partire dai dati grezzi si possono determinare le distribuzioni di [[Frequenze Assolute|frequenza assoluta]] e [[Frequenze Relative|relativa]] che si possono distinguere in:
-* **distribuzione congiunta**, se si considerano le frequenze delle unità che presentano congiuntamente la [[modalità]] $x_r,\ r=1,...,m$ della prima variabile e la modalità $y_s,\ s=1,...,k$, della seconda. 
-	In altre parole le frequenze delle unità che presentano determinate coppie di variabili.
+* **distribuzione congiunta**, se si considerano le frequenze delle unità che presentano congiuntamente la [[modalità]] $x_r,\ r=1,...,m$ della prima variabile e la modalità $y_s,\ s=1,...,k$, della seconda.
 * **distribuzione marginale**, se si considera la distribuzione di frequenza relativa ad una singola variabile.
 * **distribuzione condizionata**, se si considera la distribuzione di frequenza relativa ad una singola variabile considerando soltanto le unità statistiche che assumono una determinata modalità dell'altra.
 
 Si può operare allo stesso modo anche se si hanno modalità [[Classi di modalità|raggruppate in classi]].
 
-Una tabella di frequenza è di fatto una distribuzione doppia di frequenza. %% ??? %%
+Una tabella di frequenza è di fatto una distribuzione doppia di frequenza.
 Inoltre, risulta utile per indagare le relazioni esistenti tra le modalità delle due variabili.
 
 Dalla [[Tabella di Contingenza]] si ricavano le seguenti **distribuzioni di frequenza assoluta**
 * **congiunta**: $(x_r,y_s),\ n_{rs},\ r=1,...,m,\ s=1,...,k;$
-* **marginale di** $X$: $x_r,\ n_{r+},\ r=1,...,m;$ [^1]
+* **marginale di** $X$: $x_r, n_{r+}, r=1,...,m;$
 * **marginale di** $Y$: $y_s, n_{+s},\ s=1,...,k$;
 * **condizionata di** $X$ **dato** $Y = y_s$: $x_r,\ n_{rs},\ r = 1,...,k$
-* **condizionata di** $Y$ **dato** $X = x_r$: $y_s,\ n_{rs},\ s = 1,...,m$.
+* **condizionata di** $Y$ **dato** $X = x_r$: $y_s, n_{rs}, s = 1,...,m$.
 Le frequenze marginali di $X$ e di $Y$ corrispondono, rispettivamente, ai totali di riga e colonna.
 
 Le frequenze condizionate di $X$ e di $Y$ corrispondono, rispettivamente, ai valori di colonna e di riga individuati dalle condizioni $Y = y_s$ e $X=x_r$.
@@ -50,5 +49,3 @@ Riferimenti:
 #statistica_descrittiva/analisi_multivariate 
 #ppt-3 
 #frequenze 
-
-[^1]: $n_{n+}$ e $n_{+s}$ sono, rispettivamente, i totali di riga e colonna e $n$ il numero totale delle osservazioni.
