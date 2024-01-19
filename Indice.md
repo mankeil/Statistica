@@ -76,7 +76,10 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 # IV Riferimenti Rapidi
 **e metodi pratici**
 # V Prontocarte
-**(flashcards)**
+(flashcards)
+*Non in alcun ordine particolare*
+
+[[Domanda - Tabella di Contingenza]]
 # VI Extra
 
 ## VI-1 Risorse Esterne
