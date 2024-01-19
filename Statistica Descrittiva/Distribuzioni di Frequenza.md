@@ -11,7 +11,7 @@ Si può operare allo stesso modo anche se si hanno modalità [[Classi di modalit
 Una tabella di frequenza è di fatto una distribuzione doppia di frequenza. %% ??? %%
 Inoltre, risulta utile per indagare le relazioni esistenti tra le modalità delle due variabili.
 
-Dalla [[Tabella di Contingenza]] si ricavano le seguenti **distribuzioni di frequenza assoluta** ^f57b94
+Dalla [[Tabella di Contingenza|tabella di contingenza]] si ricavano le seguenti **distribuzioni di frequenza assoluta** ^f57b94
 * **congiunta**: $(x_r,y_s),\ n_{rs},\ r=1,...,m,\ s=1,...,k;$
 * **marginale di** $X$: $x_r,\ n_{r+},\ r=1,...,m;$ [^1] ^08c8ee
 * **marginale di** $Y$: $y_s, n_{+s},\ s=1,...,k$; ^3f36a4
@@ -20,6 +20,9 @@ Dalla [[Tabella di Contingenza]] si ricavano le seguenti **distribuzioni di freq
 Le frequenze marginali di $X$ e di $Y$ corrispondono, rispettivamente, ai totali di riga e colonna.
 
 Le frequenze condizionate di $X$ e di $Y$ corrispondono, rispettivamente, ai valori di colonna e di riga individuati dalle condizioni $Y = y_s$ e $X=x_r$.
+
+Quindi, visivamente sulla tabella di contingenza, in <span style="color:red">rosso</span> la distribuzione marginale di $X$, in <span style="color: dodgerBlue">blu</span> la distribuzione marginale di $Y$, e in <span style="color: LimeGreen">verde</span> le distribuzioni condizionate:
+![[Pasted image 20240119170934.png]]
 
 Le **distribuzioni di frequenza relativa** si ottengono dividendo per i corrispondenti totali. In particolare, le distribuzioni congiunta e marginali si dividono per $n$, le distribuzioni condizionate per i totali di riga o colonna corrispondenti alla condizione. ^3f15a9
 
@@ -39,6 +42,8 @@ Tenendo conto della tipologia della variabili, dei dati a disposizione e degli o
 Se si dispone dei **dati grezzi**, riferiti a due [[Variabili#Variabili quantitative (numeriche)|variabili quantitative]], si può disegnare un **[[Diagramma di Dispersione|grafico di dispersione]]** (**scatterplot**), dove le coppie $(x_i, y_i), i = 1, . . . , n$, sono rappresentate come punti del piano, i cui assi corrispondono alle due variabili.
 
 Per rappresentare una **distribuzione di frequenza congiunta** di due variabili quantitative si possono utilizzare **[[Istogramma|istogrammi]] o [[Diagramma a Bastoncini|diagrammi a bastoncini]]**, disegnati **in uno spazio tridimensionale**.
+>[!example]- **Esempio**
+>![[Pasted image 20240119172403.png]]
 
 Per rappresentare una distribuzione di **frequenza marginale o condizionata** si possono utilizzare tutte le rappresentazioni grafiche viste per il caso univariato: istogrammi, [[boxplot]], diagrammi a bastoncini, [[Diagramma a Barre|a rettangoli]], [[Diagramma Circolare|a torta]], etc.
 ***

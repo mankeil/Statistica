@@ -9,7 +9,7 @@ Si possono scegliere diversi nuclei $K(\cdot)$, che devono soddisfare ad alcune 
 
 È importante scegliere la banda $b$ in modo opportuno (in genere i software opera una scelta ottimale): se $b$ è troppo grande il grafico risulta appiattito, mentre se $b$ è troppo piccolo in grafico si avvicina ad un [[diagramma a bastoncini]].
 
-Dato un insieme di osservazioni numeriche, si costruisce l'istogramma delle [[frequenze relative]], la stima della densità con scelta ottimale per $b$ (**nero**), con $b$ troppo grande (<span style="color:red">rosso</span>) e troppo piccolo (<span style="color:blue">blu</span>).
+Dato un insieme di osservazioni numeriche, si costruisce l'istogramma delle [[frequenze relative]], la stima della densità con scelta ottimale per $b$ (**nero**), con $b$ troppo grande (<span style="color:red">rosso</span>) e troppo piccolo (<span style="color:dodgerBlue">blu</span>).
 ![[Pasted image 20240116135019.png]]
 
 ***
