@@ -19,8 +19,10 @@ Quindi si ottiene una quantità che assume valori nell'intervallo $[0, 1]$. Se v
 >[!example] **Esempio**
 >*Attitudine* (continua). Con riferimento alla analisi delle attitudini musicale e pittorica, se ci fosse indipendenza tra le due, ferme restanti le distribuzioni marginali, si avrebbe la seguente tabella di contingenza
 >![[Pasted image 20240117214322.png]]
->Si può calcolare facilmente l'indice $\chi^2$ che è pari a 3.527. Quindi, si può dunque escludere l'indipendenza tra attitudine musicale e pittorica.
->
+>Considerando la tabella di contingenza originale:
+>![[Pasted image 20240117020209.png]]
+>Si può calcolare facilmente l'indice $\chi^2$ che è pari a 3.527.
+> Quindi, si può dunque escludere l'indipendenza tra attitudine musicale e pittorica.
 Dal momento che tale valore è lontano dal valore massimo $15 \cdot (3-1) = 30$, ed inoltre l'indice normalizzato vale 0.117, si conclude che i dati indicano una moderata connessione (dipendenza) tra le due variabili.
 
 >[!example] **Esempio**
