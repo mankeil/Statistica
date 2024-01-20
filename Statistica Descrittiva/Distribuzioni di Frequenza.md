@@ -32,6 +32,8 @@ Le **distribuzioni di frequenza relativa** si ottengono dividendo per i corrispo
 >e le seguenti distribuzioni di frequenza condizionata, assoluta e relativa, di $Y$ dato $X = x_r$
 >![[Pasted image 20240117022457.png]]
 >In modo analogo si ottengono le distribuzioni di frequenza condizionata e relativa, di $X$ dato $Y=y_s$.
+>Si nota che la distribuzione condizionata di $Y$ varia al variare di $X$, e viceversa. Ad esempio, se l'attitudine musica è sufficiente, l'attitudine pittorica non può essere ottima.
+Quindi si può concludere che esiste una qualche forma di dipendenza fra le due variabili.
 
 ## Rappresentazioni Grafiche
 

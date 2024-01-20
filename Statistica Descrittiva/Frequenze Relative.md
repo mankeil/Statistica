@@ -2,7 +2,7 @@
 > La proporzione delle volte che un specifica [[modalità]] o [[Classi di modalità|classi di modalità]] compare rispetto al totale delle osservazioni.
 > Si indicano con $p_j$ dove $j$ indica la modalità.
 
-La frequenza relativa di una [[modalità]] $y_j$ , o di una [[Classi di modalità|classe di modalità]] $y_j−1 \vdash y_j$ , è la proporzione $p_j$ di unità statistiche portatrici di tale modalità o classe di modalità, corrisponde a:
+La **frequenza relativa** di una [[modalità]] $y_j$ , o di una [[Classi di modalità|classe di modalità]] $y_j−1 \vdash y_j$ , è la proporzione $p_j$ di unità statistiche portatrici di tale modalità o classe di modalità, corrisponde a:
 $$ p_j = \frac{f_j}{\sum^J_{j=1}f_j}=\frac{fj}{n},\ j=1,...,J $$[^1]
 Evidentemente, $pj \gt 0,\ j=1,...,J$, e $\sum^J_{j=1} p_j=1$.
 Si possono definire anche le **frequenze relative percentuali**, definite come $p_j 100,\ j = 1, . . . , J$. 

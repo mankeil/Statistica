@@ -1,7 +1,3 @@
-Si nota che la [[Distribuzioni di Frequenza#^d8cbd3|distribuzione condizionata]] di $Y$ varia al variare di $X$, e viceversa. Ad esempio, se l'attitudine musica è sufficiente, l'attitudine pittorica non può essere ottima.
-
-Quindi si può concludere che esiste una qualche forma di dipendenza fra le due variabili.
-
 Si parla di **indipendenza statistica** quando tutte le distribuzioni condizionate di $Y$ dato $X = x_r,\ r=1,...,m$, sono uguali e quindi uguali alla [[Distribuzioni di Frequenza#^3f36a4|distribuzione marginale]] di $Y$.
 
 Analoghe considerazioni si possono fare per le distribuzioni condizionate di $X$ dato $Y = y_s,\ s=1,...,k$, e per la [[Distribuzioni di Frequenza#^08c8ee|distribuzione marginale]] di $X$.

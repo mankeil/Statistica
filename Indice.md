@@ -77,7 +77,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ## IV-1 Formulario
 
 ## IV-2 Metodi Pratici
-# V Prontocarte
+# V Domande Rapide
 (flashcards)
 *Non in alcun ordine particolare*
 

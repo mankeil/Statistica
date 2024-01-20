@@ -2,7 +2,7 @@ Le variabili vengono analizzate in modo **asimmetrico** perché si studia la dip
 
 L'indipendenza in media è una forma debole di [[Indipendenza statistica|indipendenza]] nella quale non si considera la distribuzione di frequenza di $Y$ ma solo la sua [[Media Aritmetica|media]].
 
-Due variabili $Y$ ed $X$ si diranno **indipendenti in media** se la media condizionata di $Y$ dato $X$ è la stessa per ogni valore assunto da $X$, ovvero se $$ E(Y|X=x_r) = E(Y)$$ per ogni possibile $x_r, r=1,...,m$.
+Due variabili $Y$ ed $X$ si diranno **indipendenti in media** se la media condizionata di $Y$ dato $X$ è la stessa per ogni valore assunto da $X$, ovvero se $$ E(Y|X=x_r) = E(Y)$$per ogni possibile $x_r, r=1,...,m$.
 Viceversa, se le varie medie condizionate sono diverse, allora le due variabili si diranno **dipendenti in media**.
 
 Se le due variabili sono indipendenti allora sono anche indipendenti in media, mentre non è vero il viceversa.

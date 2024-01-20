@@ -1,4 +1,4 @@
-In alternativa all'istogramma, è possibile definire una stima della distribuzione delle frequenze tramite una curva che risulti essere più smussata (in questo modo si tiene conto che la variabile è continua).
+In alternativa all'istogramma, è possibile definire una stima della distribuzione delle [[frequenze]] tramite una curva che risulti essere più smussata (in questo modo si tiene conto che la variabile è continua).
 
 Date le osservazioni $y_1,...,y_i,...,y_n$, la funzione che rappresenta la **stima della densità con il metodo del nucleo** è definita come $$f_n(y) = \frac{1}{nb} \sum^n_{i=1} K(\frac{y-y_1}{b}),\ y \in \mathbb{R}$$ dove $K(\cdot$) è detto **nucleo** (**kernel**), $b \gt 0$ è la **banda** e $\mathbb{R}$ è l'insieme dei numeri reali.
 

@@ -1,6 +1,6 @@
 Il più importante indice di [[variabilità]] per variabili [[Variabili#Variabili quantitative (numeriche)|quantitative]] è la **varianza**, che si indica con $V(Y)$, con $\sigma^2_Y$ o semplicemente con $\sigma^2$.
 
-Data una variabile statistica $Y$  con [[media aritmetica]] $E(Y)$, si ha $$ V(Y) = [E(Y-E(Y))^2] $$ La varianza è la media aritmetica della variabile scarto $Y-E(Y)$ elevata al quadrato e misura la dispersione dei dati attorno alla media. L'unità di misura è pari a quella dei dati elevata al quadrato.
+Data una variabile statistica $Y$ con [[media aritmetica]] $E(Y)$, si ha $$ V(Y) = [E(Y-E(Y))^2] $$ La varianza è la media aritmetica della variabile scarto $Y-E(Y)$ elevata al quadrato e misura la dispersione dei dati attorno alla media. L'unità di misura è pari a quella dei dati elevata al quadrato.
 
 Per il calcolo di $V(Y)$, si può riprendere quanto detto con riferimento alla media aritmetica.
 
