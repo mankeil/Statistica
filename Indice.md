@@ -73,12 +73,17 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ## III-4 Modello di Regressione Lineare
 
 # IV Riferimenti Rapidi
-**e metodi pratici**
+
+## IV-1 Formulario
+
+## IV-2 Metodi Pratici
 # V Prontocarte
 (flashcards)
 *Non in alcun ordine particolare*
 
 [[Domanda - Tabella di Contingenza]]
+[[Domanda - Indipendenza Statistica]]
+[[Domanda - Indice di Connessione (1)]]
 # VI Extra
 
 ## VI-1 Risorse Esterne
