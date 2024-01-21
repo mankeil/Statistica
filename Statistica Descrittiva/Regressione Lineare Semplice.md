@@ -17,7 +17,7 @@ Si considera la **regressione lineare semplice**, dove tra la variabile risposta
 
 ll **modello di regressione lineare semplice** (**modello lineare**) è definito dall'equazione $$ y_i = a+bx_i + \epsilon_i,\ i=1,...,n$$ dove $(x_i, y_i),\ i = 1,...,n$, sono i valori osservati per la **variabile dipendente** $Y$ e per la **variabile esplicativa** $X$.
 
-I valori $\epsilon_i,\ i=1,...,n$, specificano gli **errori**, mentre $a$ e $b$ sono i **coefficienti di regressione**, con $a$ l'intercetta e $b$ il coefficiente angolare della **retta di regressione** $y = a + bx$.
+I valori $\epsilon_i,\ i=1,...,n$, specificano gli **errori**, mentre $a$ e $b$ sono i **coefficienti di regressione**, con $a$ l'intercetta e $b$ il coefficiente angolare della **retta di regressione** $y = a + bx$. ^f821e4
 
 L'interesse è rivolto al comportamento complessivo e non a ciò che avviene per le singole coppie di osservazioni.
 

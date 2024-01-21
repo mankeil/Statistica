@@ -50,8 +50,12 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ### Correlazione
 [[Covarianza]]
 [[Coefficiente di Correlazione Lineare]]
+
+### Regressione
 [[Regressione Lineare Semplice]]
 [[Metodo dei Minimi Quadrati]]
+[[Valori e Residui Stimati dal Modello]]
+[[Coefficiente di Determinazione]]
 # II Calcolo delle Probabilità
 
 ## II-1 Probabilità Elementare
