@@ -1,3 +1,7 @@
 {
-  "things-style@@mobile-black-background": false
+  "things-style@@mobile-black-background": false,
+  "things-style@@active-line": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-flamingo"
 }

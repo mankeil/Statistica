@@ -51,7 +51,8 @@ La media aritmetica soddisfa le seguenti proprietà:
 * **Proprietà di baricentro**: 
   Sia $Y - E(Y)$ la variabile scarto $Y$ dalla sua media $E(Y)$, allora $$E(Y-E(Y)) = 0$$Infatti, considerando i dati grezzi e le modalità osservate $y_i - E(Y)$, $j = 1,...,J$, della variabile $Y-E(Y)$, $$ E(Y-E(Y)) = \frac{1}{n} \sum^n_{i=1}(y_i-E(Y)) = \frac{1}{n} \sum^n_{i=1}y_i - \frac{1}{n} \sum^n_{i=n}E(Y) = $$$$ = E(Y) - \frac{1}{n}nE(Y)=0$$
 * **Proprietà di linearità:** 
-  Sia $aY + b,\ a,\ b \in R$, una trasformata lineare della variabile $Y$ , allora $$E(aY+b) = aE(Y)+b$$Infatti, considerando i dati grezzi e le modalità osservate $ay_i + b,\ j= 1,...,J$, della variabile $aY+b$,$$E(aY+b) = \frac{1}{n}\sum^n_{i=1}(ay_i+b)=\frac{1}{n}\sum^n_{i=1} + \frac{1}{n} \sum^n_{i=1}b =$$$$ = a \frac{1}{n} \sum^n_{i=1}y_i + \frac{1}{n} nb = aE(Y)+b$$
+  Sia $aY + b,\ a,\ b \in R$, una trasformata lineare della variabile $Y$ , allora $$E(aY+b) = aE(Y)+b$$Infatti, considerando i dati grezzi e le modalità osservate $ay_i + b,\ j= 1,...,J$, della variabile $aY+b$,$$ \begin{gather} E(aY+b) = \frac{1}{n}\sum^n_{i=1}(ay_i+b)=\frac{1}{n}\sum^n_{i=1} + \frac{1}{n} \sum^n_{i=1}b = \\
+   = a \frac{1}{n} \sum^n_{i=1}y_i + \frac{1}{n} nb = aE(Y)+b \end{gather}$$
 ---
 Riferimenti:
 [[2_Statdescr_Univ_L2.pdf#page=60&selection=10,0,10,37|Lucido]]

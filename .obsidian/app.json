@@ -10,7 +10,9 @@
   },
   "userIgnoreFilters": [
     "varie/templates/",
-    "Prontocarte/"
+    "Prontocarte/",
+    "docs/"
   ],
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "vimMode": false
 }

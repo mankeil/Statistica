@@ -8,7 +8,7 @@
           {
             "id": "e6db4c688bc4b98f",
             "type": "tabs",
-            "dimension": 31.233243967828418,
+            "dimension": 31.233243967828415,
             "children": [
               {
                 "id": "82c94bbe96a9c0cf",
@@ -30,12 +30,12 @@
             "dimension": 68.76675603217159,
             "children": [
               {
-                "id": "2236d817b6254ee4",
+                "id": "da495112b072b74c",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf"
+                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
                   }
                 }
               }
@@ -106,7 +106,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Indice.md",
+                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf",
                     "collapseAll": false,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Indice.md",
+                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -146,7 +146,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Indice.md"
+                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
                   }
                 }
               },
@@ -172,17 +172,17 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "random-note:Open random note": false,
+          "webpage-html-export:Export Vault to HTML": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": true,
-          "daily-notes:Open today's daily note": true,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "publish:Publish changes...": false,
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "82c94bbe96a9c0cf"
+      "active": "da495112b072b74c"
     },
     "Review": {
       "main": {
