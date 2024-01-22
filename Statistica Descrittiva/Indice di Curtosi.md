@@ -14,7 +14,7 @@ Dall'analisi dell'[[Istogramma]], si deduce che la secondo distribuzione che la 
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=116&selection=10,0,10,17|2_Statdescr_Univ_L2, pagina 116]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=116&selection=10,0,10,17|2_Statdescr_Univ_L2, pagina 116]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

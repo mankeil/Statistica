@@ -45,7 +45,7 @@ Considerando i due insiemi di dati distinti, si possono determinare le associate
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=49&selection=10,0,10,33|2_Statdescr_Univ_L2, pagina 49]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=49&selection=10,0,10,33|2_Statdescr_Univ_L2, pagina 49]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

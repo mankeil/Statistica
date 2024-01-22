@@ -14,7 +14,7 @@ Dato un insieme di osservazioni numeriche, si costruisce l'istogramma delle [[fr
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=47&selection=10,0,10,19|2_Statdescr_Univ_L2, pagina 47]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=47&selection=10,0,10,19|2_Statdescr_Univ_L2, pagina 47]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

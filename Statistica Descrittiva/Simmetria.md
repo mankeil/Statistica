@@ -18,7 +18,7 @@ Nel primo grafico si ha una distribuzione di frequenza con asimmetria negativa, 
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=112&selection=10,0,10,22|2_Statdescr_Univ_L2, pagina 112]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=112&selection=10,0,10,22|2_Statdescr_Univ_L2, pagina 112]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

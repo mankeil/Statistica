@@ -30,7 +30,7 @@ L'associato istogramma delle frequenze relative corrisponde a ![[Pasted image 20
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=41&selection=10,0,10,10|2_Statdescr_Univ_L2, pagina 41]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=41&selection=10,0,10,10|2_Statdescr_Univ_L2, pagina 41]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

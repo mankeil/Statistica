@@ -14,7 +14,7 @@ $R_Y$ è sensibile alla presenza di valori anomali. Inoltre è un indice piuttos
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=98&selection=1,1,10,42|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=98&selection=1,1,10,42|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

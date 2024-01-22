@@ -50,8 +50,8 @@ Per rappresentare una **distribuzione di frequenza congiunta** di due variabili 
 Per rappresentare una distribuzione di **frequenza marginale o condizionata** si possono utilizzare tutte le rappresentazioni grafiche viste per il caso univariato: istogrammi, [[boxplot]], diagrammi a bastoncini, [[Diagramma a Barre|a rettangoli]], [[Diagramma Circolare|a torta]], etc.
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=5&selection=10,0,10,26|3_Statdescr_Multiv_L3, page 5]]
-[[3_Statdescr_Multiv_L3.pdf#page=15&selection=10,0,10,26|3_Statdescr_Multiv_L3, page 15]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=5&selection=10,0,10,26|3_Statdescr_Multiv_L3, page 5]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=15&selection=10,0,10,26|3_Statdescr_Multiv_L3, page 15]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

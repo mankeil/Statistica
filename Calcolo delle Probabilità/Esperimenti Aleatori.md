@@ -1,6 +1,6 @@
 Un **esperimento** o **fenomeno casuale** (**aleatorio**) è un fenomeno (esperimento) in riferimento al quale le conoscenze inducono a ritenere possibile una pluralità di esiti.
 
-Prima di eseguire l'esperimento, o di osservare il fenomeno, non è possibile individuare con certezza quale dei risultati ammissibili si realizzerà.
+Prima di eseguire l'esperimento, o di osservare il fenomeno, non è possibile individuare con certezza quale dei risultati ammissibili si realizzerà. ^2983e3
 
 Sono esperimenti (fenomeni) aleatori:
 * il lancio di un dado

@@ -55,7 +55,7 @@ La media aritmetica soddisfa le seguenti proprietà:
    = a \frac{1}{n} \sum^n_{i=1}y_i + \frac{1}{n} nb = aE(Y)+b \end{gather}$$
 ---
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=60&selection=10,0,10,37|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=60&selection=10,0,10,37|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

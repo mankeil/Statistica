@@ -83,7 +83,7 @@ Si noti che a 3 corrisponde la frequenza assoluta cumulata più piccola che risu
 Se si considerano le frequenze relative cumulate, $y_{0.5}=3$ è la modalità che presenta frequenza relativa cumulata più piccola tale che $P_j \ge 0.5$
 
 ***
-[[2_Statdescr_Univ_L2.pdf#page=70&selection=4,6,10,28|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=70&selection=4,6,10,28|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

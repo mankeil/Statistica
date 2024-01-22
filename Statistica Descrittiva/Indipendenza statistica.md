@@ -13,7 +13,7 @@ Inoltre, l'indipendenza statistica implica l'[[Coefficiente di Correlazione Line
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=18&selection=10,0,10,23|3_Statdescr_Multiv_L3, page 18]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=18&selection=10,0,10,23|3_Statdescr_Multiv_L3, page 18]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

@@ -6,7 +6,6 @@
       {
         "id": "e6db4c688bc4b98f",
         "type": "tabs",
-        "dimension": 31.233243967828415,
         "children": [
           {
             "id": "82c94bbe96a9c0cf",
@@ -14,26 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md",
-                "mode": "source",
+                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "21c3edc59ac61f37",
-        "type": "tabs",
-        "dimension": 68.76675603217159,
-        "children": [
+          },
           {
-            "id": "2236d817b6254ee4",
+            "id": "8ddfabc49d164b40",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf"
+                "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
               }
             }
           }
@@ -66,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "velocit",
+                "query": "\"evento elementare\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "045c581cf12646b7",
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md"
               }
             }
           },
@@ -160,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,95 +162,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "a25f50171e993aef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a4dea1f3ed23a783",
-        "type": "window",
-        "children": [
-          {
-            "id": "75a14e80237d2566",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7d54a08af29599af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Indice.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 678,
-        "y": 383,
-        "width": 802,
-        "height": 401,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7d54a08af29599af",
+  "active": "82c94bbe96a9c0cf",
   "lastOpenFiles": [
-    "docs/ghpages/statistica-descrittiva/campo-di-variazione.html",
-    "docs/ghpages/lib/media/pasted-image-20240116174002.png",
-    "docs/ghpages/lib/media/pasted-image-20240116173224.png",
-    "docs/ghpages/statistica-descrittiva/boxplot.html",
-    "docs/ghpages/statistica-descrittiva/analisi-multivariate-introduzione.html",
-    "docs/ghpages/statistica-descrittiva",
-    "docs/ghpages/lucidi-&-materiale/openintro-statistics.pdf",
-    "docs/ghpages/lucidi-&-materiale/9_statinf_verifica_l9.pdf",
-    "docs/ghpages/lucidi-&-materiale/8_statinf_stima_l8.pdf",
-    "docs/ghpages/lucidi-&-materiale/6_prob_modelli_l6.pdf",
-    "docs/ghpages/lucidi-&-materiale/7_statinf_statcamp_l7.pdf",
-    "docs/ghpages/lucidi-&-materiale/5_prob_varcasual_l5.pdf",
-    "docs/ghpages/lucidi-&-materiale/4_prob_probelem_l4.pdf",
-    "docs/ghpages/lib/media/pasted-image-20240110025450.png",
-    "docs/ghpages/lib/media/pasted-image-20240110022543.png",
+    "Indice.md",
+    "docs/ghpages/glossario/eventi-elementari.html",
+    "docs/ghpages/domande-rapide/domanda-tabella-di-contingenza.html",
+    "docs/ghpages/domande-rapide/domanda-indipendenza-statistica.html",
+    "docs/ghpages/domande-rapide/domanda-indice-di-connessione-(1).html",
+    "docs/ghpages/domande-rapide/risposte/risposta-tabella-di-contingenza.html",
+    "docs/ghpages/domande-rapide/risposte/risposta-indipendenza-statistica.html",
+    "docs/ghpages/domande-rapide/risposte/risposta-indice-di-connessione-(1).html",
+    "docs/ghpages/domande-rapide/risposte",
+    "docs/ghpages/domande-rapide",
+    "docs/ghpages/calcolo-delle-probabilità/spazio-fondamentale.html",
     "Statistica Descrittiva/Varianza.md",
     "Statistica Descrittiva/Variabili.md",
+    "Statistica Descrittiva/Valori e Residui Stimati dal Modello.md",
     "Statistica Descrittiva/Tabella di Contingenza.md",
     "Statistica Descrittiva/Studio della Dipendenza.md",
     "Statistica Descrittiva/Stima della Densità.md",
     "Statistica Descrittiva/Simmetria.md",
     "Statistica Descrittiva/Scarto Interquartilico.md",
+    "Statistica Descrittiva/Regressione Lineare Semplice.md",
     "Statistica Descrittiva/Rappresentazioni grafiche - Introduzione.md",
     "Statistica Descrittiva/Quantili.md",
     "Statistica Descrittiva/Poligono di Frequenza.md",
     "Statistica Descrittiva/Moda.md",
+    "Statistica Descrittiva/Metodo dei Minimi Quadrati.md",
     "Statistica Descrittiva/Mediana.md",
     "Statistica Descrittiva/Media Aritmetica.md",
     "Statistica Descrittiva/Istogramma.md",
     "Statistica Descrittiva/Indipendenza statistica.md",
-    "Statistica Descrittiva/Indici Sintetici - Introduzione.md",
     "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
-    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
     "Statistica Descrittiva/Indice di Simmetria.md",
     "Statistica Descrittiva/Indice di Curtosi.md",
     "Statistica Descrittiva/Indice di Connessione.md",
     "Statistica Descrittiva/Funzione di Ripartizione Empirica.md",
-    "Statistica Descrittiva/Frequenze Relative.md",
-    "Statistica Descrittiva/Frequenze Cumulate.md",
     "Statistica Descrittiva/Frequenze Assolute.md",
+    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
+    "docs/ghpages/lib/media/pasted-image-20240116174002.png",
+    "docs/ghpages/lib/media/pasted-image-20240116173224.png",
+    "docs/ghpages/lib/media/pasted-image-20240110025450.png",
+    "docs/ghpages/lib/media/pasted-image-20240110022543.png",
     "docs/lib/media/pasted-image-20240118023438.png",
     "docs/lib/media/pasted-image-20240118023240.png",
     "docs/lib/media/pasted-image-20240118023122.png",

@@ -43,7 +43,7 @@ Si consideri la tabella di frequenza vista in precedenza, dalla quale si è rica
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=101&selection=10,0,10,31|2_Statdescr_Univ_L2, pagina 101]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=101&selection=10,0,10,31|2_Statdescr_Univ_L2, pagina 101]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

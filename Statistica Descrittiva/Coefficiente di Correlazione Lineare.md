@@ -46,7 +46,7 @@ Il coefficiente $\rho^S_{XY}$ si può utilizzare anche per **[[Variabili#Variabi
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=29&selection=10,0,10,34|3_Statdescr_Multiv_L3, page 29]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=29&selection=10,0,10,34|3_Statdescr_Multiv_L3, page 29]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

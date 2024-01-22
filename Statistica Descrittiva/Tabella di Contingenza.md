@@ -5,7 +5,7 @@ Se $X$ ha $m$ categorie, $x_1, . . . , x_m$, ed $Y$ ha $k$ categorie, $y_1, . . 
 dove $n_{n+}$ e $n_{+s}$ sono, rispettivamente, i totali di riga e colonna e $n$ il numero totale delle osservazioni.
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=14&selection=10,0,10,22|3_Statdescr_Multiv_L3, page 14]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=14&selection=10,0,10,22|3_Statdescr_Multiv_L3, page 14]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

@@ -44,7 +44,7 @@ Una tabella di frequenza riferita ad una variabile statistica qualitativa è det
 [^2]: In parole più semplici, significa che si somma tutte le frequenze assolute per ogni modalità della variabile $Y$, si otterrà il totale delle osservazioni $n$.
 
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=17&selection=6,4,10,18|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=17&selection=6,4,10,18|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

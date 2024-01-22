@@ -10,7 +10,7 @@ Ad esempio, si può dare risposta a domande quali: "Il voto di laurea è in rela
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=4&selection=10,0,10,38|3_Statdescr_Multiv_L3, pagina 4]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=4&selection=10,0,10,38|3_Statdescr_Multiv_L3, pagina 4]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate

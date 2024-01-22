@@ -48,7 +48,7 @@ $$ 0.25(24+1)=6.25 \Rightarrow y_{0.25}=(y_6 + y_7)/2=115.5$$ $$ 0.5(24+1)=12.5 
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=80&selection=10,0,10,8|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=80&selection=10,0,10,8|Lucido]]
 
 %%Footnotes%%
 

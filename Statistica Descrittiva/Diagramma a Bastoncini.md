@@ -6,7 +6,7 @@ I **diagrammi a bastoncini** servono per rappresentare **distribuzioni di [[Freq
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=40&selection=10,0,10,22|2_Statdescr_Univ_L2, pagina 40]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=40&selection=10,0,10,22|2_Statdescr_Univ_L2, pagina 40]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

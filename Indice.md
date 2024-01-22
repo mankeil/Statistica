@@ -60,11 +60,12 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 
 ## II-1 Probabilità Elementare
 
-### Introduzione
 [[Introduzione al Calcolo delle Probabilità]]
 [[Esperimenti Aleatori]]
-[[Spazio Fondamentale ed Eventi]]
+[[Spazio Fondamentale]]
+[[Evento]]
 [[Assiomi di Kolmogorov]]
+[[Probabilità Condizionata]]
 
 ## II-2 Variabili Casuali
 

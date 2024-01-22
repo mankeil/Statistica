@@ -10,6 +10,6 @@ Quando si misura un fenomeno nello **spazio**, si ottiene una distribuzione di f
 | Sud e Isole | 6286 |
 
 ***
-da [[2_Statdescr_Univ_L2.pdf#page=32&selection=10,0,10,14|2_Statdescr_Univ_L2, pagina 32]]
+da [[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=32&selection=10,0,10,14|2_Statdescr_Univ_L2, pagina 32]]
 
 #glossario 

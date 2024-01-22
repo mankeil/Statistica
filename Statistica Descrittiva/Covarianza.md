@@ -8,7 +8,7 @@ Spesso si indica con $\sigma_{XY}$, che ne richiama il legame con [[varianza]] c
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=28&selection=10,0,10,10|3_Statdescr_Multiv_L3, page 28]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=28&selection=10,0,10,10|3_Statdescr_Multiv_L3, page 28]]
 [Videolezione](https://uniudamce.sharepoint.com/sites/2021-STATISTICAELABORATORIOid.130848/_layouts/15/stream.aspx?id=%2Fsites%2F2021%2DSTATISTICAELABORATORIOid%2E130848%2FMateriale%20del%20corso%2FLezioni%2FLez05%5FStatLab%5F08ott21%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #statistica_descrittiva 

@@ -1,28 +1,41 @@
-Dato uno spazio fondamentale $\Omega$, si considerano tutti gli eventi di interesse: $\Omega,\ \emptyset,\ A,\ B,\ C$, etc. In alcuni casi si considerano tutti i possibili [[eventi]] (sottoinsiemi di $\Omega$).
+Dato uno [[spazio fondamentale]] $\Omega$, si considerano tutti gli [[evento|eventi]] di interesse: $\Omega,\ \emptyset,\ A,\ B,\ C$, etc. In alcuni casi si considerano tutti i possibili eventi (sottoinsiemi di $\Omega$).
 
-La **probabilità è una misura** che associa ad ogni evento $A \subseteq \Omega$ un numero reale, che indica la sua possibilità di realizzazione.
+La **probabilità è una misura** che associa ad ogni evento $A \subseteq \Omega$ un numero reale, che indica la sua possibilità di realizzazione. ^bd07ea
 
 Seguendo l'impostazione assiomatica di Kolmogorov, una **misura di probabilità** $P$ deve essere tale che:
 * A1. **assioma di non negatività**: per ogni evento $A,\ P(A) \ge 0$;
 * A2. **assioma di normalizzazione**: $P(\Omega) = 1$;
-* A3. **assioma di $\sigma-$additività**: per ogni collezione finita o al più numerale di eventi $A_i$, $i \in i \subseteq \mathbb{N}$, tali che $A_i \cap A_j = \emptyset, i \ne j$, si ha che $P(U_{i \in I} A_i) = \sum_{i \in I} P(A_i)$.
-
+* A3. **assioma di $\sigma-$additività** (additività numerabile): per ogni collezione finita o al più numerale di eventi
+	  $A_i$, $i \in I \subseteq \mathbb{N}$, tali che $A_i \cap A_j = \emptyset, i \ne j$, si ha che $P(\bigcup_{i \in I} A_i) = \sum_{i \in I} P(A_i)$. [^nota]
+	  In altre parole, l'unione di una collezione numerabile di eventi disgiunti è la somma delle corrispondenti probabilità.
+	  
 Dall'assioma A3, discende che, se $A \cap B = \emptyset$, allora $P(A \cup B) = P(A)+P(B)$ (additività semplice).
 
-Un **evento** $A$ tale che $P(A) = 0$ è detto **trascurabile**.
-Un **evento** $A$ tale che $P(A) = 1$ è detto **quasi certo**.
+Un **evento** $A$ tale che **$P(A) = 0$** è detto **trascurabile**.
+Un **evento** $A$ tale che **$P(A) = 1$** è detto **quasi certo**.
+
+
+>[!example] **Esempio**
+>*Dado* ([[Esperimenti Aleatori#^d07ac2|continua]]). Nel caso del lancio di un dado regolare, lo spazio fondamentale è $\Omega = \set{i : i = 1, . . . , 6}$ e ogni faccia ha la stessa probabilità di uscire. 
+>
+>In accordo con tale congettura, si associa ad ogni [[eventi elementari|evento elementare]] i un peso $p_i = 1/6,\ i = 1, . . . , 6$, e, dato un generico evento $A$, $P(A) =\sum_{i \in A} p_i$.
+>
+>Se $A = \set{1, 3, 5}$, allora $P (A) = 1/6 + 1/6 + 1/6 = 1/2$, che corrisponde alla somma dei pesi degli eventi elementari che compongono $A$. 
 
 >[!example] **Esempio**
 >*Dado* ([[Esperimenti Aleatori#^d07ac2|continua]]). Si consideri l'esperimento che consiste nel lanciare un dado regolare. Si è interessati al numero di lanci necessari per ottenere l'esito 6 per la prima volta. In questo caso $\Omega = \mathbb{N}^+$.
->Si può pensare di associare ad ogni evento elementare $i \in \mathbb{N}^+$, "l'esito 6 si verifica per la prima volta al lancio $i$-esimo", il peso $p_i = (5/6)^{i-1} (1/6), che traduce il fatto che ci sono $i-1$ insuccessi prima di osservare l'esito 6 per la prima volta.
+>Si può pensare di associare ad ogni evento elementare $i \in \mathbb{N}^+$, "l'esito 6 si verifica per la prima volta al lancio $i$-esimo", il peso $p_i = (5/6)^{i-1} (1/6)$, che traduce il fatto che ci sono $i-1$ insuccessi prima di osservare l'esito 6 per la prima volta.
 >
 >Anche in questo caso, dato un evento $A$, $P(A) = \sum_{i \in A}p_i$.
 >
 >Se si ha l'evento $A = \{2,4,6,...\}$, "l'esito 6 si verifica per la prima volta in un numero pari di lanci", allora $P(A) = \sum^{+\infty}_{i=1} p_{2i}$.
 
-Questi due esempi suggeriscono il seguente **criterio costruttivo per definire misure di probabilità** che soddisfano i tre assiomi di Kolmogorov, nel caso di esperimenti con $\Omega$ **finito o numerabile**.
+Questi due esempi suggeriscono il seguente **criterio costruttivo per definire misure di probabilità** che soddisfano i tre assiomi di Kolmogorov, nel caso di esperimenti con **$\Omega$ finito o numerabile**.
 
-Ad ogni evento elementare $\omega_i \in \Omega$ si associa un peso $p_i$ tale che $p_i \gt 0$ e evento $A,\ P(A) = \sum_{i \in A} p_i$.
+Ad ogni [[eventi elementari|evento elementare]] $\omega_i \in \Omega$ si associa un peso $p_i$ tale che $p_i \gt 0$ e $\sum_i p_i = 1$ e si definisce la misura di probabilità $P$ tale che, per ogni evento $A,\ P(A) = \sum_{i \in A} p_i$. [^nota2]
+
+In altre parole ==ad ogni evento elementare si associa un peso==, ==maggiore di 0==, dove ==la somma totale dei pesi di tutti gli eventi elementari è uguale a 1==.
+La misura di probabilità ==$P$ è uguale alla somma dei pesi di tutti gli eventi elementari contenuti in $A$==.
 
 In entrambi gli esempi vengono soddisfatte le condizioni sui pesi $p_i$.
 
@@ -41,7 +54,7 @@ Si presentano alcuni risultati che sono *conseguenze* immediate degli *assiomi d
     Infatti, per il secondo e terzo assioma $$ 1 = P(\Omega) = P(A \cup A^C) = P(A) + P(A^C) $$da cui $P(A^C) = 1-P(A)$. 
 3. Se $A \subseteq B$, allora $P(A) \le P(B)$ e $P(B \setminus A) = P(B) - P(A)$.
     Infatti, per il terzo assioma $$P(B) = P((B \setminus A) \cup A) = P(B \setminus A) + P(A)$$ da cui si ottengono entrambi i risultati.
-   4. Dati gli eventi $A$ e $B$, $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
+4.  Dati gli eventi $A$ e $B$, $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
       Poiché $$A \cup B = (A \cap B) \cup [B \setminus (A\cap B)] \cup [A \setminus (A \cap B)] $$il risultato si ottiene dalla seguente relazione $$P(A \cup B) = P (A \cap B) + P(B) - P(A \cap B) + P(A) - P(A \cap B)$$ ![[Pasted image 20240121203745.png]]
 5. Dato un evento $B$ e una partizione $A_i,\ i \in I \subseteq \mathbb{N}$, di $\Omega$, allora $P(B) = \sum_{i \in I} P(B \cap A_i)$ (**formula di addizione**).
     Poiché gli eventi $A,\ i \in I$, sono incompatibili e la loro unione da $\Omega$, anche gli eventi $B \cap A_i,\ i \in I$, sono incompatibili e per il terzo assioma si ha che $$ \begin{gather}
@@ -79,6 +92,11 @@ Quindi la probabilità cercata è $P(A) = 16/216 = 0.006$.
 ***
 Riferimenti:
 [[Lucidi & materiale/4_prob_probelem_L4.pdf#page=12&selection=12,0,12,25|4_prob_probelem_L4, page 12]]
+[UnInsubria - Laboratorio Virtuale di Probabilità e Statistica](https://www.eco.uninsubria.it/VL/VL_IT/prob/prob4.html#:~:text=dell%27unione%20di%20una%20collezione%20finita%20o%20infinita%20ma%20numerabile%20di%20eventi%20disgiunti%20%C3%A8%20la%20somma%20delle%20corrispondenti%20probabilit%C3%A0.)
+
+[^nota]:Nota: $A$ rappresenta un evento non elementare, mentre $A_i, i \in I$ rappresenta una collezione di eventi. $A_i,\ i = n$ invece rappresenta un'evento parte della collezione alla posizione $n$.
+
+[^nota2]:Nota: $\sum_{i \in A} p_i$ è uguale a scrivere $\sum_{\omega_i \in A} p_i$, rappresenta sempre la somma dei pesi degli eventi elementari contenuti in A.
 
 #probabilità 
 #ppt-4 

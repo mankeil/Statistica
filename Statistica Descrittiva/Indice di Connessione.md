@@ -36,7 +36,7 @@ Dal momento che tale valore è lontano dal valore massimo $15 \cdot (3-1) = 30$,
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=20&selection=10,0,10,21|3_Statdescr_Multiv_L3, page 20]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=20&selection=10,0,10,21|3_Statdescr_Multiv_L3, page 20]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

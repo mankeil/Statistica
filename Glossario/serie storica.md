@@ -13,6 +13,6 @@ Si considera il numero di occupati in Italia dal 1997 al 2001.
 
 
 ***
-da [[2_Statdescr_Univ_L2.pdf#page=31&selection=10,0,10,13|2_Statdescr_Univ_L2, pagina 31]]
+da [[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=31&selection=10,0,10,13|2_Statdescr_Univ_L2, pagina 31]]
 
 #glossario 

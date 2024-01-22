@@ -78,8 +78,8 @@ La standardizzazione è utile anche per confrontare e analizzare più insiemi di
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=6&annotation=97R|2_Statdescr_Univ_L2, pagina 6]]
-[[2_Statdescr_Univ_L2.pdf#page=111&selection=10,0,25,0|2_Statdescr_Univ_L2, pagina 111]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=6&annotation=97R|2_Statdescr_Univ_L2, pagina 6]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=111&selection=10,0,25,0|2_Statdescr_Univ_L2, pagina 111]]
 [[OpenIntro Statistics.pdf#page=15&selection=6,0,8,18|Pagina OpenIntro Statistics]]
 
 #statistica_descrittiva

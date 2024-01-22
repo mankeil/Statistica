@@ -22,7 +22,7 @@ Per dati numerici si possono utilizzare, ad esempio:
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=34&selection=10,0,10,24|2_Statdescr_Univ_L2, pagina 34]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=34&selection=10,0,10,24|2_Statdescr_Univ_L2, pagina 34]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

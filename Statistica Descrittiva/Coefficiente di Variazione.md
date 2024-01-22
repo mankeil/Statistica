@@ -12,7 +12,7 @@ Ci si chiede se è più variabile lo sbarco di merci (variabile $X$) o lo sbarco
 ***
 
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=109&selection=10,0,10,47|2_Statdescr_Univ_L2, pagina 109]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=109&selection=10,0,10,47|2_Statdescr_Univ_L2, pagina 109]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

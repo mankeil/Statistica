@@ -6,7 +6,7 @@ Una **distribuzione platicurtica** (**iponormale**) presenta un maggiore appiatt
 ![[Pasted image 20240115215046.png]]
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=115&selection=10,0,10,7|2_Statdescr_Univ_L2, pagina 115]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=115&selection=10,0,10,7|2_Statdescr_Univ_L2, pagina 115]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

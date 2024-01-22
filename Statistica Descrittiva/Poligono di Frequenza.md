@@ -12,7 +12,7 @@ Solo se i rettangoli hanno la stessa base, l'area sottesa dalla linea spezzata c
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=45&selection=10,0,10,21|2_Statdescr_Univ_L2, pagina 45]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=45&selection=10,0,10,21|2_Statdescr_Univ_L2, pagina 45]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

@@ -26,7 +26,7 @@ Dall'analisi del grafico di destra, con le distribuzioni di frequenza distinte p
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=88&selection=4,9,10,25|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=88&selection=4,9,10,25|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

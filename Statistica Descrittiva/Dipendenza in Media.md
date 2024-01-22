@@ -22,7 +22,7 @@ Se si confrontano gli istogrammi per la variabile statistica $Y$ riferita ai due
 
 ***
 Riferimenti:
-[[3_Statdescr_Multiv_L3.pdf#page=25&selection=10,0,10,19|3_Statdescr_Multiv_L3, page 25]]
+[[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=25&selection=10,0,10,19|3_Statdescr_Multiv_L3, page 25]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

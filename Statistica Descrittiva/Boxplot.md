@@ -18,7 +18,7 @@ La comparazione dei boxplot, riferiti alle due tipologie di eruzioni prima delle
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=85&selection=10,0,10,7|2_Statdescr_Univ_L2, page 85]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=85&selection=10,0,10,7|2_Statdescr_Univ_L2, page 85]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

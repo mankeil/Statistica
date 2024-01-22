@@ -10,7 +10,7 @@ Dall'analisi dell'[[Istogramma]] si conferma la sostanziale simmetria.
 
 ***
 Riferimenti:
-[[2_Statdescr_Univ_L2.pdf#page=114&selection=7,1,10,19|2_Statdescr_Univ_L2, pagina 114]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=114&selection=7,1,10,19|2_Statdescr_Univ_L2, pagina 114]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate

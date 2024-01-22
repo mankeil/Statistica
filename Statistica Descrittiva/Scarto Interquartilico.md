@@ -11,7 +11,7 @@ In presenza di poche osservazioni anomale ha proprietà di robustezza.
 ***
 Riferimenti:
 
-[[2_Statdescr_Univ_L2.pdf#page=100&selection=10,0,10,45|Lucido]]
+[[Lucidi & materiale/2_Statdescr_Univ_L2.pdf#page=100&selection=10,0,10,45|Lucido]]
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_univariate
