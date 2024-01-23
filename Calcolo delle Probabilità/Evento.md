@@ -10,7 +10,7 @@ C'è un evidente analogia tra eventi di uno spazio fondamentale e sottoinsiemi d
 È quindi possibile, come per questi ultimi, definire alcune **operazioni logiche sugli eventi**.
 
 Dati due eventi $A, B \subseteq \Omega$
-* $A^C$ indica l'**evento complementare** ad $A$ e contiene tutti gli eventi elementari che *non appartengono o ad $A$*;
+* $A^C$ indica l'**evento complementare** ad $A$ e contiene tutti gli eventi elementari che *non appartengono o ad $A$*; ^5e6f30
 * $A \cup B$ indica l'**evento unione** tra $A$ e $B$ e contiene tutti gli elementi elementari che *appartengono o ad $A$ o a $B$*;
 * $A \cap B$ indica l'**evento intersezione** tra $A$ e $B$ e contiene tutti gli eventi elementari che *appartengono sia ad $A$ che a $B$*
 * $A \setminus B$ indica l'**evento differenza** tra $A$ e $B$ e contiene tutti gli eventi elementari che *appartengono ad $A$ ma non a $B$*.

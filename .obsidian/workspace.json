@@ -18,9 +18,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6f2f8f5b11df5440",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8ddfabc49d164b40",
+            "id": "0fbbc4b5d1061765",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -96,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+                "file": "Glossario/partizione.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+                "file": "Glossario/partizione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md"
+                "file": "Glossario/partizione.md"
               }
             }
           },
@@ -172,9 +178,52 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82c94bbe96a9c0cf",
+  "floating": {
+    "id": "f3dcab255195e96b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f5009108aa84d762",
+        "type": "window",
+        "children": [
+          {
+            "id": "54dcc417a2ccc316",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ea1cbc5042d0193",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Glossario/partizione.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 317,
+        "y": 338,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7ea1cbc5042d0193",
   "lastOpenFiles": [
+    "Calcolo delle Probabilità/Evento.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
     "Indice.md",
+    "Glossario/partizione.md",
+    "Lucidi & materiale/4_prob_probelem_L4.pdf",
+    "Lucidi & materiale/Appendice.pdf",
+    "Lucidi & materiale/Elementi_05.Potenza_Prodotto_Cartesiano.pdf",
     "docs/ghpages/glossario/eventi-elementari.html",
     "docs/ghpages/domande-rapide/domanda-tabella-di-contingenza.html",
     "docs/ghpages/domande-rapide/domanda-indipendenza-statistica.html",
@@ -182,9 +231,6 @@
     "docs/ghpages/domande-rapide/risposte/risposta-tabella-di-contingenza.html",
     "docs/ghpages/domande-rapide/risposte/risposta-indipendenza-statistica.html",
     "docs/ghpages/domande-rapide/risposte/risposta-indice-di-connessione-(1).html",
-    "docs/ghpages/domande-rapide/risposte",
-    "docs/ghpages/domande-rapide",
-    "docs/ghpages/calcolo-delle-probabilità/spazio-fondamentale.html",
     "Statistica Descrittiva/Varianza.md",
     "Statistica Descrittiva/Variabili.md",
     "Statistica Descrittiva/Valori e Residui Stimati dal Modello.md",
@@ -206,10 +252,6 @@
     "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
     "Statistica Descrittiva/Indice di Simmetria.md",
     "Statistica Descrittiva/Indice di Curtosi.md",
-    "Statistica Descrittiva/Indice di Connessione.md",
-    "Statistica Descrittiva/Funzione di Ripartizione Empirica.md",
-    "Statistica Descrittiva/Frequenze Assolute.md",
-    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
     "docs/ghpages/lib/media/pasted-image-20240116174002.png",
     "docs/ghpages/lib/media/pasted-image-20240116173224.png",
     "docs/ghpages/lib/media/pasted-image-20240110025450.png",

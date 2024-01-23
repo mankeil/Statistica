@@ -19,3 +19,8 @@
     --callout-color: 247, 193, 67;
     --callout-icon: lucide-function-square ;
 }
+
+.callout[data-callout="remember"] {
+    --callout-color: var(--callout-tip);
+    --callout-icon: lucide-rewind;
+}

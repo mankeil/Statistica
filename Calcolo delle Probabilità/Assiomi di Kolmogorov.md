@@ -4,11 +4,10 @@ La **probabilità è una misura** che associa ad ogni evento $A \subseteq \Omega
 
 Seguendo l'impostazione assiomatica di Kolmogorov, una **misura di probabilità** $P$ deve essere tale che:
 * A1. **assioma di non negatività**: per ogni evento $A,\ P(A) \ge 0$;
-* A2. **assioma di normalizzazione**: $P(\Omega) = 1$;
+* A2. **assioma di normalizzazione**: $P(\Omega) = 1$; ^71fbeb
 * A3. **assioma di $\sigma-$additività** (additività numerabile): per ogni collezione finita o al più numerale di eventi
-	  $A_i$, $i \in I \subseteq \mathbb{N}$, tali che $A_i \cap A_j = \emptyset, i \ne j$, si ha che $P(\bigcup_{i \in I} A_i) = \sum_{i \in I} P(A_i)$. [^nota]
-	  In altre parole, l'unione di una collezione numerabile di eventi disgiunti è la somma delle corrispondenti probabilità.
-	  
+	$A_i$, $i \in I \subseteq \mathbb{N}$, tali che $A_i \cap A_j = \emptyset, i \ne j$, si ha che $P(\bigcup_{i \in I} A_i) = \sum_{i \in I} P(A_i)$. [^nota]
+	  In altre parole, l'unione di una collezione numerabile di eventi disgiunti è la somma delle corrispondenti probabilità. 
 Dall'assioma A3, discende che, se $A \cap B = \emptyset$, allora $P(A \cup B) = P(A)+P(B)$ (additività semplice).
 
 Un **evento** $A$ tale che **$P(A) = 0$** è detto **trascurabile**.
@@ -41,7 +40,7 @@ In entrambi gli esempi vengono soddisfatte le condizioni sui pesi $p_i$.
 
 Se $\Omega$ è **finito** e gli **eventi elementari** sono **equiprobabili**, come ad esempio nel caso del singolo di un dado regolare, il criterio evidenziato in precedenza corrisponde alla **definizione classica di probabilità**.
 
-Infatti, se $\Omega$ è costituito da $n$ eventi elementari equiprobabili e $A = \{\omega_i, i \in I\}$, con $I \subseteq \{1,...,n\}$, allora $p_i = 1 / n,\ i=1,...,n$, e $$ P(A) = \sum_{i \in I} \frac{1}{n} = \frac{\text{no. casi favorevoli ad } A}{\text{no. casi possibili}}$$ Quando si parla di "scelta a caso di un elemento di un insieme" $\Omega$ finito, i intende implicitamente che tutti gli eventi elementari sono ugualmente probabili.
+Infatti, se $\Omega$ è costituito da $n$ eventi elementari equiprobabili e $A = \{\omega_i, i \in I\}$, con $I \subseteq \{1,...,n\}$, allora $p_i = 1 / n,\ i=1,...,n$, e $$ P(A) = \sum_{i \in I} \frac{1}{n} = \frac{\text{no. casi favorevoli ad } A}{\text{no. casi possibili}}$$ Quando si parla di "scelta a caso di un elemento di un insieme" $\Omega$ finito, si intende implicitamente che tutti gli eventi elementari sono ugualmente probabili.
 
 In molti casi bisogna fare attenzione a definire in modo corretto gli eventi elementari.
 
@@ -50,18 +49,20 @@ In molti casi bisogna fare attenzione a definire in modo corretto gli eventi ele
 Si presentano alcuni risultati che sono *conseguenze* immediate degli *assiomi di Kolmogorov*.
 1. $P(\emptyset) = 0$. 
     Infatti, per il secondo e terzo assioma, $$ 1 = P(\Omega) = P (\Omega \cup \emptyset) = P(\Omega) + P(\emptyset) = 1 + P(\emptyset)$$da cui $P(\emptyset)=0$.
-2. Per ogni evento $A,\ P(A^C) = 1 - P(A)$.
+2. Per ogni evento $A,\ P(A^C) = 1 - P(A)$. Dove $A^C$ è l'[[Evento#^5e6f30|evento complementare]]
     Infatti, per il secondo e terzo assioma $$ 1 = P(\Omega) = P(A \cup A^C) = P(A) + P(A^C) $$da cui $P(A^C) = 1-P(A)$. 
 3. Se $A \subseteq B$, allora $P(A) \le P(B)$ e $P(B \setminus A) = P(B) - P(A)$.
     Infatti, per il terzo assioma $$P(B) = P((B \setminus A) \cup A) = P(B \setminus A) + P(A)$$ da cui si ottengono entrambi i risultati.
 4.  Dati gli eventi $A$ e $B$, $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
       Poiché $$A \cup B = (A \cap B) \cup [B \setminus (A\cap B)] \cup [A \setminus (A \cap B)] $$il risultato si ottiene dalla seguente relazione $$P(A \cup B) = P (A \cap B) + P(B) - P(A \cap B) + P(A) - P(A \cap B)$$ ![[Pasted image 20240121203745.png]]
-5. Dato un evento $B$ e una partizione $A_i,\ i \in I \subseteq \mathbb{N}$, di $\Omega$, allora $P(B) = \sum_{i \in I} P(B \cap A_i)$ (**formula di addizione**).
+5. Dato un evento $B$ e una [[partizione]] $A_i,\ i \in I \subseteq \mathbb{N}$, di $\Omega$, allora $P(B) = \sum_{i \in I} P(B \cap A_i)$ (**formula di addizione**).
     Poiché gli eventi $A,\ i \in I$, sono incompatibili e la loro unione da $\Omega$, anche gli eventi $B \cap A_i,\ i \in I$, sono incompatibili e per il terzo assioma si ha che $$ \begin{gather}
    P(B) = P(B \cap \Omega) = P \left(B \cap \bigcup_{i \in I} A_i \right) = \\
    = P \left( \bigcup_{i \in I} B \cap A_i \right) = \sum_{i \in I} P(B \cap A_i)
-   \end{gather}$$ ![[Pasted image 20240121204449.png]]
-   
+   \end{gather}$$![[Pasted image 20240121204449.png]]
+>[!remember]- Ricorda
+   >L'insieme delle partizioni ricopre tutto $\Omega$: $\bigcup^n_{i=1} A_i = \Omega$
+
 >[!example] **Esempio**
 >*Lotteria*. Una lotteria è costituita 1000 biglietti, di cui 5 vincenti. Si scelgono a caso 10 biglietti. Si vuole determinare la probabilità di $A =$ "un biglietto vincente".
 >
