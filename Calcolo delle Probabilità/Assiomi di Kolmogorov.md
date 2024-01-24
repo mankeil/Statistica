@@ -11,7 +11,7 @@ Seguendo l'impostazione assiomatica di Kolmogorov, una **misura di probabilità*
 Dall'assioma A3, discende che, se $A \cap B = \emptyset$, allora $P(A \cup B) = P(A)+P(B)$ (additività semplice).
 
 Un **evento** $A$ tale che **$P(A) = 0$** è detto **trascurabile**.
-Un **evento** $A$ tale che **$P(A) = 1$** è detto **quasi certo**.
+Un **evento** $A$ tale che **$P(A) = 1$** è detto **quasi certo**. ^c15cc2
 
 
 >[!example] **Esempio**
@@ -61,7 +61,7 @@ Si presentano alcuni risultati che sono *conseguenze* immediate degli *assiomi d
    = P \left( \bigcup_{i \in I} B \cap A_i \right) = \sum_{i \in I} P(B \cap A_i)
    \end{gather}$$![[Pasted image 20240121204449.png]]
 >[!remember]- Ricorda
-   >L'insieme delle partizioni ricopre tutto $\Omega$: $\bigcup^n_{i=1} A_i = \Omega$
+   >L'insieme delle partizioni ricopre tutto $\Omega$: $\bigcup^n_{i=1} A_i = \Omega$ ^0533a7
 
 >[!example] **Esempio**
 >*Lotteria*. Una lotteria è costituita 1000 biglietti, di cui 5 vincenti. Si scelgono a caso 10 biglietti. Si vuole determinare la probabilità di $A =$ "un biglietto vincente".

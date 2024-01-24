@@ -6,6 +6,7 @@
   "nativeMenus": false,
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "customCallout"
+    "customCallout",
+    "table"
   ]
 }

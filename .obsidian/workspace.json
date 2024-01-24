@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-                "mode": "preview",
+                "file": "Indice.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -22,11 +22,21 @@
         ]
       },
       {
-        "id": "6f2f8f5b11df5440",
+        "id": "27f128dccaa8242a",
         "type": "tabs",
         "children": [
           {
-            "id": "0fbbc4b5d1061765",
+            "id": "58e6ee8cd9940f20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/Appendice.pdf"
+              }
+            }
+          },
+          {
+            "id": "553864ce14bd4ef6",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -35,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"evento elementare\"",
+                "query": "trascu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossario/partizione.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossario/partizione.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossario/partizione.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -178,51 +190,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "f3dcab255195e96b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f5009108aa84d762",
-        "type": "window",
-        "children": [
-          {
-            "id": "54dcc417a2ccc316",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ea1cbc5042d0193",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Glossario/partizione.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 338,
-        "width": 802,
-        "height": 402,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7ea1cbc5042d0193",
+  "active": "82c94bbe96a9c0cf",
   "lastOpenFiles": [
-    "Calcolo delle Probabilità/Evento.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-    "Indice.md",
-    "Glossario/partizione.md",
+    "Indipendenza tra Eventi.md",
     "Lucidi & materiale/4_prob_probelem_L4.pdf",
+    "Indice.md",
+    "Untitled.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Calcolo delle Probabilità/Evento.md",
+    "Glossario/coefficiente binomiale.md",
+    "Calcolo delle Probabilità/Probabilità Condizionata.md",
     "Lucidi & materiale/Appendice.pdf",
+    "Glossario/partizione.md",
     "Lucidi & materiale/Elementi_05.Potenza_Prodotto_Cartesiano.pdf",
     "docs/ghpages/glossario/eventi-elementari.html",
     "docs/ghpages/domande-rapide/domanda-tabella-di-contingenza.html",
@@ -248,10 +227,6 @@
     "Statistica Descrittiva/Mediana.md",
     "Statistica Descrittiva/Media Aritmetica.md",
     "Statistica Descrittiva/Istogramma.md",
-    "Statistica Descrittiva/Indipendenza statistica.md",
-    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
-    "Statistica Descrittiva/Indice di Simmetria.md",
-    "Statistica Descrittiva/Indice di Curtosi.md",
     "docs/ghpages/lib/media/pasted-image-20240116174002.png",
     "docs/ghpages/lib/media/pasted-image-20240116173224.png",
     "docs/ghpages/lib/media/pasted-image-20240110025450.png",
