@@ -14,5 +14,6 @@
     "docs/"
   ],
   "defaultViewMode": "source",
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }

@@ -29,12 +29,13 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "G:\\My Drive\\Scuola\\Università\\Statistica\\docs\\ghpages",
+  "exportPath": "C:\\Users\\manue\\Documents\\UNIUD\\Statistica\\docs\\ghpages",
   "filesToExport": [
     [
       "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
       "Calcolo delle Probabilità/Esperimenti Aleatori.md",
       "Calcolo delle Probabilità/Evento.md",
+      "Calcolo delle Probabilità/Indipendenza tra Eventi.md",
       "Calcolo delle Probabilità/Introduzione al Calcolo delle Probabilità.md",
       "Calcolo delle Probabilità/Probabilità Condizionata.md",
       "Calcolo delle Probabilità/Spazio Fondamentale.md",
@@ -44,6 +45,7 @@
       "Domande Rapide/Domanda - Indice di Connessione (1).md",
       "Domande Rapide/Domanda - Indipendenza Statistica.md",
       "Domande Rapide/Domanda - Tabella di Contingenza.md",
+      "Glossario/coefficiente binomiale.md",
       "Glossario/distribuzione.md",
       "Glossario/Distribuzione di Probabilità.md",
       "Glossario/eventi elementari.md",

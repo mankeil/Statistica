@@ -92,13 +92,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "045c581cf12646b7",
@@ -190,16 +188,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82c94bbe96a9c0cf",
+  "floating": {
+    "id": "f3dcab255195e96b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "927e01be8cc24d9b",
+        "type": "window",
+        "children": [
+          {
+            "id": "d18ab2c38c642cf3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a36d39417706f3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Indice.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 317,
+        "y": 338,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3a36d39417706f3d",
   "lastOpenFiles": [
-    "Indipendenza tra Eventi.md",
-    "Lucidi & materiale/4_prob_probelem_L4.pdf",
-    "Indice.md",
-    "Untitled.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-    "Calcolo delle Probabilità/Evento.md",
     "Glossario/coefficiente binomiale.md",
     "Calcolo delle Probabilità/Probabilità Condizionata.md",
+    "Calcolo delle Probabilità/Indipendenza tra Eventi.md",
+    "Calcolo delle Probabilità/Evento.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Indice.md",
+    "Untitled.md",
+    "Lucidi & materiale/4_prob_probelem_L4.pdf",
     "Lucidi & materiale/Appendice.pdf",
     "Glossario/partizione.md",
     "Lucidi & materiale/Elementi_05.Potenza_Prodotto_Cartesiano.pdf",
