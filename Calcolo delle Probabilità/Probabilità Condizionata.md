@@ -17,7 +17,7 @@ La quantità $P(A)$ al denominatore permette di ristabilire le proporzioni, assi
 
 Dalla [[Probabilità Condizionata#^bacbea|definizione]] di probabilità condizionata si ottiene la **formula della probabilità composta** (**formula di moltiplicazione**) $$ P(B\cap A) = P(A) P(B|A) $$con $A,\ B$ eventi tali che $P(A) \gt 0$. ^3bf48e
 
-La formula di moltiplicazione si può estendere anche al caso di tre o più eventi. Ad esempio, dati $A_1,\ A_2,\ A_3$, tali che $P(A_1 \cap A_2) \gt 0$, $$ P(A_1 \cap A_2 \cap A_3) = P(A_1)P(A_2|A_1)P(A_3|A_1 \cap A_2)$$ 
+La formula di moltiplicazione si può estendere anche al caso di tre o più eventi. Ad esempio, dati $A_1,\ A_2,\ A_3$, tali che $P(A_1 \cap A_2) \gt 0$, $$ P(A_1 \cap A_2 \cap A_3) = P(A_1)P(A_2|A_1)P(A_3|A_1 \cap A_2)$$  ^a019ca
 >[!example] **Esempio**
 >*Due palline*. Si consideri l'estrazione, senza reinserimento, di due palline da un'urna contenente dieci palline nere e cinque bianche. Si vuole calcolare la probabilità che esca pallina nera in entrambe le estrazioni.
 >
@@ -27,7 +27,7 @@ La formula di moltiplicazione si può estendere anche al caso di tre o più even
 
 Utilizzando alcune relazioni considerate in precedenza, si ottiene il seguente risultato, che risulta molto utile nelle applicazioni.
 
-Dato un evento $B$ e una [[partizione]] $A_i, i \in I \subseteq \mathbb{N}$, di $\Omega$, con $P(A_i) \gt 0$, vale la **formula della probabilità totale** $$ P(B) = \sum_{i \in I} P(B \cap A_i) = \sum_{i \in I} P(A_i) P(B|A_i)$$Infatti, considerando la [[Assiomi di Kolmogorov#^0533a7|formula di addizione]], dal momento che, per la [[Probabilità Condizionata#^3bf48e|formula di moltiplicazione]], $P(B \cap A_i) = P(A_i)P(B|A_i),\ i \in I$, si ottiene immediatamente il risultato.
+Dato un evento $B$ e una [[partizione]] $A_i, i \in I \subseteq \mathbb{N}$, di $\Omega$, con $P(A_i) \gt 0$, vale la **formula della probabilità totale** $$ P(B) = \sum_{i \in I} P(B \cap A_i) = \sum_{i \in I} P(A_i) P(B|A_i)$$Infatti, considerando la [[Assiomi di Kolmogorov#^0533a7|formula di addizione]], dal momento che, per la [[Probabilità Condizionata#^3bf48e|formula di moltiplicazione]], $P(B \cap A_i) = P(A_i)P(B|A_i),\ i \in I$, si ottiene immediatamente il risultato. ^0630c5
 
 >[!example] **Esempio**
 >*Spam*. Si suppone di possedere tre caselle di posta elettronica.
@@ -44,6 +44,8 @@ Evidentemente $\set{A_1,\ A_2,\ A_3}$ è una partizione di $\Omega$ costituita d
 Poiché $$P(B|A_1) = 0.01,\ P(B|A_2) = 0.02,\ P(B|A_3)=0.05,$$utilizzando la formula della probabilità totale, si ottiene che $$ \begin{gather} 
 P(B) = \sum^3_{i=1} P(A_1)P(B|A_i) = \\ 
 = 0.7 \cdot 0.01 + 0.2 \cdot 0.02 + 0.1 \cdot 0.05 \doteq 0.016 \end{gather}$$
+
+^e57a3b
 
 
 >[!example] **Esempio**

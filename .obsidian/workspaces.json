@@ -35,7 +35,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
+                    "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
                   }
                 }
               }
@@ -89,8 +89,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
+        "width": 300
       },
       "right": {
         "id": "045c581cf12646b7",
@@ -106,7 +105,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf",
+                    "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf",
                     "collapseAll": false,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf",
+                    "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -146,7 +145,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
+                    "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
                   }
                 }
               },

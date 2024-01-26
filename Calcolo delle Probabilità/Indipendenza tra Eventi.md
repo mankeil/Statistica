@@ -4,7 +4,7 @@ Formalmente, due eventi $A$ e $B$ si dicono (**stocasticamente**[^defDizionario1
 Si verifica che:
 * se $A$ e $B$ sono non [[Assiomi di Kolmogorov#^c15cc2|trascurabili]], la definizione di indipendenza è equivalente a $P(B|A) = P(B)$ oppure $P(A|B) = P(A)$;
 * se $A$ e $B$ sono indipendenti, allora lo sono anche $A$ e $B^C$, $A^C$ e $B$, $A^C$ e $B^C$;
-* $\Omega,\ \emptyset$, ed anche ogni evento trascurabile, non indipendenti da qualsiasi evento.
+* $\Omega,\ \emptyset$, ed anche ogni evento trascurabile, sono indipendenti da qualsiasi evento.
 
 
 >[!example] **Esempio**
@@ -28,8 +28,9 @@ P(A_2 \cap A_3) = P(A_2)P(A_3),\quad P(A_1 \cap A_3) = P(A_1)P(A_3)
 >Sia $A_i =$ "il componente $i$-esimo si rompe", $i = 1,...,6$, e $B =$ "il circuito si interrompe". Poiché gli eventi $A_i$ sono indipendenti, lo sono anche i corrispondenti complementari.
 >
 >Se i componenti sono in serie, il circuito si interrompe se almeno un componente si rompe, quindi: $$ P(B) = 1-P(B^C) = 1 - P(A^C_1 \cap ... \cap A^C_6) = 1 - \prod^6_{i=1} P(A^C_i) \doteq 0.738 $$
+>
+Se i componenti sono in parallelo, il circuito si interrompe se tutti i componenti si rompono, quindi $$ P(B) = P(A_1 \cap ... \cap A_6) = \prod^6_{i=1} P(A_i) = 0.00001 $$
 
-Se i componenti sono in parallelo, il circuito si interrompe se tutti i componenti si rompono, quindi $$ P(B) = P(A_1 \cap ... \cap A_6) = \prod^6_{i=1} P(A_1) = 0.00001 $$
 >[!example] **Esempio**
 >*Uomini e donne*. In una stanza ci sono 5 uomini e 5 donne. Si scelgono a caso due persone (senza reinserimento). Quale è la probabilità che siano entrambe donne?
 >
@@ -37,7 +38,7 @@ Se i componenti sono in parallelo, il circuito si interrompe se tutti i componen
 >Visto che $P(A_1) = 5/10$ e $P(A_1 | A_1)  = 4/9$, la probabilità cercata è $$ P(A_1 \cap A_2) = P(A_1)P(A_2 | A_1) \doteq 0.22$$ Gli eventi non trascurabili $A_1$ e $A_2$ sono dipendenti poiché $$ P(A_2) = 1/2 \quad \text{e} \quad P(A_2 | A_1) = 4/9$$
 
 >[!example] **Esempio**
->Banca. Una filiale di un istituto bancario a 1210 clienti titolari di conto corrente.
+>*Banca*. Una filiale di un istituto bancario a 1210 clienti titolari di conto corrente.
 >
 >L'ufficio crediti distingue tra *buoni* e *cattivi* clienti, tenendo conto delle eventuali insolvenze. Inoltre, sono noti i dati sull'eventuale possesso della carta di credito.
 >

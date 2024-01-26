@@ -20,7 +20,17 @@
     --callout-icon: lucide-function-square ;
 }
 
-.callout[data-callout="remember"] {
+.callout[data-callout="reminder"] {
     --callout-color: var(--callout-tip);
     --callout-icon: lucide-rewind;
+}
+
+.callout[data-callout="indeed"] {
+    --callout-color: var(--callout-tip);
+    --callout-icon: lucide-compass;
+}
+
+.callout[data-callout="premise"] {
+    --callout-color: var(--callout-quote);
+    --callout-icon: lucide-book-text;
 }

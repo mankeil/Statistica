@@ -11,9 +11,13 @@
   "userIgnoreFilters": [
     "varie/templates/",
     "Prontocarte/",
-    "docs/"
+    "docs/",
+    "Indice",
+    "/Glossario/Distribuzione di Probabilità"
   ],
   "defaultViewMode": "source",
   "vimMode": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "rightToLeft": false
 }

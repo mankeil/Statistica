@@ -16,7 +16,8 @@ Dati due eventi $A, B \subseteq \Omega$
 * $A \setminus B$ indica l'**evento differenza** tra $A$ e $B$ e contiene tutti gli eventi elementari che *appartengono ad $A$ ma non a $B$*.
 $\Omega$ è detto anche **evento certo** (contiene tutti gli eventi elementari), mentre con il simbolo $\emptyset$ indica l'**evento impossibile**  (non contiene eventi elementari).
 
-Se $A \cap B = \emptyset$, gli eventi $A$ e $B$ si dicono **incompatibili** (**disgiunti**), poiché *non hanno eventi elementari in comune* e quindi non si realizzano contemporaneamente. ^74aea2
+Se $A \cap B = \emptyset$, gli eventi $A$ e $B$ si dicono **incompatibili** (**disgiunti**), poiché *non hanno eventi elementari in comune* e quindi non si realizzano contemporaneamente. 
+Due eventi *incompatibili* sono necessariamente *[[Indipendenza tra Eventi|dipendenti]]*. ^74aea2
 
 Se $A \subseteq B$, allora $A$ **implica** $B$, poiché *tutti gli eventi elementari di $A$ cadono anche in $B$* (il viceversa non è necessariamente vero), quindi la realizzazione di $A$ implica la realizzazione di $B$.
 

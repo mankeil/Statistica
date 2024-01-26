@@ -60,7 +60,7 @@ Si presentano alcuni risultati che sono *conseguenze* immediate degli *assiomi d
    P(B) = P(B \cap \Omega) = P \left(B \cap \bigcup_{i \in I} A_i \right) = \\
    = P \left( \bigcup_{i \in I} B \cap A_i \right) = \sum_{i \in I} P(B \cap A_i)
    \end{gather}$$![[Pasted image 20240121204449.png]]
->[!remember]- Ricorda
+>[!reminder]- Ripasso
    >L'insieme delle partizioni ricopre tutto $\Omega$: $\bigcup^n_{i=1} A_i = \Omega$ ^0533a7
 
 >[!example] **Esempio**

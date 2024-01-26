@@ -23,7 +23,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ### Indici Sintetici
 [[Indici Sintetici - Introduzione]]
 [[Media Aritmetica]]
-[[Mediana]]
+[[mediana]]
 [[Quantili]]
 [[Moda]]
 [[Indici di Variabilità - Introduzione]]
@@ -67,8 +67,17 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Assiomi di Kolmogorov]]
 [[Probabilità Condizionata]]
 [[Indipendenza tra Eventi]]
+[[Teorema di Bayes]]
 ## II-2 Variabili Casuali
 
+[[Variabili Casuali]]
+[[Funzione di Ripartizione]]
+[[Funzione di Probabilità]]
+[[Funzione di Densità]]
+
+### Indici Sintetici
+[[Indici Sintetici per Variabili Casuali - Introduzione]]
+[[Valore Atteso]]
 ## II-3 Modelli Probabilistici
 [[6.0 Introduzione ai Modelli]]
 [[6.1 Modello uniforme discreto]]

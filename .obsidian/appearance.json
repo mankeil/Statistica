@@ -6,7 +6,8 @@
   "nativeMenus": false,
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "customCallout",
-    "table"
-  ]
+    "table",
+    "customCallout"
+  ],
+  "translucency": false
 }

@@ -4,7 +4,7 @@ Un indice di posizione è espresso nell'ordine di grandezza di $Y$ e individua t
 
 Si presentano i seguenti **indici di posizione**:
 * [[Media Aritmetica]]
-* [[Mediana]]
+* [[mediana]]
 * [[Quantili]]
 * [[Moda]]
 

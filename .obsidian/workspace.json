@@ -6,6 +6,7 @@
       {
         "id": "e6db4c688bc4b98f",
         "type": "tabs",
+        "dimension": 41.89008042895443,
         "children": [
           {
             "id": "82c94bbe96a9c0cf",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Calcolo delle Probabilità/Funzione di Densità.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,31 +23,21 @@
         ]
       },
       {
-        "id": "27f128dccaa8242a",
+        "id": "21c3edc59ac61f37",
         "type": "tabs",
+        "dimension": 58.10991957104557,
         "children": [
           {
-            "id": "58e6ee8cd9940f20",
+            "id": "da495112b072b74c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lucidi & materiale/Appendice.pdf"
-              }
-            }
-          },
-          {
-            "id": "553864ce14bd4ef6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lucidi & materiale/4_prob_probelem_L4.pdf"
+                "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trascu",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,19 +180,19 @@
     }
   },
   "floating": {
-    "id": "f3dcab255195e96b",
+    "id": "98221476402797a6",
     "type": "floating",
     "children": [
       {
-        "id": "927e01be8cc24d9b",
+        "id": "4909b7367380e659",
         "type": "window",
         "children": [
           {
-            "id": "d18ab2c38c642cf3",
+            "id": "81621a35602ef54a",
             "type": "tabs",
             "children": [
               {
-                "id": "3a36d39417706f3d",
+                "id": "b4d7113cd15882b6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -225,53 +216,53 @@
       }
     ]
   },
-  "active": "3a36d39417706f3d",
+  "active": "b4d7113cd15882b6",
   "lastOpenFiles": [
-    "Glossario/coefficiente binomiale.md",
-    "Calcolo delle Probabilità/Probabilità Condizionata.md",
+    "Calcolo delle Probabilità/Variabili Casuali.md",
     "Calcolo delle Probabilità/Indipendenza tra Eventi.md",
+    "Calcolo delle Probabilità/Funzione di Ripartizione.md",
+    "Calcolo delle Probabilità/Funzione di Probabilità.md",
+    "Calcolo delle Probabilità/Funzione di Densità.md",
     "Calcolo delle Probabilità/Evento.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "supporto di una variabile casuale.md",
     "Indice.md",
-    "Untitled.md",
+    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
+    "Varie/imgs/Pasted image 20240127004214.png",
+    "Varie/imgs/Pasted image 20240127003058.png",
+    "Calcolo delle Probabilità/Spazio Fondamentale.md",
+    "Varie/imgs/Pasted image 20240126022948.png",
+    "Varie/imgs/Pasted image 20240126022501.png",
+    "Varie/imgs/Pasted image 20240126022128.png",
+    "Varie/imgs/Pasted image 20240126010258.png",
+    "Varie/imgs/Pasted image 20240126001749.png",
+    "Varie/imgs/Pasted image 20240126001744.png",
+    "Varie/imgs/Pasted image 20240126000238.png",
+    "6 Modelli/6.0 Introduzione ai Modelli.md",
+    "6 Modelli/6.1 Modello uniforme discreto.md",
     "Lucidi & materiale/4_prob_probelem_L4.pdf",
+    "Lucidi & materiale/6_prob_modelli_L6.pdf",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Untitled.md",
+    "docs/ghpages/glossario/funzione-di-densità(old).html",
+    "docs/ghpages/calcolo-delle-probabilità/variabili-casuali.html",
+    "docs/ghpages/calcolo-delle-probabilità/teorema-di-bayes.html",
+    "docs/ghpages/calcolo-delle-probabilità/funzione-di-ripartizione.html",
+    "Calcolo delle Probabilità/Teorema di Bayes.md",
+    "Calcolo delle Probabilità/Esperimenti Aleatori.md",
+    "Calcolo delle Probabilità/Probabilità Condizionata.md",
+    "Statistica Descrittiva/Mediana.md",
+    "Statistica Descrittiva/Variabili.md",
+    "Varie/imgs/Pasted image 20240124234314.png",
     "Lucidi & materiale/Appendice.pdf",
-    "Glossario/partizione.md",
+    "Statistica Descrittiva/Boxplot.md",
+    "Statistica Descrittiva/Indice di Simmetria.md",
+    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
+    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
+    "Statistica Descrittiva/Quantili.md",
+    "Statistica Descrittiva/Simmetria.md",
+    "Calcolo delle Probabilità/Mediana.md",
     "Lucidi & materiale/Elementi_05.Potenza_Prodotto_Cartesiano.pdf",
     "docs/ghpages/glossario/eventi-elementari.html",
-    "docs/ghpages/domande-rapide/domanda-tabella-di-contingenza.html",
-    "docs/ghpages/domande-rapide/domanda-indipendenza-statistica.html",
-    "docs/ghpages/domande-rapide/domanda-indice-di-connessione-(1).html",
-    "docs/ghpages/domande-rapide/risposte/risposta-tabella-di-contingenza.html",
-    "docs/ghpages/domande-rapide/risposte/risposta-indipendenza-statistica.html",
-    "docs/ghpages/domande-rapide/risposte/risposta-indice-di-connessione-(1).html",
-    "Statistica Descrittiva/Varianza.md",
-    "Statistica Descrittiva/Variabili.md",
-    "Statistica Descrittiva/Valori e Residui Stimati dal Modello.md",
-    "Statistica Descrittiva/Tabella di Contingenza.md",
-    "Statistica Descrittiva/Studio della Dipendenza.md",
-    "Statistica Descrittiva/Stima della Densità.md",
-    "Statistica Descrittiva/Simmetria.md",
-    "Statistica Descrittiva/Scarto Interquartilico.md",
-    "Statistica Descrittiva/Regressione Lineare Semplice.md",
-    "Statistica Descrittiva/Rappresentazioni grafiche - Introduzione.md",
-    "Statistica Descrittiva/Quantili.md",
-    "Statistica Descrittiva/Poligono di Frequenza.md",
-    "Statistica Descrittiva/Moda.md",
-    "Statistica Descrittiva/Metodo dei Minimi Quadrati.md",
-    "Statistica Descrittiva/Mediana.md",
-    "Statistica Descrittiva/Media Aritmetica.md",
-    "Statistica Descrittiva/Istogramma.md",
-    "docs/ghpages/lib/media/pasted-image-20240116174002.png",
-    "docs/ghpages/lib/media/pasted-image-20240116173224.png",
-    "docs/ghpages/lib/media/pasted-image-20240110025450.png",
-    "docs/ghpages/lib/media/pasted-image-20240110022543.png",
-    "docs/lib/media/pasted-image-20240118023438.png",
-    "docs/lib/media/pasted-image-20240118023240.png",
-    "docs/lib/media/pasted-image-20240118023122.png",
-    "docs/lib/media/pasted-image-20240117214824.png",
-    "docs/lib/media/pasted-image-20240117214733.png",
-    "docs/lib/media/pasted-image-20240117214322.png",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"
