@@ -6,3 +6,4 @@ $$ f(x)=p(X=x) $$
 ![[Pasted image 20240110022543.png|esempio di rappresentazione grafica di una distribuzione]]
 
 #glossario 
+#old

@@ -12,3 +12,4 @@ La densità ha un proprietà speciale: l'area totale sotto una curva di densità
 ![[Pasted image 20240110025450.png]]
 
 #glossario 
+#old

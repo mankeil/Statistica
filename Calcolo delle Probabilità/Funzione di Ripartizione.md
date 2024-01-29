@@ -4,10 +4,12 @@ In genere, non si fa menzione dello spazio di partenza e si identifica una varia
 
 Due variabili casuali $X$ e $Y$ sono dette **identicamente distribuite**, in simboli $X \sim Y$, se $P(X \in B) = P(Y \in B)$, per ogni $B \subseteq \mathbb{R}$.
 
-Per specificare la distribuzione di probabilità di una variabile casuale $X$ si considera la nozione di **funzione di ripartizione**, intesa come un'applicazione $F_X : \mathbb{R} \rightarrow [0,1]$, tale che $$ F_X{x} = P(X \le x),\quad x \in \mathbb{R} $$La conoscenza di $F_X$ permette di calcolare, eventualmente con procedimenti di limite, tutte le probabilità $P(X \in B),\ B \subseteq \mathbb{R}$.
+Per specificare la distribuzione di probabilità di una variabile casuale $X$ si considera la nozione di **funzione di ripartizione**, intesa come un'applicazione $F_X : \mathbb{R} \rightarrow [0,1]$, tale che $$ F_X(x) = P(X \le x),\quad x \in \mathbb{R} $$La probabilità che $X$ abbia un valore minore o uguale a $x$.
+
+La conoscenza di $F_X$ permette di calcolare, eventualmente con procedimenti di limite, tutte le probabilità $P(X \in B),\ B \subseteq \mathbb{R}$.
 In particolare, per ogni $a,b \in \mathbb{R}, a \lt b$, $$
 \begin{gather}
- P(a \lt X \le b) = F_X(b) - F_X(a),\ P(X \gt a) = 1-F_X(a) \\
+ P(a \lt X \le b) = F_X(b) - F_X(a), & P(X \gt a) = 1-F_X(a) \\ \\
  P(X = b) = F_X(b) - \lim_{x \rightarrow b^-} F_X(x)
  \end{gather} $$ La funzione di ripartizione verifica le tre seguenti **proprietà caratterizzanti**:
  * $F_X$ è monotona non decrescente;

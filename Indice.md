@@ -23,7 +23,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ### Indici Sintetici
 [[Indici Sintetici - Introduzione]]
 [[Media Aritmetica]]
-[[mediana]]
+[[Mediana]]
 [[Quantili]]
 [[Moda]]
 [[Indici di Variabilità - Introduzione]]
