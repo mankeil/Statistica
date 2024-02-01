@@ -1,9 +1,11 @@
-Una distribuzione di [[probabilità|probabilità]] è una rappresentazione matematica della probabilità associata ai diversi risultati possibili di un esperimento o di un fenomeno casuale. Può essere visualizzata tramite un grafico, come un istogramma per variabili discrete o una curva di densità per variabili continue. Le distribuzioni di probabilità sono fondamentali nella statistica poiché forniscono una comprensione strutturata delle incertezze e delle [[frequenze]] associate a determinati eventi.
+La misura di probabilità riferita agli eventi $X \in B,\ B \subseteq \mathbb{R}$, associati alla [[Variabili Casuali|variabile casuale]] $X$, soddisfa gli [[assiomi di Kolmogorov]] ed è detta **distribuzione (legge) di probabilità** di $X$.
 
->Data una variabile discreta $X$, la distribuzione di probabilità di $X$ è la funzione $f(x)$ che associa ogni valore $x \in \mathbb{R}$ la probabilità che questo sia assunto:^[da Matematica.verde, pagina 1479]
-$$ f(x)=p(X=x) $$
+In genere, non si fa menzione dello spazio di partenza e si identifica una variabile casuale $X$ con la sua distribuzione di probabilità.
 
-![[Pasted image 20240110022543.png|esempio di rappresentazione grafica di una distribuzione]]
+Due variabili casuali $X$ e $Y$ sono dette **identicamente distribuite**, in simboli $X \sim Y$, se $P(X \in B) = P(Y \in B)$, per ogni $B \subseteq \mathbb{R}$.
+
+
+***
+da [[Funzione di Ripartizione#^4c2f96]]
 
 #glossario 
-#old

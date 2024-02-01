@@ -4,7 +4,7 @@ La moda di una variabile statistica $Y$ corrisponde al valore $y_{mo}$ del [[Var
 
 La moda è la modalità più comune e non è detto che sia unica.
 
-La moda è un [[Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] molto grezzo. Può non individuare il centro dei dati. Ci possono essere [[distribuzione|distribuzioni]] **unimodali**, **bimodali** o **multimodali**.
+La moda è un [[Statistica Descrittiva/Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] molto grezzo. Può non individuare il centro dei dati. Ci possono essere [[distribuzione|distribuzioni]] **unimodali**, **bimodali** o **multimodali**.
 
 Nel caso in cui si abbia una tabella di frequenza con [[Classi di modalità|modalità raggruppate in classi]], si può individuare la **classe modale**, soltanto se le classi hanno tutte la stessa ampiezza.
 
@@ -32,4 +32,4 @@ Riferimenti:
 #statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
-#indici_di_posizione
+#indici_sintetici/indici_di_posizione

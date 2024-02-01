@@ -1,3 +1,8 @@
+>[!Summary]+ Sommario
+Dato un [[esperimenti aleatori|esperimento (fenomeno) aleatorio]] descritto da uno spazio fondamentale $\Omega$ e una probabilità $P$, si definisce **variabile casuale** (**aleatoria**) $X$ una *applicazione*[^alias],da $\Omega$ in $\mathbb{R}$, *misurabile*, cioè tale che sia possibile "probabilizzare" gli eventi ad essa riferiti.
+>
+Quindi una variabile casuale è una funzione che, a seconda del risultato dell'esperimento in esame, assume valori numerici a cui è possibile attribuire una probabilità di realizzazione coerente con $P$.
+
 Per descrivere fenomeni o [[esperimenti aleatori]] si considera la nozione di variabile casuale, che fornisce un modello matematico utile anche per le applicazioni statistiche.
 
 Lo [[spazio fondamentale]] $\Omega$ potrebbe non essere un insieme numerico oppure potrebbe non rappresentare in modo chiaro gli aspetti dell'esperimento a cui si è interessati. In alcuni casi $\Omega$ potrebbe essere astratto e molto complesso da specificare.
@@ -16,7 +21,7 @@ Dato un [[esperimenti aleatori|esperimento (fenomeno) aleatorio]] descritto da u
 Quindi una variabile casuale è una funzione che, a seconda del risultato dell'esperimento in esame, assume valori numerici a cui è possibile attribuire una probabilità di realizzazione coerente con $P$.
 
 >[!example] **Esempio**
->*Moneta*. Si consideri l'esperimento che consiste nel lanciare tre volte una moneta regolare e si supponga di essere interessati al numero totale degli esiti in testa.
+>*Moneta*. Si consideri l'esperimento che consiste nel lanciare tre volte una moneta regolare e si supponga di essere interessati al *numero totale degli esiti "testa"*.
 >
 >Quindi $\Omega = \set{CCC,CCT,CTC,TCC,CTT,TCT,TTC,TTT}$ e la variabile casuale $X : \Omega \rightarrow R$ associa ad ogni [[eventi elementari|evento elementare]] di $\Omega$ il numero di esiti $T$. Ad esempio, $X(TTC)=2$.
 >
@@ -24,7 +29,15 @@ Quindi una variabile casuale è una funzione che, a seconda del risultato dell'e
 >
 >È immediato concludere che $X = i$ ha probabilità $1/8$, se $i = 0,3$, e $3/8$, se $i = 1, 2$. Si noti che la somma delle probabilità di $X$ è pari a 1.
 
-^5b5547
+^92e4b2
+
+Tra le varie tipologie di variabili casuali si considerano quelle discrete, che possono assumere un numero finito o al più numerabili di valori, e quelle continue, che assumono valori in un insieme continuo.
+
+### Variabili Casuali Discrete
+Più precisamente, una **[[variabili casuali|variabile casuale]]** $X$ è **discreta** se esiste un insieme di numeri $\set{x_i}_{i\in I}$, **finito al più numerabile**, tale che $P(X = x_i) = p_i \gt 0$ e $\sum_{i \in I} p_i = 1$; usualmente, $S_X = \set{x_i,\ i \in I}$^[ [[supporto di una variabile casuale]] ].
+
+### Variabili Casuali Continue
+Una **variabile casuale** $X$ è **continua** se la sua **[[funzione di ripartizione]]** $F_X$ è **continua** ed è tale che esiste una funzione $f_X$, definita su $\mathbb{R}$, tale che $$ F_X(x) = \int^x_{-\infty} f_X(t)\ dt,\qquad \forall x \in \mathbb{R} $$ ^de955f
 ***
 Riferimenti:
 [[Lucidi & materiale/5_prob_varcasual_L5.pdf#page=4&selection=12,0,12,17|5_prob_varcasual_L5, page 4]]

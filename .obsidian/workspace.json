@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calcolo delle Probabilità/Funzione di Ripartizione.md",
+                "file": "Indice.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9c39f7dc810933cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
-              }
-            }
-          },
-          {
-            "id": "8c26ca20ad987c75",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lucidi & materiale/Appendice.pdf"
               }
             }
           }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"distribuzione di probabilità\"",
+                "query": "Internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,19 +163,19 @@
     }
   },
   "floating": {
-    "id": "98221476402797a6",
+    "id": "3e08db23cb56bfd2",
     "type": "floating",
     "children": [
       {
-        "id": "1b35e5e7d0df384c",
+        "id": "a396625e6dba39a4",
         "type": "window",
         "children": [
           {
-            "id": "0c82e922792c169b",
+            "id": "b2ba718d1d91df62",
             "type": "tabs",
             "children": [
               {
-                "id": "32ec55bd0136d23b",
+                "id": "b5d52e3165c61b26",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -219,54 +199,54 @@
       }
     ]
   },
-  "active": "32ec55bd0136d23b",
+  "active": "b5d52e3165c61b26",
   "lastOpenFiles": [
-    "Glossario/Funzione di Densità(old).md",
-    "Glossario/Distribuzione di Probabilità.md",
-    "Calcolo delle Probabilità/Variabili Casuali.md",
-    "Calcolo delle Probabilità/Funzione di Ripartizione.md",
-    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
-    "Lucidi & materiale/Appendice.pdf",
-    "Indice.md",
-    "6 Modelli/6.0 Introduzione ai Modelli.md",
-    "Lucidi & materiale/6_prob_modelli_L6.pdf",
-    "Lucidi & materiale/1_Intro_L1.pdf",
-    "Lucidi & materiale/2_Statdescr_Univ_L2.pdf",
-    "Lucidi & materiale/3_Statdescr_Multiv_L3.pdf",
-    "Lucidi & materiale/4_prob_probelem_L4.pdf",
-    "Calcolo delle Probabilità/Funzione di Densità.md",
-    "Statistica Descrittiva/Mediana.md",
-    "Calcolo delle Probabilità/Indipendenza tra Eventi.md",
-    "Calcolo delle Probabilità/Funzione di Probabilità.md",
-    "Calcolo delle Probabilità/Evento.md",
-    "supporto di una variabile casuale.md",
-    "Varie/imgs/Pasted image 20240127004214.png",
-    "Varie/imgs/Pasted image 20240127003058.png",
-    "Calcolo delle Probabilità/Spazio Fondamentale.md",
-    "Varie/imgs/Pasted image 20240126022948.png",
-    "Varie/imgs/Pasted image 20240126022501.png",
-    "Varie/imgs/Pasted image 20240126022128.png",
-    "Varie/imgs/Pasted image 20240126010258.png",
-    "Varie/imgs/Pasted image 20240126001749.png",
-    "Varie/imgs/Pasted image 20240126001744.png",
-    "Varie/imgs/Pasted image 20240126000238.png",
-    "6 Modelli/6.1 Modello uniforme discreto.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-    "Untitled.md",
-    "docs/ghpages/glossario/funzione-di-densità(old).html",
-    "docs/ghpages/calcolo-delle-probabilità/variabili-casuali.html",
-    "docs/ghpages/calcolo-delle-probabilità/teorema-di-bayes.html",
-    "Calcolo delle Probabilità/Teorema di Bayes.md",
-    "Calcolo delle Probabilità/Esperimenti Aleatori.md",
-    "Calcolo delle Probabilità/Probabilità Condizionata.md",
-    "Statistica Descrittiva/Variabili.md",
-    "Varie/imgs/Pasted image 20240124234314.png",
-    "Statistica Descrittiva/Boxplot.md",
-    "Statistica Descrittiva/Indice di Simmetria.md",
-    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
-    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
-    "Statistica Descrittiva/Quantili.md",
+    "docs/ghpages/calcolo-delle-probabilità/valore-atteso.html",
+    "docs/ghpages/lib/media/pasted-image-20240201032823.png",
+    "docs/ghpages/calcolo-delle-probabilità/quantili.html",
+    "docs/ghpages/lib/media/pasted-image-20240201014736.png",
+    "docs/ghpages/lib/media/pasted-image-20240201014314.png",
+    "docs/ghpages/lib/media/pasted-image-20240201013921.png",
+    "docs/ghpages/calcolo-delle-probabilità/moda.html",
+    "docs/ghpages/lib/media/pasted-image-20240201023031.png",
+    "docs/ghpages/calcolo-delle-probabilità/mediana.html",
+    "docs/ghpages/calcolo-delle-probabilità/indici-sintetici-introduzione.html",
+    "docs/ghpages/lib/media/pasted-image-20240201013632.png",
+    "Varie/disambiguazioni/quantili.md",
+    "Varie/disambiguazioni/moda.md",
+    "Varie/disambiguazioni/mediana.md",
+    "Varie/disambiguazioni/frequenze.md",
+    "Statistica Descrittiva/Varianza.md",
     "Statistica Descrittiva/Simmetria.md",
+    "Statistica Descrittiva/Scarto Interquartilico.md",
+    "Statistica Descrittiva/Quantili.md",
+    "Statistica Descrittiva/Moda.md",
+    "Statistica Descrittiva/Mediana.md",
+    "Statistica Descrittiva/Media Aritmetica.md",
+    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
+    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
+    "Statistica Descrittiva/Indice di Simmetria.md",
+    "Statistica Descrittiva/Indice di Curtosi.md",
+    "Statistica Descrittiva/Curtosi.md",
+    "Statistica Descrittiva/Coefficiente di Variazione.md",
+    "Statistica Descrittiva/Campo di Variazione.md",
+    "Statistica Descrittiva/Boxplot.md",
+    "Glossario/supporto di una variabile casuale.md",
+    "Calcolo delle Probabilità/Variabili Casuali.md",
+    "Calcolo delle Probabilità/Valore Atteso.md",
+    "Calcolo delle Probabilità/Quantili.md",
+    "Calcolo delle Probabilità/Moda.md",
+    "Calcolo delle Probabilità/Mediana.md",
+    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
+    "Varie/imgs/Pasted image 20240201032823.png",
+    "Varie/imgs/Pasted image 20240201023031.png",
+    "Varie/imgs/Pasted image 20240201014736.png",
+    "Varie/imgs/Pasted image 20240201014314.png",
+    "docs/ghpages/lucidi-&-materiale/appendice.pdf",
+    "Lucidi & materiale/IntroductoryStatistics-OP_i6tAI7e (non prof).pdf",
+    "Lucidi & materiale/OpenIntro Statistics.pdf",
+    "Lucidi & materiale/os4_tablet.pdf",
+    "Calcolo delle Probabilità/Funzione di Probabilità.epub",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"

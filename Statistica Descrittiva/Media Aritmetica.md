@@ -1,4 +1,4 @@
-La media aritmetica, che è l'[[Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] più noto, si può calcolare per una [[Variabili#Variabili quantitative (numeriche)|variabile quantitativa]] $Y$ e si indica con $E(Y)$, con $\mu Y$ o semplicemente con $\mu$. 
+La media aritmetica, che è l'[[Statistica Descrittiva/Indici Sintetici - Introduzione#Indici di Posizione|indice di posizione]] più noto, si può calcolare per una [[Variabili#Variabili quantitative (numeriche)|variabile quantitativa]] $Y$ e si indica con $E(Y)$, con $\mu Y$ o semplicemente con $\mu$. 
 
 >[!example] **Esempio:** 
 Sia $Y = (27, 30, 30)$ la [[Variabili#Variabili statistiche|variabile statistica]] che descrive i voti riportati in tre esami da uno studente. La media aritmetica dei voti è $\mu Y = (27 + 30 + 30)/3 = 29$. Si noti che 29 non corrisponde a nessuno dei voti ottenuti.
@@ -61,4 +61,4 @@ Riferimenti:
 #statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
-#indici_di_posizione
+#indici_sintetici/indici_di_posizione

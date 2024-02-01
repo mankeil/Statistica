@@ -21,11 +21,11 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Boxplot]]
 
 ### Indici Sintetici
-[[Indici Sintetici - Introduzione]]
+[[Statistica Descrittiva/Indici Sintetici - Introduzione]]
 [[Media Aritmetica]]
-[[Mediana]]
-[[Quantili]]
-[[Moda]]
+[[Statistica Descrittiva/Mediana|Mediana]]
+[[Statistica Descrittiva/Quantili|Quantili]]
+[[Statistica Descrittiva/Moda|Moda]]
 [[Indici di Variabilità - Introduzione]]
 [[Campo di Variazione]]
 [[Scarto Interquartilico]]
@@ -76,8 +76,11 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Funzione di Densità]]
 
 ### Indici Sintetici
-[[Indici Sintetici per Variabili Casuali - Introduzione]]
+[[Calcolo delle Probabilità/Indici Sintetici - Introduzione|Indici Sintetici - Introduzione]]
 [[Valore Atteso]]
+[[Calcolo delle Probabilità/Mediana|Mediana]]
+[[Calcolo delle Probabilità/Moda|Moda]]
+[[Calcolo delle Probabilità/Quantili|Quantili]]
 ## II-3 Modelli Probabilistici
 [[6.0 Introduzione ai Modelli]]
 [[6.1 Modello uniforme discreto]]
@@ -108,3 +111,9 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 
 ## VI-1 Risorse Esterne
 [[OpenIntro Statistics.pdf |Libro OpenIntro Statistics (lingua inglese)]]
+[[IntroductoryStatistics-OP_i6tAI7e (non prof).pdf|Libro Openstax Introductory Statistics (lingua inglese)]]
+[[Lucidi & materiale/Esercizi.pdf|Esercizi]]
+[[Lucidi & materiale/Appendice.pdf|Appendice (prof. Vidoni)]]
+
+---
+<span style="color:gray; font-weight:200;">scritto da <a href="https://github.com/mankeil">Mankeil</a></span>

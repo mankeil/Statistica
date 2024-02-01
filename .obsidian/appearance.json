@@ -9,5 +9,7 @@
     "table",
     "customCallout"
   ],
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

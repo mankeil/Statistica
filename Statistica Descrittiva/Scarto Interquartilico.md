@@ -1,4 +1,4 @@
-Lo **scarto interquartilico** di una variabile statistica [[Variabili#Variabili quantitative (numeriche)|quantitativa]] $Y$ corrisponde a $$ SI_Y = y_{0.75}-y{0.25} $$ ossia la differenza tra il terzo e il primo [[Quantili|quartile]].
+Lo **scarto interquartilico** di una variabile statistica [[Variabili#Variabili quantitative (numeriche)|quantitativa]] $Y$ corrisponde a $$ SI_Y = y_{0.75}-y{0.25} $$ ossia la differenza tra il terzo e il primo [[Statistica Descrittiva/Quantili|quartile]].
 
 $SI_Y$ esprime la lunghezza dell'intervallo dove cade il 50% centrale della [[Frequenze Assolute#^e17411|distribuzione di frequenza]]. Nel [[Boxplot|boxplot]] corrisponde all'ampiezza della scatola.
 
@@ -17,4 +17,4 @@ Riferimenti:
 #statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
-#indici_di_variabilità 
+#indici_sintetici/indici_di_variabilità 

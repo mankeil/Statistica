@@ -1,4 +1,4 @@
-L'individuazione del centro di un insieme di dati, tramite opportuni [[Indici Sintetici - Introduzione#Indici di Posizione|indici di posizione]], può non essere sufficiente per descrivere in modo completo la associata [[distribuzione|distribuzione di frequenza]].
+L'individuazione del centro di un insieme di dati, tramite opportuni [[Statistica Descrittiva/Indici Sintetici - Introduzione#Indici di Posizione|indici di posizione]], può non essere sufficiente per descrivere in modo completo la associata [[distribuzione|distribuzione di frequenza]].
 
 >[!example]+ **Esempio**
 >
@@ -16,7 +16,7 @@ Si calcolano alcuni valori di sintesi
 | A | 14.44 | 14.87 | 15.00 | 15.00 | 15.14 | 15.64 |
 | B | 13.83 | 14.83 | 15.02 | 15.02 | 15.22 | 15.80 |
 >
-$y_{0.25}$ : [[Quantili|quantile]] con $\alpha = 0.25$, inoltre il quantile $y_{0.5}$ corrisponde alla [[mediana]]
+$y_{0.25}$ : [[Statistica Descrittiva/Quantili|quantile]] con $\alpha = 0.25$, inoltre il quantile $y_{0.5}$ corrisponde alla [[Statistica Descrittiva/Mediana]]
 $\mu$  : [[Media Aritmetica|media aritmetica]]
 >
 Entrambi i dispositivi sembrano tarati allo stesso modo, poiché forniscono valori centrati sul valore di 15 g/min.
@@ -51,4 +51,4 @@ Riferimenti:
 #statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
-#indici_di_variabilità
+#indici_sintetici/indici_di_variabilità

@@ -1,9 +1,9 @@
-Il **diagramma a scatola e baffi** (**box and whiskers plot**), abbreviato spesso in **boxplot**, fornisce una sintesi grafica efficace dell'insieme di dati basata sui [[quantili]].
+Il **diagramma a scatola e baffi** (**box and whiskers plot**), abbreviato spesso in **boxplot**, fornisce una sintesi grafica efficace dell'insieme di dati basata sui [[Statistica Descrittiva/Quantili]].
 ![[Pasted image 20240116173224.png]]
 La **scatola** contiene il 50% centrale della distribuzione di frequenza
 ed è delimitata dal primo quartile $y_{0.25}$ e dal terzo quartile $y_{0.75}$.
 
-In corrispondenza della [[mediana]] $y_{0.5}$ viene tracciata una **linea**.
+In corrispondenza della [[Statistica Descrittiva/Mediana]] $y_{0.5}$ viene tracciata una **linea**.
 
 I **baffi** si prolungano fino al valore minimo e massimo osservati o fino ai percentili $y_{0.01}$ e $y_{0.99}$. La lunghezza dei baffi può venire specificata in modo alternativo con l'obbiettivo di far emergere potenziali valori anomali(**outliers**).
 

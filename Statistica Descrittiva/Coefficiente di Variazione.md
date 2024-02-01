@@ -18,4 +18,4 @@ Riferimenti:
 #statistica_descrittiva/analisi_univariate
 #ppt-2 
 #indici_sintetici 
-#indici_di_variabilità  
+#indici_sintetici/indici_di_variabilità  
