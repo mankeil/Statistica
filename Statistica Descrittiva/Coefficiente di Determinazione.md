@@ -1,7 +1,7 @@
 Il modello lineare è utile solo nel caso di relazioni sostanzialmente lineari tra $Y$ e $X$.
 Con l'obiettivo di **valutare la bontà del modello** di regressione, si vuole individuare un indice in grado di valutare l'adattamento globale del modello ai dati, oltre che la sua capacità esplicativa per il fenomeno $Y$.
 
-La [[varianza]] $V(Y)$ associata alla variabile statistica $Y$ (**varianza totale**) può essere vista come somma della quota $V(\hat Y)$ descritta dal modello (**varianza spiegata**) e dalla quota $V (\hat \epsilon)$ rimanente (**varianza residua**) $$V(Y) = V(\hat Y)+V(\hat \epsilon)$$ dove $\hat Y$ e $\hat \epsilon$ sono, rispettivamente, i valori stimati dal modello e i residui stimati.
+La [[Statistica Descrittiva/Varianza|varianza]] $V(Y)$ associata alla variabile statistica $Y$ (**varianza totale**) può essere vista come somma della quota $V(\hat Y)$ descritta dal modello (**varianza spiegata**) e dalla quota $V (\hat \epsilon)$ rimanente (**varianza residua**) $$V(Y) = V(\hat Y)+V(\hat \epsilon)$$ dove $\hat Y$ e $\hat \epsilon$ sono, rispettivamente, i valori stimati dal modello e i residui stimati.
 
 Tanto maggiore è la varianza spiegata dal modello, tanto migliore sarà l'adattamento dei dati al modello teorico.
 

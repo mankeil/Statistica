@@ -3,7 +3,7 @@ I *coefficienti di [[Regressione Lineare Semplice|regressione]]* non sono noti; 
 Avendo osservato $n$ coppie di valori $(y_i, x_i),\ i=1,...,n$, si hanno $n$ valori osservati anche per l'errore di regressione $$ \epsilon_i = y_i - (a + bx_i),\ i = 1,...,n $$ I valori $\epsilon_i,\ 1,...,n$, detti **residui di regressione**, rappresentano gli scostamenti fra le osservazioni e il modello teorico.
 
 Per stimare i coefficienti di regressione può essere ragionevole cercare i valori per $a$ e $b$ che minimizzano (non è l'unica possibilità) la **somma dei quadrati dei residui** $$ Q(a,b) = \sum^n_{i=1} \epsilon^2_i = \sum^n_{i=1} (y_i - a - bx_i)^2 $$ Il metodo presentato è detto **metodo dei minimi quadrati** e le stime ottenute, indicate con $$\hat a = E(Y) - \hat b E(X),\ \hat b = \frac{Cov(X,Y)}{V(X)} $$
-dove $E(Y)$ è la [[media aritmetica]] di $Y$, $V(X)$ la [[varianza]] di $X$, e $Cov(X,Y)$ la [[covarianza]] tra $X$ e $Y$.
+dove $E(Y)$ è la [[media aritmetica]] di $Y$, $V(X)$ la [[Statistica Descrittiva/Varianza|varianza]] di $X$, e $Cov(X,Y)$ la [[covarianza]] tra $X$ e $Y$.
 
 La retta $y = \hat a + \hat bx$ è detta **regressione stimata** (**retta dei minimi quadrati**).
 

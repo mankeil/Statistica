@@ -1,10 +1,10 @@
-La **mediana** della [[distribuzione di probabilità]] di $X$, o più semplicemente la mediana di $X$, indicata con $x_{0.5}$, è quel valore $x_{0.5} \in \mathbb{R}$ tale che $$ \begin{gather} P(X \le x_{0.5}) \gt 1/2 & \text{e} & P(X \ge x_{0.5}) \ge 1/2.\end{gather}$$Quindi, $x_{0.5}$ ripartisce la massa unitaria di probabilità, in modo che gli eventi $X \le x_{0.5}$ e $X \ge x_{0.5}$ abbiano probabilità pari a $1/2$, o anche maggiore di $1/2$ se $P(X = x_{0.5} \gt 0$.
+La **mediana** della [[distribuzione di probabilità]] di $X$, o più semplicemente la mediana di $X$, indicata con $x_{0.5}$, è quel valore $x_{0.5} \in \mathbb{R}$ tale che $$ \begin{gather} P(X \le x_{0.5}) \gt 1/2 & \text{e} & P(X \ge x_{0.5}) \ge 1/2.\end{gather}$$Quindi, $x_{0.5}$ ripartisce la massa unitaria di probabilità, in modo che gli eventi $X \le x_{0.5}$ e $X \ge x_{0.5}$ abbiano probabilità pari a $1/2$, o anche maggiore di $1/2$ se $P(X = x_{0.5}) \gt 0$.
 
 Può non essere unica e, in alcuni casi, può corrispondere anche ad un intervallo di valori reali.
 
-Se $X$ è una **continua**, la mediana $x_{0.5}$ è tale che $$ F_X(x_{0.5}) = 1/2.$$È il valore dove la funzione di ripartizione vale $1/2$ e che ripartisce a metà l'area unitaria sottesa della [[funzione di densità]].
+Se $X$ è **[[Variabili Casuali#Variabili Casuali Continue|continua]]**, la mediana $x_{0.5}$ è tale che $$ F_X(x_{0.5}) = 1/2.$$È il valore dove la *[[funzione di ripartizione]] vale $1/2$* e che *ripartisce a metà l'area unitaria sottesa della [[funzione di densità]]*.
 
-Se $X$ è **[[Variabili Casuali#Variabili Casuali Discrete|discreta]]**, la mediana $x_{0.5}$ è quel valore (anche più di uno) dove la funzione di ripartizione raggiunge o supera per la prima volta 1/2.
+Se $X$ è **[[Variabili Casuali#Variabili Casuali Discrete|discreta]]**, la mediana $x_{0.5}$ è quel valore (anche più di uno) dove *la funzione di ripartizione raggiunge o supera per la prima volta 1/2*.
 
 >[!example] **Esempio**
 >*Moneta* ([[Variabili Casuali#^92e4b2|continua]]). Si consideri la variabile casuale $X$ che conta gli esiti testa in tre lanci di una moneta regolare.

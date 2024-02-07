@@ -65,7 +65,7 @@ $Y = (28, 17, 20, 32, 16, 34, 18, 25)$ con $n=8$.
 Con riferimento alla variabile $Y$ = "Età" il supporto è $S_Y = \{16, 17, 18, 20, 25, 28, 32, 34\}$ mentre $Y = \{0, 1, 2, ...\}$.
 
 ### Variabili Statistiche Standardizzate
-Una **variabile statistica** con **[[Media Aritmetica|media]] nulla** e **[[Varianza|varianza]] unitaria** è detta **standardizzata**.
+Una **variabile statistica** con **[[Media Aritmetica|media]] nulla** e **[[Statistica Descrittiva/Varianza|varianza]] unitaria** è detta **standardizzata**.
 
 Dalle proprietà della media e della varianza si conclude
 * che data una variabile $Y$ , allora $Z = (Y − \mu_Y) / \sigma_Y$ è una variabile standardizzata; 

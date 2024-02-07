@@ -1,4 +1,4 @@
-La [[Statistica Descrittiva/Mediana]] può venire interpretata come un particolare quantile di livello $\alpha$, con $\alpha \in (0, 1)$, indicato con la scrittura $y_{\alpha}$.
+La [[Statistica Descrittiva/Mediana|mediana]] può venire interpretata come un particolare quantile di livello $\alpha$, con $\alpha \in (0, 1)$, indicato con la scrittura $y_{\alpha}$.
 
 Data una [[Variabili#^58fcd8|variabile qualitativa ordinale]] o [[Variabili#Variabili quantitative (numeriche)|quantitativa]] $Y$, $y_{\alpha}$ è quel valore che, rispetto all'ordinamento non decrescente delle osservazioni, risulta preceduto da $\alpha 100\%$[^1] delle osservazioni e seguito ad $(1-\alpha)100\%$ osservazioni, a meno degli effetti di discretezza.
 

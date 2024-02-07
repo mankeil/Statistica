@@ -4,7 +4,7 @@ Una misura della [[Studio della Dipendenza|dipendenza]] lineare fra due variabil
 >[!formula] Formula 
 >$$ \begin{gathered} Cov(X,Y) = E(XY) - E(X)(Y) = \\ = \frac{1}{n} \sum^n_{i=1} x_i y_i - E(X)E(Y) \end{gathered} $$
 
-Spesso si indica con $\sigma_{XY}$, che ne richiama il legame con [[varianza]] che corrisponde a $V(X) = \sigma_X^2 = \sigma_{XX}$
+Spesso si indica con $\sigma_{XY}$, che ne richiama il legame con [[Statistica Descrittiva/Varianza|varianza]] che corrisponde a $V(X) = \sigma_X^2 = \sigma_{XX}$
 
 ***
 Riferimenti:

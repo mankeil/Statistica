@@ -1,6 +1,6 @@
-La **moda** della distribuzione di probabilità di $X$, o più semplicemente la moda di $X$, indicata con $x_{mo}$, è quel valore $x_{mo} \in \mathbb{R}$ per cui è massima la [[funzione di densità]] di probabilità.
+La **moda** della [[distribuzione di probabilità]] di $X$, o più semplicemente la moda di $X$, indicata con $x_{mo}$, è quel *valore $x_{mo} \in \mathbb{R}$ per cui è massima la [[funzione di densità]] di probabilità*.
 
-La moda non è necessariamente unica e può anche non esistere. Se esiste, appartiene al supporto $S_X$ e individua i valori più probabili, se $X$ discreta, o i cui intorni sono gli eventi più probabili, se $X$ continua. 
+La moda non è necessariamente unica e può anche non esistere. Se esiste, appartiene al [[supporto di una variabile casuale|supporto]] $S_X$ e individua i valori più probabili, se $X$ [[Variabili Casuali#Variabili Casuali Discrete|discreta]], o i cui intorni sono gli eventi più probabili, se $X$ [[Variabili Casuali#Variabili Casuali Continue|continua]]. 
 
 Nel caso in cui **$f_X (x)$** ha un **unico massimo**, la **distribuzione di probabilità** di $X$ è detta **unimodale**;
 Se ci sono due o **più punti di massimo**, si parla di **distribuzioni bimodali o multimodali**.

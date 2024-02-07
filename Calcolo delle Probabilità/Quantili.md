@@ -1,16 +1,15 @@
-Sia $\alpha \in (0,1)$, si chiama **quantile di livello** $\alpha$ della [[distribuzione di probabilità]] di $X$, o più semplicemente quantile di livello $\alpha$ di $X$, indicato con $x_\alpha$, quel valore $x_a \in \mathbb{R}$ tale che $$\begin{gather} P(X \le x_\alpha) \ge \alpha & \text{e} & P(X \ge x_\alpha) \ge 1-\alpha.\end{gather} $$Quindi, a meno di effetti legati alla discretezza, $x_\alpha$ ripartisce la massa unitaria di probabilità lasciando una porzione pari ad $\alpha$ alla propria sinistra e pari a $1 - \alpha$ alla propria destra.
+Sia $\alpha \in (0,1)$, si chiama **quantile di livello $\alpha$** della [[distribuzione di probabilità]] di $X$, o più semplicemente quantile di livello $\alpha$ di $X$, indicato con $x_\alpha$, quel valore $x_a \in \mathbb{R}$ tale che $$\begin{gather} P(X \le x_\alpha) \ge \alpha & \text{e} & P(X \ge x_\alpha) \ge 1-\alpha.\end{gather} $$Quindi, a meno di effetti legati alla discretezza, $x_\alpha$ ripartisce la massa unitaria di probabilità lasciando una porzione pari ad $\alpha$ alla propria sinistra e pari a $1 - \alpha$ alla propria destra.
 
 Può non essere unico e, in alcuni casi, può corrispondere anche ad un intervallo di valori reali.
 
-Se $X$ è una variabile **[[Variabili Casuali#Variabili Casuali Continue|continua]]**, $x_\alpha$ è tale che $$ F_X(x_a) = a $$È il valore dove la funzione di ripartizione vale $\alpha$ e che ripartisce in due porzioni pari ad $\alpha$ e $1-\alpha$ l'area unitaria sottesa dalla [[funzione di densità]].
+Se $X$ è una variabile **[[Variabili Casuali#Variabili Casuali Continue|continua]]**, $x_\alpha$ è tale che $$ F_X(x_a) = a $$È il valore dove la [[funzione di ripartizione]] vale $\alpha$ e che ripartisce in due porzioni pari ad $\alpha$ e $1-\alpha$ l'area unitaria sottesa dalla [[funzione di densità]].
 
 Se $X$ è una variabile **[[Variabili Casuali#Variabili Casuali Discrete|discreta]]**, in quantile $x_\alpha$ è quel valore (anche più di uno) dove la funzione di ripartizione raggiunge o supera per la prima volta $\alpha$.
 
 Quindi la mediana corrisponde al quantile di livello $\alpha = 1/2$. Se $\alpha$ è espresso in termini decimali o percentuali si parla allora di **decili** o di **percentili**. Se $\alpha = 1/4,\ 1/2,\ 3/4$, hanno i **quartili**.
 
-
 >[!example] **Esempio**
->Sia $X$ una variabile casuale tale che $S_X = \set{-2, 0, 1, 2},\ P(X = -2) = P(X=2) = 1/4,\ P(X=0) = 1/6 e P(X=1) = 1/3$. Si cerca il quantile di livello $\alpha = 0.4$. Si ha che $$\begin{gather}
+>Sia $X$ una variabile casuale tale che $S_X = \set{-2, 0, 1, 2},\ P(X = -2) = P(X=2) = 1/4,\ P(X=0) = 1/6$ e $P(X=1) = 1/3$. Si cerca il quantile di livello $\alpha = 0.4$. Si ha che $$\begin{gather}
 >P(X \le 0) = P(X = -2) + P(X = 0) \gt 0.4, \\
 >P(X \ge 0) = P(X = 0) + P(X=1) + P(X=2) \gt 0.6.
 \end{gather}$$

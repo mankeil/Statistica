@@ -16,7 +16,7 @@ Si calcolano alcuni valori di sintesi
 | A | 14.44 | 14.87 | 15.00 | 15.00 | 15.14 | 15.64 |
 | B | 13.83 | 14.83 | 15.02 | 15.02 | 15.22 | 15.80 |
 >
-$y_{0.25}$ : [[Statistica Descrittiva/Quantili|quantile]] con $\alpha = 0.25$, inoltre il quantile $y_{0.5}$ corrisponde alla [[Statistica Descrittiva/Mediana]]
+$y_{0.25}$ : [[Statistica Descrittiva/Quantili|quantile]] con $\alpha = 0.25$, inoltre il quantile $y_{0.5}$ corrisponde alla [[Statistica Descrittiva/Mediana|mediana]]
 $\mu$  : [[Media Aritmetica|media aritmetica]]
 >
 Entrambi i dispositivi sembrano tarati allo stesso modo, poiché forniscono valori centrati sul valore di 15 g/min.
@@ -30,10 +30,10 @@ I dati riferiti a B sono più dispersi attorno al valore centrale, cioè mostran
 ^f15dac
 
 Si presentano i seguenti **indici di variabilità** utili per [[Variabili#Variabili quantitative (numeriche)|variabili quantitative]]:
-* [[Campo di Variazione]]
-* [[Scarto Interquartilico]]
-* [[Varianza]] (e **scarto quadratico medio**)
-* [[Coefficiente di Variazione]]
+* [[Statistica Descrittiva/Campo di Variazione]]
+* [[Statistica Descrittiva/Scarto Interquartilico]]
+* [[Statistica Descrittiva/Varianza|Varianza]] (e **scarto quadratico medio**)
+* [[Statistica Descrittiva/Coefficiente di Variazione]]
 
 Non si considerano gli indici di variabilità per [[Variabili#Variabili qualitative (categoriali)|variabili qualitative]], detti anche **indici di mutabilità**.
 

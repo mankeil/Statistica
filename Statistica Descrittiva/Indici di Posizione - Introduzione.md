@@ -4,9 +4,9 @@ Un indice di posizione è espresso nell'ordine di grandezza di $Y$ e individua t
 
 Si presentano i seguenti **indici di posizione**:
 * [[Media Aritmetica]]
-* [[Statistica Descrittiva/Mediana]]
-* [[Statistica Descrittiva/Quantili]]
-* [[Statistica Descrittiva/Moda]]
+* [[Statistica Descrittiva/Mediana|Mediana]]
+* [[Statistica Descrittiva/Quantili|Quantili]]
+* [[Statistica Descrittiva/Moda|Moda]]
 
 ***
 

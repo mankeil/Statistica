@@ -37,7 +37,7 @@ Si noti che *$f_X$ non definisce la probabilità associata all'evento $X = x$, c
 >*Variabile casuale esponenziale*. Una **variabile casuale** $X$ è **esponenziale**, in simboli $X \sim \text{Esp}(\lambda)$, con $\lambda \gt 0$, se $S_X = [0,\ +\infty)$ e $$ f_X(x) = \begin{cases}
 >\lambda e^{-\lambda x} & \text{se}\ x \in S_X \\
 >0 & \text{altrimenti}
->\end{cases} $$La [[funzione di ripartizione]] è $$F_X(x) = \int^x_{-\infty} \lambda e^{-\lambda t} dt = \int^x_0 \lambda e^{-\lambda t} dt = 1 - e^{-\lambda x}\ ,$$se $x \in S_X$, mentre $F_X(x) = 0$, se $x \notin S_X$.
+>	\end{cases} $$La [[funzione di ripartizione]] è $$F_X(x) = \int^x_{-\infty} \lambda e^{-\lambda t} dt = \int^x_0 \lambda e^{-\lambda t} dt = 1 - e^{-\lambda x}\ ,$$se $x \in S_X$, mentre $F_X(x) = 0$, se $x \notin S_X$.
 >Si calcolano le probabilità $$\begin{gather}
 >P(X \gt 1) = 1-F_X(1)=e^{-\lambda}, \\
 >P(1 \le X \le 3) = F_X(3) - F_X(1) = e^{-\lambda}-e^{-3\lambda},

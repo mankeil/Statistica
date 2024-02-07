@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6db4c688bc4b98f",
+        "id": "5db7943ce467bfa1",
         "type": "tabs",
+        "dimension": 34.6514745308311,
         "children": [
           {
-            "id": "82c94bbe96a9c0cf",
+            "id": "edd3bfc3a635647b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +17,23 @@
                 "file": "Indice.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a93f575aa61ac95",
+        "type": "tabs",
+        "dimension": 65.3485254691689,
+        "children": [
+          {
+            "id": "b8462af4ff5cdd6e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
               }
             }
           }
@@ -69,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "045c581cf12646b7",
@@ -163,25 +180,25 @@
     }
   },
   "floating": {
-    "id": "3e08db23cb56bfd2",
+    "id": "53c016f5d35dee18",
     "type": "floating",
     "children": [
       {
-        "id": "a396625e6dba39a4",
+        "id": "baf380942c97d9fe",
         "type": "window",
         "children": [
           {
-            "id": "b2ba718d1d91df62",
+            "id": "8af92aea3d0c4174",
             "type": "tabs",
             "children": [
               {
-                "id": "b5d52e3165c61b26",
+                "id": "200be030e505302f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Indice.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -190,17 +207,48 @@
           }
         ],
         "direction": "vertical",
-        "x": 317,
-        "y": 338,
-        "width": 802,
-        "height": 402,
-        "maximize": false,
+        "x": 60,
+        "y": 130,
+        "width": 601,
+        "height": 820,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "b5d52e3165c61b26",
+  "active": "200be030e505302f",
   "lastOpenFiles": [
+    "Appendice/Formula per Integrazione per Parti.md",
+    "Indice.md",
+    "Calcolo delle Probabilità/Variabili Casuali.md",
+    "Calcolo delle Probabilità/Valore Atteso.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Calcolo delle Probabilità/Varianza.md",
+    "Calcolo delle Probabilità/Scarto Medio Assoluto dalla Mediana.md",
+    "Indice di Simmetria e di Curtosi.md",
+    "Statistica Descrittiva/Mediana.md",
+    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
+    "Varie/disambiguazioni/indice di curtosi.md",
+    "Statistica Descrittiva/Regressione Lineare Semplice.md",
+    "Varie/disambiguazioni/indice di simmetria.md",
+    "Calcolo delle Probabilità/Moda.md",
+    "Varie/imgs/Pasted image 20240205191406.png",
+    "Calcolo delle Probabilità/Mediana.md",
+    "Calcolo delle Probabilità/Funzione di Probabilità.md",
+    "Calcolo delle Probabilità/Quantili.md",
+    "Statistica Descrittiva/Istogramma.md",
+    "Glossario/coefficiente binomiale.md",
+    "Domande Rapide/Risposte/Risposta - Tabella di Contingenza.md",
+    "Statistica Descrittiva/Tabella di Contingenza.md",
+    "Glossario/supporto di una variabile statistica.md",
+    "Glossario/distribuzione di probabilità.md",
+    "Statistica Descrittiva/Frequenze Relative.md",
+    "Glossario/variabile statistica degenere.md",
+    "Calcolo delle Probabilità/Indici Sintetici - Introduzione.md",
+    "Statistica Descrittiva/Poligono di Frequenza.md",
+    "Lucidi & materiale/apexcalculus.pdf",
+    "Appendice",
+    "Lucidi & materiale/Rev 1.pdf",
     "docs/ghpages/calcolo-delle-probabilità/valore-atteso.html",
     "docs/ghpages/lib/media/pasted-image-20240201032823.png",
     "docs/ghpages/calcolo-delle-probabilità/quantili.html",
@@ -212,41 +260,10 @@
     "docs/ghpages/calcolo-delle-probabilità/mediana.html",
     "docs/ghpages/calcolo-delle-probabilità/indici-sintetici-introduzione.html",
     "docs/ghpages/lib/media/pasted-image-20240201013632.png",
-    "Varie/disambiguazioni/quantili.md",
-    "Varie/disambiguazioni/moda.md",
-    "Varie/disambiguazioni/mediana.md",
-    "Varie/disambiguazioni/frequenze.md",
-    "Statistica Descrittiva/Varianza.md",
-    "Statistica Descrittiva/Simmetria.md",
-    "Statistica Descrittiva/Scarto Interquartilico.md",
-    "Statistica Descrittiva/Quantili.md",
-    "Statistica Descrittiva/Moda.md",
-    "Statistica Descrittiva/Mediana.md",
-    "Statistica Descrittiva/Media Aritmetica.md",
-    "Statistica Descrittiva/Indici di Variabilità - Introduzione.md",
-    "Statistica Descrittiva/Indici di Posizione - Introduzione.md",
-    "Statistica Descrittiva/Indice di Simmetria.md",
-    "Statistica Descrittiva/Indice di Curtosi.md",
-    "Statistica Descrittiva/Curtosi.md",
-    "Statistica Descrittiva/Coefficiente di Variazione.md",
-    "Statistica Descrittiva/Campo di Variazione.md",
-    "Statistica Descrittiva/Boxplot.md",
-    "Glossario/supporto di una variabile casuale.md",
-    "Calcolo delle Probabilità/Variabili Casuali.md",
-    "Calcolo delle Probabilità/Valore Atteso.md",
-    "Calcolo delle Probabilità/Quantili.md",
-    "Calcolo delle Probabilità/Moda.md",
-    "Calcolo delle Probabilità/Mediana.md",
-    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
     "Varie/imgs/Pasted image 20240201032823.png",
     "Varie/imgs/Pasted image 20240201023031.png",
     "Varie/imgs/Pasted image 20240201014736.png",
-    "Varie/imgs/Pasted image 20240201014314.png",
     "docs/ghpages/lucidi-&-materiale/appendice.pdf",
-    "Lucidi & materiale/IntroductoryStatistics-OP_i6tAI7e (non prof).pdf",
-    "Lucidi & materiale/OpenIntro Statistics.pdf",
-    "Lucidi & materiale/os4_tablet.pdf",
-    "Calcolo delle Probabilità/Funzione di Probabilità.epub",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"

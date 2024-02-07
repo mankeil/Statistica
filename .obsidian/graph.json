@@ -36,14 +36,14 @@
       }
     },
     {
-      "query": "tag:#indici_di_variabilità  ",
+      "query": "tag:#indici_sintetici/indici_di_variabilità  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#indici_di_posizione  ",
+      "query": "tag:#indici_sintetici/indici_di_posizione  ",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -79,15 +79,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.00155925155925,
   "collapse-forces": false,
   "centerStrength": 0.495841995841996,
   "repelStrength": 10.0831600831601,
-  "linkStrength": 0.512474012474013,
+  "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.34965970272166313,
+  "scale": 0.5334257528756637,
   "close": true
 }
