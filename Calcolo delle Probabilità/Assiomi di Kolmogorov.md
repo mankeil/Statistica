@@ -14,14 +14,14 @@ Un **evento** $A$ tale che **$P(A) = 0$** è detto **trascurabile**.
 Un **evento** $A$ tale che **$P(A) = 1$** è detto **quasi certo**. ^c15cc2
 
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Dado* ([[Esperimenti Aleatori#^d07ac2|continua]]). Nel caso del lancio di un dado regolare, lo spazio fondamentale è $\Omega = \set{i : i = 1, . . . , 6}$ e ogni faccia ha la stessa probabilità di uscire. 
 >
 >In accordo con tale congettura, si associa ad ogni [[eventi elementari|evento elementare]] i un peso $p_i = 1/6,\ i = 1, . . . , 6$, e, dato un generico evento $A$, $P(A) =\sum_{i \in A} p_i$.
 >
 >Se $A = \set{1, 3, 5}$, allora $P (A) = 1/6 + 1/6 + 1/6 = 1/2$, che corrisponde alla somma dei pesi degli eventi elementari che compongono $A$. 
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Dado* ([[Esperimenti Aleatori#^d07ac2|continua]]). Si consideri l'esperimento che consiste nel lanciare un dado regolare. Si è interessati al numero di lanci necessari per ottenere l'esito 6 per la prima volta. In questo caso $\Omega = \mathbb{N}^+$.
 >Si può pensare di associare ad ogni evento elementare $i \in \mathbb{N}^+$, "l'esito 6 si verifica per la prima volta al lancio $i$-esimo", il peso $p_i = (5/6)^{i-1} (1/6)$, che traduce il fatto che ci sono $i-1$ insuccessi prima di osservare l'esito 6 per la prima volta.
 >
@@ -73,7 +73,7 @@ Si presentano alcuni risultati che sono *conseguenze* immediate degli *assiomi d
 >
 >Nell'ipotesi che tutti e dieci i PC accedano insieme alla rete, quale è la probabilità che il server abbia assegnato almeno due indirizzi IP identici?
 >
->I casi elementari equiprobabili sono le sequenze ordinate di 10 indirizzi scelti tra i 200 disponibili e corrispondono alle disposizioni con ripetizione di 200 elementi in gruppi di 10, cioè $200^10$.
+>I casi elementari equiprobabili sono le sequenze ordinate di 10 indirizzi scelti tra i 200 disponibili e corrispondono alle disposizioni con ripetizione di 200 elementi in gruppi di 10, cioè $200^{10}$.
 >
 >Poiché le configurazioni favorevoli all'evento complementare "tutti i PC hanno indirizzo diverso" sono date dalle disposizioni semplici di 200 elementi in gruppi di 10, si conclude che $$ 1 - (200!/190!) / (200^{10}) \doteq 0.204 $$ è la probabilità dell'evento cercato.
 

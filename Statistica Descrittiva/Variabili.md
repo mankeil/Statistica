@@ -1,7 +1,7 @@
 Una variabile è una caratteristica delle unità statistiche che, al variare dell'unità, può assumere una pluralità di valori.
 
 Le **modalità** di una variabile sono i valori che essa può assumere (e si presumono noti preliminarmente). Sono, in genere, aggettivi, valori numerici, espressioni verbali.
-Le variabili si indicano con le lettere maiuscole, ad esempio $Y$ , mentre una generica modalità si indica con $y$. L'insieme $Y$ è l'insieme di tutte le possibili modalità di $Y$.  ^b79f53
+Le variabili si indicano con le lettere maiuscole, ad esempio $Y$, mentre una generica modalità si indica con $y$. L'insieme $Y$ è l'insieme di tutte le possibili modalità di $Y$.  ^b79f53
 
 Le variabili si possono classificare nel seguente modo: ^01b594
 ### Variabili qualitative (categoriali)
@@ -25,7 +25,7 @@ La variabile "Reddito" invece è su scala di rapporti. In questo caso ha senso a
 
 ### Variabili statistiche
 
-La variabile $Y$ viene rilevata su una popolazione (campione) costituita da n unità e si ottiene una successione di modalità osservate $(y_1, . . . , y_i, . . . , y_n)$, dove $y_i, i = 1, . . . , n$, è il valore assunto da $Y$ con riferimento all'unità i-esima. 
+La variabile $Y$ viene rilevata su una popolazione (campione) costituita da $n$ unità e si ottiene una successione di modalità osservate $(y_1, . . . , y_i, . . . , y_n)$, dove $y_i, i = 1, . . . , n$, è il valore assunto da $Y$ con riferimento all'unità i-esima. 
 
 È utile distinguere tra variabile e risultato della sua rilevazione sulla popolazione (campione). Si definisce **variabile statistica** la rilevazione $(y_1, . . . , y_i, . . . , y_n)$ di una certa variabile Y su una determinata popolazione (campione).
 È una colonna della matrice dei dati. La stessa variabile rilevata su popolazioni (campioni) diverse dà luogo, in genere, a variabili statistiche differenti. 

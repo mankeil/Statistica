@@ -1,15 +1,19 @@
 Il più importante indice di [[variabilità]] per variabili [[Variabili#Variabili quantitative (numeriche)|quantitative]] è la **varianza**, che si indica con $V(Y)$, con $\sigma^2_Y$ o semplicemente con $\sigma^2$.
 
-Data una variabile statistica $Y$ con [[media aritmetica]] $E(Y)$, si ha $$ V(Y) = [E(Y-E(Y))^2] $$ La varianza è la media aritmetica della variabile scarto $Y-E(Y)$ elevata al quadrato e misura la dispersione dei dati attorno alla media. L'unità di misura è pari a quella dei dati elevata al quadrato.
+Data una variabile statistica $Y$ con [[media aritmetica]] $E(Y)$, si ha $$ V(Y) = E[(Y-E(Y))^2] $$ La varianza è la media aritmetica della variabile scarto $Y-E(Y)$ elevata al quadrato e misura la dispersione dei dati attorno alla media. L'unità di misura è pari a quella dei dati elevata al quadrato.
 
 Per il calcolo di $V(Y)$, si può riprendere quanto detto con riferimento alla media aritmetica.
 
 Lo **scarto quadratico medio** di $Y$, indicato con $\sigma_Y$ o con $\sigma$, è la radice quadrata aritmetica(l'unica positiva) della varianza $$\sigma_Y = \sqrt{V(Y)}$$ è la stessa unità di misura di $Y$. ^af26fa
 
-Se si dispone dei dati grezzi $Y = (y_1,...,y_n)$, e si è preventivamente calcolata $E(Y)$, allora la varianza corrisponde a $$V(Y) = \frac{1}{n} \sum^n_{i=1}(y_i - E(Y))^2$$Se si dispone della distribuzione di frequenza [[Frequenze Assolute|assoluta]] o [[Frequenze Relative|relativa]], $$V(Y) = \frac{1}{n} \sum^J_{j=1}(y_j-E(Y))^2f_j = \sum^J_{j=1}(y_j-E(Y))^2p_j$$ Se si dispone della **distribuzione di frequenza assoluta o relativa con** [[modalità]] **raggruppate in** [[Classi di modalità|classi]] (ad esempio $y_{j-1} \dashv y_j,\ j=1,...,J$) è necessario calcolare il *punto centrale* $y^c_j = (y_{j-1}+y_j)/2,\ j=1,...,J$, delle singole classi.
+Se si dispone dei dati grezzi $Y = (y_1,...,y_n)$, e si è preventivamente calcolata $E(Y)$, allora la varianza corrisponde a $$V(Y) = \frac{1}{n} \sum^n_{i=1}(y_i - E(Y))^2$$
+
+Se si dispone della distribuzione di frequenza [[Frequenze Assolute|assoluta]] o [[Frequenze Relative|relativa]], $$V(Y) = \frac{1}{n} \sum^J_{j=1}(y_j-E(Y))^2f_j = \sum^J_{j=1}(y_j-E(Y))^2p_j$$Dove $J$ è la dimensione del [[supporto di una variabile statistica|supporto]] $S_X$.
+
+Se si dispone della **distribuzione di frequenza assoluta o relativa con** [[modalità]] **raggruppate in** [[Classi di modalità|classi]] (ad esempio $y_{j-1} \dashv y_j,\ j=1,...,J$) è necessario calcolare il *punto centrale* $y^c_j = (y_{j-1}+y_j)/2,\ j=1,...,J$, delle singole classi.
 In questo caso: $$ V(Y) = \frac{1}{n} \sum^J_{j=1}(y^c_j - E(Y))^2 f_j = \sum^J_{j=1}(y^c_j - E(Y))^2 p_j $$ Questa procedura approssimata per il calcolo di $V(Y)$ è equivalente a quella che si definisce quando si dispone dei dati grezzi se le osservazioni in una classe coincidono con il punto centrale della classe.
 
-> [!example] **Esempio**
+> [!example]+ **Esempio**
 Si consideri la seguente tabella di frequenza dalla quale si ricava che $E(Y) = 0.61$
 >
 | $y_j$ | 0 | 1 | 2 | 3 | 4 | Totale |
@@ -17,7 +21,7 @@ Si consideri la seguente tabella di frequenza dalla quale si ricava che $E(Y) = 
 | $f_j$ | 109 | 65 | 22 | 3 | 1 | 200 |
 È immediato concludere che $$ V(Y)=\frac{1}{200}[(0-0.61)^2 \cdot 109 + (1-0.61)^2 \cdot 65 + (2-0.61)^2 \cdot 22$$$$+ (3-0.61)^2 \cdot 3 + (4-0.61)^2 \cdot 1] = 0.608$$ Inoltre, $\sigma_Y = \sqrt{V(Y)} = 0.780$
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 Si consideri la seguente tabella di frequenza con modalità raggruppate in classi
 >
 | Classe | $0 \dashv 10$ | $10 \dashv 15$ | $15 \dashv 20$ | Totale |

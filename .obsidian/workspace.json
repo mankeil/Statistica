@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5db7943ce467bfa1",
+        "id": "2b5e4365e486d80b",
         "type": "tabs",
-        "dimension": 34.6514745308311,
+        "dimension": 42.8475935828877,
         "children": [
           {
-            "id": "edd3bfc3a635647b",
+            "id": "771bc88a40bb7def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,17 +23,17 @@
         ]
       },
       {
-        "id": "3a93f575aa61ac95",
+        "id": "b325d18d075d3a54",
         "type": "tabs",
-        "dimension": 65.3485254691689,
+        "dimension": 57.1524064171123,
         "children": [
           {
-            "id": "b8462af4ff5cdd6e",
+            "id": "c19ccb51db2fd1a2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lucidi & materiale/5_prob_varcasual_L5.pdf"
+                "file": "Lucidi & materiale/compiti_statappl.pdf"
               }
             }
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Internet",
+                "query": "congiunta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,11 +83,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "045c581cf12646b7",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md"
               }
             }
           },
@@ -159,8 +161,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,91 +180,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "53c016f5d35dee18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "baf380942c97d9fe",
-        "type": "window",
-        "children": [
-          {
-            "id": "8af92aea3d0c4174",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "200be030e505302f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Indice.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 60,
-        "y": 130,
-        "width": 601,
-        "height": 820,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "200be030e505302f",
+  "active": "771bc88a40bb7def",
   "lastOpenFiles": [
-    "Appendice/Formula per Integrazione per Parti.md",
-    "Indice.md",
-    "Calcolo delle Probabilità/Variabili Casuali.md",
-    "Calcolo delle Probabilità/Valore Atteso.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-    "Calcolo delle Probabilità/Varianza.md",
-    "Calcolo delle Probabilità/Scarto Medio Assoluto dalla Mediana.md",
-    "Indice di Simmetria e di Curtosi.md",
-    "Statistica Descrittiva/Mediana.md",
-    "Lucidi & materiale/5_prob_varcasual_L5.pdf",
-    "Varie/disambiguazioni/indice di curtosi.md",
-    "Statistica Descrittiva/Regressione Lineare Semplice.md",
-    "Varie/disambiguazioni/indice di simmetria.md",
-    "Calcolo delle Probabilità/Moda.md",
-    "Varie/imgs/Pasted image 20240205191406.png",
-    "Calcolo delle Probabilità/Mediana.md",
-    "Calcolo delle Probabilità/Funzione di Probabilità.md",
-    "Calcolo delle Probabilità/Quantili.md",
-    "Statistica Descrittiva/Istogramma.md",
-    "Glossario/coefficiente binomiale.md",
-    "Domande Rapide/Risposte/Risposta - Tabella di Contingenza.md",
     "Statistica Descrittiva/Tabella di Contingenza.md",
+    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
+    "Glossario/probabilità.md",
+    "Statistica Descrittiva/Frequenze Assolute.md",
+    "Indice.md",
+    "Calcolo delle Probabilità/Esperimenti Aleatori.md",
+    "Calcolo delle Probabilità/Introduzione al Calcolo delle Probabilità.md",
+    "Lucidi & materiale/compiti_statappl.pdf",
+    "Calcolo delle Probabilità/Probabilità Condizionata.md",
+    "Formulario.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Untitled.md",
+    "Calcolo delle Probabilità/Teorema di Bayes.md",
+    "Calcolo delle Probabilità/Evento.md",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT2.pdf",
+    "Calcolo delle Probabilità/Varianza.md",
+    "Glossario/variabilità.md",
+    "Varie/disambiguazioni/varianza.md",
+    "Metodi Pratici/Come produrre un boxplot con R base.md",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT1.pdf",
+    "Statistica Descrittiva/Varianza.md",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT8.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT9.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT7.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT6.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT4.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT5.pdf",
+    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT10.pdf",
+    "readme.md",
+    "Statistica Descrittiva/Frequenze Cumulate.md",
     "Glossario/supporto di una variabile statistica.md",
-    "Glossario/distribuzione di probabilità.md",
-    "Statistica Descrittiva/Frequenze Relative.md",
-    "Glossario/variabile statistica degenere.md",
-    "Calcolo delle Probabilità/Indici Sintetici - Introduzione.md",
-    "Statistica Descrittiva/Poligono di Frequenza.md",
-    "Lucidi & materiale/apexcalculus.pdf",
-    "Appendice",
-    "Lucidi & materiale/Rev 1.pdf",
-    "docs/ghpages/calcolo-delle-probabilità/valore-atteso.html",
+    "Glossario/modalità.md",
+    "Statistica Descrittiva/Variabili.md",
+    "Statistica Descrittiva/Media Aritmetica.md",
+    "Statistica Descrittiva/Mediana.md",
+    "Varie/disambiguazioni/mediana.md",
+    "Varie/imgs/Pasted image 20240205191406.png",
     "docs/ghpages/lib/media/pasted-image-20240201032823.png",
-    "docs/ghpages/calcolo-delle-probabilità/quantili.html",
     "docs/ghpages/lib/media/pasted-image-20240201014736.png",
     "docs/ghpages/lib/media/pasted-image-20240201014314.png",
     "docs/ghpages/lib/media/pasted-image-20240201013921.png",
-    "docs/ghpages/calcolo-delle-probabilità/moda.html",
     "docs/ghpages/lib/media/pasted-image-20240201023031.png",
-    "docs/ghpages/calcolo-delle-probabilità/mediana.html",
-    "docs/ghpages/calcolo-delle-probabilità/indici-sintetici-introduzione.html",
     "docs/ghpages/lib/media/pasted-image-20240201013632.png",
     "Varie/imgs/Pasted image 20240201032823.png",
     "Varie/imgs/Pasted image 20240201023031.png",
     "Varie/imgs/Pasted image 20240201014736.png",
-    "docs/ghpages/lucidi-&-materiale/appendice.pdf",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"

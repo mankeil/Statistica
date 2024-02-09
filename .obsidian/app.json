@@ -12,9 +12,10 @@
     "varie/templates/",
     "Prontocarte/",
     "docs/",
-    "/Glossario/Distribuzione di Probabilità"
+    "/Glossario/Distribuzione di Probabilità",
+    "Formulario"
   ],
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "vimMode": false,
   "promptDelete": false,
   "readableLineLength": true,

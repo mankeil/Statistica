@@ -14,7 +14,7 @@ Valgono inoltre le seguenti proprietà, per le quali si ommettono le dimostrazio
 
 Dalla ultime due proprietà discende che $V(aX+b) = a^2 V(X)$, con $a,b \in \mathbb{R}$.
 
-Inoltre data una variabile casuale $X$, con media $\mu = E(X)$ e varianza $\sigma^2 = V(X)$, la variabile casuale trasformata $$Y \frac{X - \mu}{\sigma}$$è tale che $E(Y) = 0$ e $V(Y) = 1$ ed è detta **variabile casuale standardizzata**.
+Inoltre data una variabile casuale $X$, con media $\mu = E(X)$ e varianza $\sigma^2 = V(X)$, la variabile casuale trasformata $$Y = \frac{X - \mu}{\sigma}$$è tale che $E(Y) = 0$ e $V(Y) = 1$ ed è detta **variabile casuale standardizzata**.
 
 Viceversa, a partire da una variabile casuale $Y$, con $E(Y) = 0$ e $V(Y) = 1$, utilizzando la trasformata $$X = \sigma Y + \mu$$si ottiene una variabile casuale $X$ con prefissati valor medio $\mu$ e varianza $\sigma^2$.
 

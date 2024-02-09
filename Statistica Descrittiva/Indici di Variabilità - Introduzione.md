@@ -30,10 +30,10 @@ I dati riferiti a B sono più dispersi attorno al valore centrale, cioè mostran
 ^f15dac
 
 Si presentano i seguenti **indici di variabilità** utili per [[Variabili#Variabili quantitative (numeriche)|variabili quantitative]]:
-* [[Statistica Descrittiva/Campo di Variazione]]
-* [[Statistica Descrittiva/Scarto Interquartilico]]
+* [[Statistica Descrittiva/Campo di Variazione|Campo di Variazione]]
+* [[Statistica Descrittiva/Scarto Interquartilico|Scarto Interquartilico]]
 * [[Statistica Descrittiva/Varianza|Varianza]] (e **scarto quadratico medio**)
-* [[Statistica Descrittiva/Coefficiente di Variazione]]
+* [[Statistica Descrittiva/Coefficiente di Variazione|Campo di Variazione]]
 
 Non si considerano gli indici di variabilità per [[Variabili#Variabili qualitative (categoriali)|variabili qualitative]], detti anche **indici di mutabilità**.
 

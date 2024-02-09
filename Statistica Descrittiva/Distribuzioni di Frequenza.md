@@ -21,12 +21,12 @@ Le frequenze marginali di $X$ e di $Y$ corrispondono, rispettivamente, ai totali
 
 Le frequenze condizionate di $X$ e di $Y$ corrispondono, rispettivamente, ai valori di colonna e di riga individuati dalle condizioni $Y = y_s$ e $X=x_r$.
 
-Quindi, visivamente sulla tabella di contingenza, in <span style="color:red">rosso</span> la distribuzione marginale di $X$, in <span style="color: dodgerBlue">blu</span> la distribuzione marginale di $Y$, e in <span style="color: LimeGreen">verde</span> le distribuzioni condizionate:
+Quindi, visivamente sulla tabella di contingenza, in <span style="color:red">rosso</span> la distribuzione marginale di $X$, in <span style="color: dodgerBlue">blu</span> la distribuzione marginale di $Y$, in <span style="color: LimeGreen">verde</span> le distribuzioni condizionate, e in <span style="color:Gold">giallo</span> una singola frequenza congiunta:
 ![[Pasted image 20240119170934.png]]
 
 Le **distribuzioni di frequenza relativa** si ottengono dividendo per i corrispondenti totali. In particolare, le distribuzioni congiunta e marginali si dividono per $n$, le distribuzioni condizionate per i totali di riga o colonna corrispondenti alla condizione. ^3f15a9
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Attitudine*([[Studio della Dipendenza#^752de4|continua]]). Con riferimento alla analisi delle attitudini musicale e pittorica, si ottengono le seguenti distribuzioni di frequenza marginale assoluta e relativa
 >![[Pasted image 20240117022315.png]]
 >e le seguenti distribuzioni di frequenza condizionata, assoluta e relativa, di $Y$ dato $X = x_r$

@@ -14,7 +14,7 @@ Se $y_{n/2}$ e $y_{n/2+1}$ non coincidono, la mediana può non essere unica.
 
 Nel caso di variabili quantitative con $n$ pari, si può avere anche un intervallo di valori $[y_{n/2},\ y_{(n/2+1)}]$ che soddisfano la definizione di mediana. In questo caso di può prendere il punto di mezzo come **mediana convenzionale**.
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Voti.* Si consideri la variabile statistica qualitativa ordinale Y che descrive il voto di $n = 5$ studenti, $$Y = (\text{sufficiente, sufficiente, buono, buono, ottimo})$$ Poiché $n$ è dispari, $y_{0.5} = y_{(n+1)/2} = y_3 = \text{buono}$
 >Se invece $$Y = (\text{sufficiente, sufficiente, sufficiente, buono, buono, ottimo})$$ $n$ è pari, quindi $y_{0.5} = y_{n/2} = y_3 = \text{sufficiente}$ e $y_{0.5} = y_{(n/2)+1} = y_4 = \text{buono}$.
 >Infine, se $$Y = (\text{sufficiente, sufficiente, buono, buono, ottimo, ottimo})$$ $n$ è pari, ma $y_{0.5} = y_{n/2} = y_3 = \text{buono}$ e $y_0.5 = y_{n/2+1} = y_4 = \text{buono}$, quindi "buono" è l'unica mediana. 

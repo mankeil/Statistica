@@ -4,7 +4,7 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 ### Le Basi
 [[Variabili]]
 [[Frequenze Assolute]]
-[[Classi di modalità]]
+[[Classi di Modalità]]
 [[Frequenze Relative]]
 [[Frequenze Cumulate]]
 
@@ -21,21 +21,21 @@ Qui si trovano i vari argomenti raggruppati per categoria, secondo l'ordine dett
 [[Boxplot]]
 
 ### Indici Sintetici
-[[Statistica Descrittiva/Indici Sintetici - Introduzione]]
+[[Statistica Descrittiva/Indici Sintetici - Introduzione | Indici Sintetici - Introduzione]]
 [[Media Aritmetica]]
 [[Statistica Descrittiva/Mediana|Mediana]]
 [[Statistica Descrittiva/Quantili|Quantili]]
 [[Statistica Descrittiva/Moda|Moda]]
 
 [[Indici di Variabilità - Introduzione]]
-[[Statistica Descrittiva/Campo di Variazione]]
-[[Statistica Descrittiva/Scarto Interquartilico]]
+[[Statistica Descrittiva/Campo di Variazione|Campo di Variazione]]
+[[Statistica Descrittiva/Scarto Interquartilico|Scarto Interquartilico]]
 [[Statistica Descrittiva/Varianza|Varianza]]
-[[Statistica Descrittiva/Coefficiente di Variazione]]
+[[Statistica Descrittiva/Coefficiente di Variazione|Campo di Variazione]]
 [[Simmetria]]
-[[Statistica Descrittiva/Indice di Simmetria]]
+[[Statistica Descrittiva/Indice di Simmetria|Indice di Simmetria]]
 [[Curtosi]]
-[[Statistica Descrittiva/Indice di Curtosi]]
+[[Statistica Descrittiva/Indice di Curtosi|Indice di Curtosi]]
 ## I-2 Analisi Multivariate
 
 [[Analisi Multivariate - Introduzione]]
@@ -113,8 +113,12 @@ Indici di Variabilità
 # IV Riferimenti Rapidi
 
 ## IV-1 Formulario
-
+[[Formulario]]
 ## IV-2 Metodi Pratici
+### Teoria
+
+### Laboratorio
+[[Come produrre un boxplot con R base]]
 # V Domande Rapide
 (flashcards)
 *Non in alcun ordine particolare*

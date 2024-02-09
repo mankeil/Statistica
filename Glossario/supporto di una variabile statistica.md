@@ -1,4 +1,4 @@
-Il **supporto** di una variabile statistica $Y$, indicato con $S_Y$ , è l'insieme delle modalità di $Y$ effettivamente osservate nella popolazione (campione); 
+Il **supporto** di una variabile statistica $Y$, indicato con $S_Y$, è l'insieme delle modalità di $Y$ effettivamente osservate nella popolazione (campione); 
 $S_Y = {y_1, . . . , y_j , . . . , y_J }$. 
 Si noti che $J \le n$. 
 Le modalità osservate, che concorrono a costituire $S_Y$, sono tra loro distinte, cioè vanno prese una volta sola anche se ripetute. 

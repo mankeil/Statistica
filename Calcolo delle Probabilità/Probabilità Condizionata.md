@@ -6,19 +6,19 @@ La probabilità di $B|A$, chiamata **probabilità condizionata** di $B$ dato $A$
 
 La quantità $P(A)$ al denominatore permette di ristabilire le proporzioni, assicurando la normalizzazione. [^nota]
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Roulette*. Si giocano alla roulette i numeri 7, 23 e 32. Poiché la roulette è suddivisa in 37 settori, numerati da 0 a 36, la probabilità di vincere è $P(B) = 3/37 \doteq 0.081$, con $B = \set{7,23,32}$.
 >
 >Se la roulette fosse truccata in modo che possano uscire soltanto i numeri complessi tra 0 e 15, posto $A = \set{0,...,15}$, la probabilità di vincita corrisponderebbe a $$ P(B|A) = \frac{P(B \cap A)}{P(A)} = \frac{1/37}{16/37} = \frac{1}{16} \doteq 0.062 $$
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Da Wikipedia*
 >Si consideri questo secondo esempio, la probabilità di ottenere "1" con il lancio di un comune dado (evento $B$) ha probabilità $P(B) = 1/6$ di verificarsi. Sapendo però che il risultato del lancio è un numero tra "4", "5" e "6" (evento $A$), la probabilità $B$ diventa $$ P(B|A) = \frac{P(B \cap A)}{P(A)} = \frac{P(B) + P(A) - P(B \cup A)}{P(A)} = \frac{1/6 + 3/6 - 4/6}{3/6} = 0 $$
 
-Dalla [[Probabilità Condizionata#^bacbea|definizione]] di probabilità condizionata si ottiene la **formula della probabilità composta** (**formula di moltiplicazione**) $$ P(B\cap A) = P(A) P(B|A) $$con $A,\ B$ eventi tali che $P(A) \gt 0$. ^3bf48e
+Dalla [[Probabilità Condizionata#^bacbea|definizione]] di probabilità condizionata si ottiene la **formula della probabilità composta** (**formula di moltiplicazione**) $$ P(B\cap A) = P(A) \times P(B) = P(A) P(B|A) $$con $A,\ B$ eventi tali che $P(A) \gt 0$. ^3bf48e
 
 La formula di moltiplicazione si può estendere anche al caso di tre o più eventi. Ad esempio, dati $A_1,\ A_2,\ A_3$, tali che $P(A_1 \cap A_2) \gt 0$, $$ P(A_1 \cap A_2 \cap A_3) = P(A_1)P(A_2|A_1)P(A_3|A_1 \cap A_2)$$  ^a019ca
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Due palline*. Si consideri l'estrazione, senza reinserimento, di due palline da un'urna contenente dieci palline nere e cinque bianche. Si vuole calcolare la probabilità che esca pallina nera in entrambe le estrazioni.
 >
 >Indicati con $A_1$ e $A_2$ gli eventi "esce una pallina nera", rispettivamente alla prima e seconda estrazione, si ha che $P(A_1) = 10/15$ e $P(A_2|A_1) = 9/14$.

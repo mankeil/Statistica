@@ -10,5 +10,7 @@
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@anp-cursor": "pointer"
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "entry-point@@color-scheme-selector": "color-scheme-golden-coffee",
+  "entry-point@@separate-color-scheme": false
 }
