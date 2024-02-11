@@ -1,4 +1,4 @@
-Si parla di **indipendenza statistica** quando tutte le distribuzioni condizionate di $Y$ dato $X = x_r,\ r=1,...,m$, sono uguali e quindi uguali alla [[Distribuzioni di Frequenza#^3f36a4|distribuzione marginale]] di $Y$.
+Si parla di **indipendenza statistica** quando tutte le [[Distribuzioni di Frequenza#^d8cbd3|distribuzioni condizionate]] di $Y$ dato $X = x_r,\ r=1,...,m$, sono uguali e quindi uguali alla [[Distribuzioni di Frequenza#^3f36a4|distribuzione marginale]] di $Y$.
 
 Analoghe considerazioni si possono fare per le distribuzioni condizionate di $X$ dato $Y = y_s,\ s=1,...,k$, e per la [[Distribuzioni di Frequenza#^08c8ee|distribuzione marginale]] di $X$.
 

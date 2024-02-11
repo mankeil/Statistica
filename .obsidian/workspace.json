@@ -6,16 +6,28 @@
       {
         "id": "2b5e4365e486d80b",
         "type": "tabs",
-        "dimension": 42.8475935828877,
+        "dimension": 44.786096256684495,
         "children": [
           {
-            "id": "771bc88a40bb7def",
+            "id": "a48f7552c4f27604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
-                "mode": "preview",
+                "file": "Statistica Inferenziale/Modello Binomiale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58ac76b260aff2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jump table.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,12 +35,42 @@
         ]
       },
       {
-        "id": "b325d18d075d3a54",
+        "id": "dfcd630e526423d3",
         "type": "tabs",
-        "dimension": 57.1524064171123,
+        "dimension": 55.213903743315505,
         "children": [
           {
-            "id": "c19ccb51db2fd1a2",
+            "id": "3ecd7103945bab81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/9_StatInf_verifica_L9.pdf"
+              }
+            }
+          },
+          {
+            "id": "c102f905b0ccb243",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/7_StatInf_statcamp_L7.pdf"
+              }
+            }
+          },
+          {
+            "id": "41718b9971895ed9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/6_prob_modelli_L6.pdf"
+              }
+            }
+          },
+          {
+            "id": "a569bdab780bbf66",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -37,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "congiunta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
+                "file": "Statistica Inferenziale/Modello Binomiale.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md",
+                "file": "Statistica Inferenziale/Modello Binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistica Descrittiva/Distribuzioni di Frequenza.md"
+                "file": "Statistica Inferenziale/Modello Binomiale.md"
               }
             }
           },
@@ -161,7 +203,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,48 +219,48 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "771bc88a40bb7def",
+  "active": "c459c9088e476ab0",
   "lastOpenFiles": [
-    "Statistica Descrittiva/Tabella di Contingenza.md",
-    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
-    "Glossario/probabilità.md",
-    "Statistica Descrittiva/Frequenze Assolute.md",
+    "Statistica Inferenziale/Statistiche Campionarie.md",
+    "Lucidi & materiale/7_StatInf_statcamp_L7.pdf",
     "Indice.md",
-    "Calcolo delle Probabilità/Esperimenti Aleatori.md",
-    "Calcolo delle Probabilità/Introduzione al Calcolo delle Probabilità.md",
+    "Statistica Inferenziale/Modelli Statistici Parametrici.md",
+    "Statistica Inferenziale/Modello Binomiale.md",
+    "jump table.md",
+    "Lucidi & materiale/9_StatInf_verifica_L9.pdf",
+    "Lucidi & materiale/6_prob_modelli_L6.pdf",
+    "Lucidi & materiale/Appendice.pdf",
     "Lucidi & materiale/compiti_statappl.pdf",
-    "Calcolo delle Probabilità/Probabilità Condizionata.md",
-    "Formulario.md",
-    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
-    "Untitled.md",
-    "Calcolo delle Probabilità/Teorema di Bayes.md",
-    "Calcolo delle Probabilità/Evento.md",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT2.pdf",
-    "Calcolo delle Probabilità/Varianza.md",
-    "Glossario/variabilità.md",
-    "Varie/disambiguazioni/varianza.md",
-    "Metodi Pratici/Come produrre un boxplot con R base.md",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT1.pdf",
-    "Statistica Descrittiva/Varianza.md",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT8.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT9.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT7.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT6.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT4.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT5.pdf",
-    "Lucidi & materiale/Lucidi Laboratorio/LAB_STAT10.pdf",
-    "readme.md",
+    "Varie/imgs/Pasted image 20240211004852.png",
+    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
     "Statistica Descrittiva/Frequenze Cumulate.md",
-    "Glossario/supporto di una variabile statistica.md",
-    "Glossario/modalità.md",
+    "Lucidi & materiale/tavole.pdf",
+    "Statistica Descrittiva/Indice di Connessione.md",
+    "Statistica Inferenziale/Campioni Casuali Semplici.md",
+    "Lucidi & materiale/8_StatInf_stima_L8.pdf",
+    "Statistica Inferenziale/Campionamento.md",
+    "Lucidi & materiale/Libri di Testo/Sarah Boslaugh - Statistics in a Nutshell-O'Reilly Media (2012).pdf.lnk",
+    "Lucidi & materiale/Libri di Testo/Sarah Boslaugh - Statistics in a Nutshell-O'Reilly Media (2012).pdf - Shortcut.lnk",
+    "Lucidi & materiale/Libri di Testo/R-intro.pdf",
+    "Statistica Inferenziale/Verifica delle Ipotesi - Introduzione.md",
     "Statistica Descrittiva/Variabili.md",
-    "Statistica Descrittiva/Media Aritmetica.md",
-    "Statistica Descrittiva/Mediana.md",
-    "Varie/disambiguazioni/mediana.md",
+    "Calcolo delle Probabilità/Variabili Casuali.md",
+    "Calcolo delle Probabilità/Coefficiente di Variazione.md",
+    "Formulario.md",
+    "Statistica Inferenziale/Introduzione alla Statistica Inferenziale.md",
+    "Statistica Descrittiva/Tabella di Contingenza.md",
+    "Statistica Descrittiva/Studio della Dipendenza.md",
+    "pear.md",
+    "pearon.md",
+    "readme.md",
+    "Statistica Descrittiva/Indipendenza statistica.md",
+    "Glossario/distribuzione.md",
+    "Domande Rapide/Domanda - Indice di Connessione (1).md",
+    "Domande Rapide/Risposte/Risposta - Indice di Connessione (1).md",
     "Varie/imgs/Pasted image 20240205191406.png",
     "docs/ghpages/lib/media/pasted-image-20240201032823.png",
     "docs/ghpages/lib/media/pasted-image-20240201014736.png",
@@ -227,7 +270,6 @@
     "docs/ghpages/lib/media/pasted-image-20240201013632.png",
     "Varie/imgs/Pasted image 20240201032823.png",
     "Varie/imgs/Pasted image 20240201023031.png",
-    "Varie/imgs/Pasted image 20240201014736.png",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"

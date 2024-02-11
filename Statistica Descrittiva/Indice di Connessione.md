@@ -1,10 +1,14 @@
+---
+aliases:
+  - Test chi quadrato di Pearson
+---
 >[!Summary]+ Sommario
 >L'**indice di connessione** ($\chi^2$) misura quanto le [[frequenze]] osservate in una [[tabella di contingenza]] si discostino da quelle attese in caso di [[indipendenza statistica|indipendenza]] tra due variabili. $\chi^2 = 0$ indica indipendenza completa, valori più alti suggeriscono una connessione tra le variabili. 
 >L'indice **normalizzato**, può avere valori compresi tra 0 e 1, quantifica la forza della dipendenza: 0 implica indipendenza, 1 dipendenza completa.
 >%% > [!formula]-
 >>   $$\begin{gather} \chi^2 = \sum^m_{r=1} \sum^k_{s=1} \frac{(n_{rs}-n^*_{rs})^2}{n^*_{rs}},\ \ n^*_{rs} = \frac{n_{r+}n_{+s}}{n} \\ \chi_{\text{norm}} = \frac{\chi^2}{n \cdot min(m - 1,\ k-1)} \end{gather} $$ %%
 
-La *distanza* fra le [[frequenze]] osservate in una [[tabella di contingenza]] e le frequenze attese nel caso di [[Indipendenza statistica|indipendenza]] è misurata dall'**indice di connessione** $\chi^2$ $$\chi^2 = \sum^m_{r=1} \sum^k_{s=1} \frac{(n_{rs}-n^*_{rs})^2}{n^*_{rs}},\ \ n^*_{rs} = \frac{n_{r+}n_{+s}}{n}$$ dove $n^*_{rs} = (n_{r+}n_{+s})/n$ è la frequenza attesa nel caso di indipendenza.
+La *distanza* fra le [[frequenze]] osservate in una [[tabella di contingenza]] e le frequenze attese nel caso di [[Indipendenza statistica|indipendenza]] è misurata dall'**indice di connessione** $\chi^2$ $$\chi^2 = \sum^m_{r=1} \sum^k_{s=1} \frac{(n_{rs}-n^*_{rs})^2}{n^*_{rs}},\ \ n^*_{rs} = \frac{n_{r+}n_{+s}}{n}$$dove $n^*_{rs} = (n_{r+}n_{+s})/n$ è la frequenza attesa nel caso di indipendenza, e $n_{rs}$ la [[Distribuzioni di Frequenza#^45657d|frequenza congiunta]] alla posizione $r,s$.
 
 L'indice $\chi^2$ vale 0 quando tutte le frequenze osservate coincidono con quelle attese, e quindi vi è **indipendenza fra le due variabili**.
 
@@ -37,6 +41,9 @@ Dal momento che tale valore è lontano dal valore massimo $15 \cdot (3-1) = 30$,
 ***
 Riferimenti:
 [[Lucidi & materiale/3_Statdescr_Multiv_L3.pdf#page=20&selection=10,0,10,21|3_Statdescr_Multiv_L3, page 20]]
+
+Risorse Esterne:
+[Wikipedia - Test Chi Quadrato](https://it.wikipedia.org/wiki/Test_chi_quadrato)
 
 #statistica_descrittiva 
 #statistica_descrittiva/analisi_multivariate 

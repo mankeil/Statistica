@@ -6,6 +6,8 @@ A partire dai dati grezzi si possono determinare le distribuzioni di [[Frequenze
 * **distribuzione marginale**, se si considera la distribuzione di frequenza relativa ad una singola variabile. ^545380
 * **distribuzione condizionata**, se si considera la distribuzione di frequenza relativa ad una singola variabile considerando soltanto le unità statistiche che assumono una determinata modalità dell'altra. ^d8cbd3
 
+(vedere la [[#^45657d|tabella in fondo]] per rappresentazione grafica)
+
 Si può operare allo stesso modo anche se si hanno modalità [[Classi di modalità|raggruppate in classi]].
 
 Una tabella di frequenza è di fatto una distribuzione doppia di frequenza. %% ??? %%
@@ -22,12 +24,18 @@ Le frequenze marginali di $X$ e di $Y$ corrispondono, rispettivamente, ai totali
 Le frequenze condizionate di $X$ e di $Y$ corrispondono, rispettivamente, ai valori di colonna e di riga individuati dalle condizioni $Y = y_s$ e $X=x_r$.
 
 Quindi, visivamente sulla tabella di contingenza, in <span style="color:red">rosso</span> la distribuzione marginale di $X$, in <span style="color: dodgerBlue">blu</span> la distribuzione marginale di $Y$, in <span style="color: LimeGreen">verde</span> le distribuzioni condizionate, e in <span style="color:Gold">giallo</span> una singola frequenza congiunta:
-![[Pasted image 20240119170934.png]]
+![[Pasted image 20240119170934.png]] ^45657d
 
 Le **distribuzioni di frequenza relativa** si ottengono dividendo per i corrispondenti totali. In particolare, le distribuzioni congiunta e marginali si dividono per $n$, le distribuzioni condizionate per i totali di riga o colonna corrispondenti alla condizione. ^3f15a9
 
 >[!example]+ **Esempio**
->*Attitudine*([[Studio della Dipendenza#^752de4|continua]]). Con riferimento alla analisi delle attitudini musicale e pittorica, si ottengono le seguenti distribuzioni di frequenza marginale assoluta e relativa
+>*Attitudine*([[Studio della Dipendenza#^752de4|continua]]).
+>>[!premise]- Contesto:
+>>Attitudine musicale $X$ e pittorica $Y$ di $n = 15$ individui.
+>>S = sufficiente, B = buona, O = Ottima
+>>![[Pasted image 20240117020209.png]]
+>
+>Con riferimento alla analisi delle attitudini musicale e pittorica, si ottengono le seguenti distribuzioni di frequenza marginale assoluta e relativa
 >![[Pasted image 20240117022315.png]]
 >e le seguenti distribuzioni di frequenza condizionata, assoluta e relativa, di $Y$ dato $X = x_r$
 >![[Pasted image 20240117022457.png]]

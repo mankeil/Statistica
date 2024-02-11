@@ -11,70 +11,28 @@
       "query": "tag:#glossario  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
       }
     },
     {
-      "query": "tag:#frequenze  ",
+      "query": "tag:#statistica_inferenziale  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#grafici  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#variabili  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#indici_sintetici/indici_di_variabilità  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#indici_sintetici/indici_di_posizione  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#correlazione  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#dipendenza  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#regressione  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
+        "rgb": 14069084
       }
     },
     {
       "query": "tag:#probabilità  ",
       "color": {
         "a": 1,
-        "rgb": 5431518
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#statistica_descrittiva  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -88,6 +46,6 @@
   "repelStrength": 10.0831600831601,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.29036020226785214,
+  "scale": 0.12476141753891432,
   "close": true
 }

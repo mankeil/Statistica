@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSize": 18,
   "cssTheme": "Ukiyo",
   "nativeMenus": false,
-  "baseFontSizeAction": false,
+  "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "table",
     "customCallout"

@@ -12,5 +12,10 @@
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-cursor": "pointer",
   "entry-point@@color-scheme-selector": "color-scheme-golden-coffee",
-  "entry-point@@separate-color-scheme": false
+  "entry-point@@separate-color-scheme": true,
+  "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-default",
+  "entry-point@@light-mode-color-scheme-selector": "lm-color-scheme-golden-coffee",
+  "entry-point@@smooth-mode": false,
+  "entry-point@@minimal-mode": false,
+  "entry-point@@minimal-sidebar": "sidebar-hover"
 }

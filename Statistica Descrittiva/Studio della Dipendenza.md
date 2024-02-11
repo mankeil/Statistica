@@ -30,7 +30,7 @@ Per un analisi complessiva si possono utilizzare i metodi più generali, propri 
 Si considerano due variabili statistiche $X$ e $Y$ **[[Variabili#Variabili qualitative (categoriali)|qualitative]]** (**categoriali**) e si vuole indagare l'esistenza o meno di associazione (dipendenza) tra le [[modalità]] corrispondenti.
 
 >[!example] **Esempio**
->*Attitudine*. Si analizza l'attitudine musicale $X$ e pittorica $Y$ di $n = 15$ individui con la seguente scala di modalità: suffciente (S), buona (B), ottima (O).
+>*Attitudine*. Si analizza l'attitudine musicale $X$ e pittorica $Y$ di $n = 15$ individui con la seguente scala di modalità: sufficiente (S), buona (B), ottima (O).
 > I dati vengono sintetizzati nella seguente tabella di frequenza congiunta, detta [[Tabella di Contingenza]]
 > ![[Pasted image 20240117020209.png]]
 > Ad esempio, il valore 3 nella prima riga indica che ci sono 3 individui con attitudine musicale sufficiente e attitudine musicale buona.
