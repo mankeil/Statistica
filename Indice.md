@@ -97,7 +97,7 @@ Indici di Variabilità
 [[Condizionamento e Indipendenza]]
 [[Covarianza e Correlazione]]
 ## II-3 Modelli Probabilistici
-[[6.0 Introduzione ai Modelli]]
+[[Introduzione ai Modelli]]
 ### Modelli Discreti
 [[6.1 Modello uniforme discreto]]
 [[Modello Binomiale]]
@@ -112,6 +112,7 @@ Indici di Variabilità
 [[Campioni Casuali Semplici]]
 ### Modelli
 [[Modelli Statistici Parametrici]] (incompleto)
+[[Procedure Inferenziali]]
 
 ### Statistiche Campionarie
 [[Statistiche Campionarie]]

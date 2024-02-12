@@ -7,8 +7,9 @@ Seguendo l'impostazione assiomatica di Kolmogorov, una **misura di probabilità*
 * A2. **assioma di normalizzazione**: $P(\Omega) = 1$; ^71fbeb
 * A3. **assioma di $\sigma-$additività** (additività numerabile): per ogni collezione finita o al più numerale di eventi
 	$A_i$, $i \in I \subseteq \mathbb{N}$, tali che $A_i \cap A_j = \emptyset, i \ne j$, si ha che $P(\bigcup_{i \in I} A_i) = \sum_{i \in I} P(A_i)$. [^nota]
-	  In altre parole, l'unione di una collezione numerabile di eventi disgiunti è la somma delle corrispondenti probabilità. 
-Dall'assioma A3, discende che, se $A \cap B = \emptyset$, allora $P(A \cup B) = P(A)+P(B)$ (additività semplice).
+	  *In altre parole*, la probabilità relativa all'unione di una collezione numerabile di eventi disgiunti è la somma delle corrispondenti probabilità. 
+
+Dall'assioma A3, discende che, *se $A \cap B = \emptyset$, allora $P(A \cup B) = P(A)+P(B)$* (additività semplice).
 
 Un **evento** $A$ tale che **$P(A) = 0$** è detto **trascurabile**.
 Un **evento** $A$ tale che **$P(A) = 1$** è detto **quasi certo**. ^c15cc2

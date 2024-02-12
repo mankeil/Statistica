@@ -1,10 +1,10 @@
-Ogni analisi statistica inferenziale è caratterizzata da una componente di incertezza, poiché i dati campionari $x$ sono interpretati come realizzazione di un vettore casuale $X$.
+Ogni analisi statistica inferenziale è caratterizzata da una componente di incertezza, poiché i [[campionamento|dati campionari]] $x$ sono interpretati come realizzazione di un vettore casuale $X$.
 
 Se si ripete l'esperimento, nelle medesime condizioni, si ottengono dei dati $x^′$, tipicamente diversi da $x$.
 
 Ogni inferenza sulla popolazione (sul parametro di interesse) va accompagnata da una valutazione, in termini di probabilità, sul suo grado di affidabilità/incertezza.
 
-Nell'effettuare una analisi statistica, i dati campionari $x$ non vengono considerati così come sono ma vengono opportunamente sintetizzati.
+Nell'effettuare un analisi statistica, i dati campionari $x$ non vengono considerati così come sono ma vengono opportunamente sintetizzati.
 
 Si chiama **statistica** (**campionaria**) ogni trasformata $T = t(X_1, . . . , X_n)$ che *sintetizza* opportunamente *il campione casuale* $X_1, . . . , X_n$.
 
@@ -28,8 +28,19 @@ Dato un campione casuale $_X1, . . . , X_n$, sono esempi di statistiche campiona
 * i **momenti campionari**, centrati e non centrati, $n^{−1} \sum^n_{i=1} (X_i − \bar X_n)^r,\ n^{−1} \sum^n_{i=1} X^r_i,\ r \in \mathbb{N}^+$.
 Nel seguito, oltre che definire le sintesi campionarie $S_n,\ \bar X_n,\ S^2$ e $S^2_c$, si presenteranno le loro proprietà, considerando opportuni risultati di calcolo delle probabilità.
 
-esempi
-
+>[!example] **Esempio**
+>*Campioni gaussiani*. Sia $X_1, . . . , X_n$ un campione casuale semplice tratto da una popolazione normale, cioè $X_i \sim N (μ, σ^2),\ i = 1, . . . , n$. Si è interessati al parametro $θ = μ$ (*media della popolazione*) ed è ragionevole considerare, come sintesi del campione, la media campionaria $\bar X_n = (1/n) \sim^n_{i=1} X_i$ (*media del campione*). 
+>
+>Si ripete per due volte l'esperimento e si osservano i vettori: $$ \begin{gather} 
+>x = (−0.89, −0.66, 0.93, 2.42, −2.29, −1.39, −0.86, 0.20, 1.96, −0.59, −1.36, −0.11, 0.52, 1.17, 0.13), \\ 
+>x^′ = (−0.19, −1.52, 2.80, −0.17, −0.30, −0.02, 0.07, 1.69, −1.53, −2.74, −1.03, −0.88, 0.21, 0.18, −1.17).
+\end{gather}$$ I due campioni osservati $x$ e $x^′$ sono diversi e danno origine a due realizzazioni diverse per la media campionaria: rispettivamente, $\sum^{15}_{i=1} x_i/15 = −0.05$ e $\sum^{15}_{i=1} x^{'}_i/15 = −0.31$.
+>
+Si determinano gli istogrammi delle frequenze relative riferiti ai campioni osservati $x$ e $x^′$.
+![[Pasted image 20240211021804.png]]
+Dalla analisi degli istogrammi si può ragionevolmente confermare che $x$ e $x^′$ provengono dalla medesima popolazione.
+>
+Quindi, nei due casi, l'inferenza su $μ$ porterà a conclusioni simili, anche se non uguali per effetto della variabilità campionaria.
 
 ***
 Riferimenti:

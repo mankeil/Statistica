@@ -10,13 +10,13 @@ Lo schema che caratterizza il campionamento casuale semplice verrà esteso consi
 
 Come evidenziato in precedenza, se non specificato diversamente, si assumerà di disporre di un campione casuale semplice, ottenuto selezionando le unità mediante estrazioni con reinserimento o con procedure che sono di fatto ad essa equivalenti.
 
-Infatti, poiché solitamente si prenderanno in esame popolazioni virtuali (infinite) o reali (finite) molto numerose, considerare campioni con reinserimento o senza reinserimento (in blocco) non porta a dierenze sostanziali nella trattazione.
+Infatti, poiché solitamente si prenderanno in esame popolazioni virtuali (infinite) o reali (finite) molto numerose, considerare campioni con reinserimento o senza reinserimento (in blocco) non porta a differenze sostanziali nella trattazione.
 
 Alla luce di quanto detto, i **dati osservati** (che costituiscono il **campione osservato**) $x = (x_1, . . . , x_n),\ n \ge 1$, sono riferiti ad una caratteristica di interesse, rilevata sulle n unità statistiche che costituiscono il campione; in particolare, $x_i,\ i = 1, . . . , n$, indica l'osservazione effettuata sulla $i$-esima unità statistica. 
 
-L'**ipotesi fondamentale** su cui poggia l'inferenza statistica è che i dati campionari $x$ sono una realizzazione di un **vettore di variabili casuali** $X = (X_1, . . . , X_n)$.
+L'**ipotesi fondamentale** su cui poggia l'inferenza statistica è che i dati campionari $x$ sono una realizzazione di un **vettore di [[variabili casuali]]** $X = (X_1, . . . , X_n)$.
 
-Questa ipotesi tiene conto del fatto che si è estratto uno tra i molti possibili campioni e che quindi siamo in presenza di un *esperimento aleatorio*. 
+Questa ipotesi tiene conto del fatto che si è estratto uno tra i molti possibili campioni e che quindi siamo in presenza di un *[[Esperimenti Aleatori|esperimento aleatorio]]*. 
 
 La [[distribuzione di probabilità]] di $X$ è, almeno in parte, ignota e si utilizza l'informazione ricavabile dai dati per ottenerne una ricostruzione. 
 

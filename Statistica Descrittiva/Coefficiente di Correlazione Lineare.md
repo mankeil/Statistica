@@ -11,7 +11,7 @@ Il valore assoluto $|\rho_{XY}|$ indica la *forza* del legame lineare.
 
 L'incorrelazione è una forma di indipendenza è una forma più debole dell'[[indipendenza statistica]]: la seconda implica la prima, ma non vale necessariamente il viceversa. ^4f77fa
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Velocità* ([[Diagramma di Dispersione#^cc968a|continua]]). Si considerano i dati sulla velocità $X$ e sullo spazio di frenata $Y$ di automobili degli anni 20.
 >![[Pasted image 20240116142355.png]]
 >Si ha $\rho_{XY} = 0.81$, che indica un significativo legame lineare positivo.
@@ -24,7 +24,7 @@ Nel grafico seguente si rappresentano punti $(x_i, y_i),\ i=1,...,n$, tali che $
 Tra $X$ e $Y$ c'è un *legame quadratico* perfetto, che il coefficiente di correlazione lineare, che vale 0.12, non misura.
 ![[Pasted image 20240118023438.png]] Il coefficiente di correlazione lineare è influenzato dalla presenza di valori anomali.
 
->[!example] **Esempio**
+>[!example]+ **Esempio**
 >*Molla* ([[Studio della Dipendenza#^7dbcdc|continua]]). Si considerano i dati sulla lunghezza della molla $Y$ e sugli $n = 20$ pesi $X$ a cui viene sottoposta.
 >Dai dati riportati nella tabella rappresentata in precedenza si ha che $$ \begin{gathered} E(X) = 1.9,\ E(Y)=5.388,\ V(X)=1.33, \\ V(Y) = 0.059,\ Cov(X,Y)=0.272 \end{gathered} $$ Da cui si ottiene che $$ \rho_{XY} = 0.272 \sqrt{1.33 \cdot 0.059} = 0.97 $$ valore che indica una correlazione positiva molto forte tra $X$ e $Y$.
 >Se al posto dell'osservazione $(x_{19}, y_{19}) = (3.6, 5.68)$, si avesse il valore anomalo (outlier) $(x_{19}, y_{19}) = (3.6, 5.01)$, il coefficiente di correlazione lineare, che risente della presenza di valori anomali, risulterebbe pari a 0.76.

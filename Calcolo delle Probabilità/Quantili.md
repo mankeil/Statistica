@@ -1,3 +1,7 @@
+---
+aliases:
+  - quantile di livello α
+---
 Sia $\alpha \in (0,1)$, si chiama **quantile di livello $\alpha$** della [[distribuzione di probabilità]] di $X$, o più semplicemente quantile di livello $\alpha$ di $X$, indicato con $x_\alpha$, quel valore $x_a \in \mathbb{R}$ tale che $$\begin{gather} P(X \le x_\alpha) \ge \alpha & \text{e} & P(X \ge x_\alpha) \ge 1-\alpha.\end{gather} $$Quindi, a meno di effetti legati alla discretezza, $x_\alpha$ ripartisce la massa unitaria di probabilità lasciando una porzione pari ad $\alpha$ alla propria sinistra e pari a $1 - \alpha$ alla propria destra.
 
 Può non essere unico e, in alcuni casi, può corrispondere anche ad un intervallo di valori reali.

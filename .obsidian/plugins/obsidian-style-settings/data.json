@@ -17,5 +17,6 @@
   "entry-point@@light-mode-color-scheme-selector": "lm-color-scheme-golden-coffee",
   "entry-point@@smooth-mode": false,
   "entry-point@@minimal-mode": false,
-  "entry-point@@minimal-sidebar": "sidebar-hover"
+  "entry-point@@minimal-sidebar": "sidebar-hover",
+  "entry-point@@minimal-workspace-root-tabs": "root-tabs-show"
 }

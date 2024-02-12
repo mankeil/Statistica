@@ -6,7 +6,7 @@
       {
         "id": "2b5e4365e486d80b",
         "type": "tabs",
-        "dimension": 44.786096256684495,
+        "dimension": 36.163101604278076,
         "children": [
           {
             "id": "a48f7552c4f27604",
@@ -14,30 +14,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistica Inferenziale/Modello Binomiale.md",
+                "file": "Statistica Inferenziale/Modelli Statistici Parametrici.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2edfc621aa6012d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procedure Inferenziali.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b58ac76b260aff2b",
+            "id": "db66b9550ff7f3e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jump table.md",
-                "mode": "source",
+                "file": "Indice.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "dfcd630e526423d3",
         "type": "tabs",
-        "dimension": 55.213903743315505,
+        "dimension": 63.83689839572193,
         "children": [
           {
             "id": "3ecd7103945bab81",
@@ -46,16 +59,6 @@
               "type": "pdf",
               "state": {
                 "file": "Lucidi & materiale/9_StatInf_verifica_L9.pdf"
-              }
-            }
-          },
-          {
-            "id": "c102f905b0ccb243",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lucidi & materiale/7_StatInf_statcamp_L7.pdf"
               }
             }
           },
@@ -78,9 +81,29 @@
                 "file": "Lucidi & materiale/compiti_statappl.pdf"
               }
             }
+          },
+          {
+            "id": "2eb40e71beabcb8a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/7_StatInf_statcamp_L7.pdf"
+              }
+            }
+          },
+          {
+            "id": "3cfb23eae65d999d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lucidi & materiale/tavole.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistica Inferenziale/Modello Binomiale.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistica Inferenziale/Modello Binomiale.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistica Inferenziale/Modello Binomiale.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -223,44 +246,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c459c9088e476ab0",
+  "active": "db66b9550ff7f3e2",
   "lastOpenFiles": [
-    "Statistica Inferenziale/Statistiche Campionarie.md",
+    "Procedure Inferenziali.md",
     "Lucidi & materiale/7_StatInf_statcamp_L7.pdf",
-    "Indice.md",
     "Statistica Inferenziale/Modelli Statistici Parametrici.md",
-    "Statistica Inferenziale/Modello Binomiale.md",
-    "jump table.md",
-    "Lucidi & materiale/9_StatInf_verifica_L9.pdf",
-    "Lucidi & materiale/6_prob_modelli_L6.pdf",
-    "Lucidi & materiale/Appendice.pdf",
+    "Indice.md",
+    "Statistica Inferenziale/Statistiche Campionarie.md",
     "Lucidi & materiale/compiti_statappl.pdf",
-    "Varie/imgs/Pasted image 20240211004852.png",
-    "Statistica Descrittiva/Distribuzioni di Frequenza.md",
-    "Statistica Descrittiva/Frequenze Cumulate.md",
-    "Lucidi & materiale/tavole.pdf",
-    "Statistica Descrittiva/Indice di Connessione.md",
-    "Statistica Inferenziale/Campioni Casuali Semplici.md",
+    "Lucidi & materiale/6_prob_modelli_L6.pdf",
+    "Lucidi & materiale/9_StatInf_verifica_L9.pdf",
+    "Glossario/spazio parametrico.md",
+    "Statistica Descrittiva/Istogramma.md",
+    "Statistica Descrittiva/Stima della Densità.md",
+    "Calcolo delle Probabilità/Quantili.md",
+    "Modelli Statistici Parametrici.md",
     "Lucidi & materiale/8_StatInf_stima_L8.pdf",
+    "Varie/disambiguazioni/quantili.md",
+    "Calcolo delle Probabilità/Assiomi di Kolmogorov.md",
+    "Statistica Inferenziale/Campioni Casuali Semplici.md",
+    "Modello Poisson.md",
+    "Statistica Descrittiva/Coefficiente di Correlazione Lineare.md",
+    "Untitled 1.md",
+    "Lucidi & materiale/tavole.pdf",
+    "Lucidi & materiale/Libri di Testo/OpenIntro Statistics.pdf",
+    "Statistica Inferenziale/Introduzione alla Statistica Inferenziale.md",
+    "Calcolo delle Probabilità/Introduzione ai Modelli.md",
+    "6.0 Introduzione ai Modelli.md",
+    "jump table.md",
+    "6 Modelli/6.0 Introduzione ai Modelli.md",
+    "Varie/templates/Esempio.md",
+    "Calcolo delle Probabilità/Valore Atteso.md",
+    "Calcolo delle Probabilità/Covarianza e Correlazione.md",
+    "Statistica Inferenziale/Modello Binomiale.md",
     "Statistica Inferenziale/Campionamento.md",
+    "Varie/imgs/Pasted image 20240211021804.png",
+    "Lucidi & materiale/Appendice.pdf",
+    "Varie/imgs/Pasted image 20240211004852.png",
     "Lucidi & materiale/Libri di Testo/Sarah Boslaugh - Statistics in a Nutshell-O'Reilly Media (2012).pdf.lnk",
     "Lucidi & materiale/Libri di Testo/Sarah Boslaugh - Statistics in a Nutshell-O'Reilly Media (2012).pdf - Shortcut.lnk",
-    "Lucidi & materiale/Libri di Testo/R-intro.pdf",
-    "Statistica Inferenziale/Verifica delle Ipotesi - Introduzione.md",
-    "Statistica Descrittiva/Variabili.md",
-    "Calcolo delle Probabilità/Variabili Casuali.md",
-    "Calcolo delle Probabilità/Coefficiente di Variazione.md",
-    "Formulario.md",
-    "Statistica Inferenziale/Introduzione alla Statistica Inferenziale.md",
-    "Statistica Descrittiva/Tabella di Contingenza.md",
-    "Statistica Descrittiva/Studio della Dipendenza.md",
-    "pear.md",
-    "pearon.md",
-    "readme.md",
-    "Statistica Descrittiva/Indipendenza statistica.md",
-    "Glossario/distribuzione.md",
-    "Domande Rapide/Domanda - Indice di Connessione (1).md",
-    "Domande Rapide/Risposte/Risposta - Indice di Connessione (1).md",
     "Varie/imgs/Pasted image 20240205191406.png",
     "docs/ghpages/lib/media/pasted-image-20240201032823.png",
     "docs/ghpages/lib/media/pasted-image-20240201014736.png",
@@ -269,7 +293,6 @@
     "docs/ghpages/lib/media/pasted-image-20240201023031.png",
     "docs/ghpages/lib/media/pasted-image-20240201013632.png",
     "Varie/imgs/Pasted image 20240201032823.png",
-    "Varie/imgs/Pasted image 20240201023031.png",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Untitled.canvas"
